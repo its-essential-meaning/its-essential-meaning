@@ -1,0 +1,30 @@
+= The Buddha’s Teaching
+R.G. de S. Wettimuny
+v0.1.0, 2017-09-26
+:booktitle: The Buddha’s Teaching
+:revdate: 2017-09-26
+:description: Its Essential Meaning
+:doctype: book
+:creator: {author}
+:lang: en
+:keywords: Dhamma, Wettimuny
+:copyright: CC-BY-NC-ND 4.0
+:imagesdir: assets/photos/92dpi-ebook-sRGB
+:includes: manuscript/asciidoc
+:front-cover-image: image:desktop-cover.png[Front Cover,600,800]
+:toc: left
+:toc-title: Contents
+:toclevels: 0
+
+include::{includes}/preface.adoc[]
+
+include::{includes}/opening.adoc[]
+
+include::{includes}/titlepage.adoc[]
+
+include::{includes}/01-grasping.adoc[]
+
+include::{includes}/glossary.adoc[]
+
+include::{includes}/copyright.adoc[]
+
