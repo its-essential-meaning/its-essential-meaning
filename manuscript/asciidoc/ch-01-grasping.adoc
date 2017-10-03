@@ -18,11 +18,11 @@ Thus the Buddha teaches me that I comprise five groups or aggregates of
 Grasping. The Pali word _upādāna_ has been translated here as
 __Grasping__. It may also be translated as __Holding__.
 
+[quote, "SN III, Khandha Saṃyutta, Upāya Vagga, Sutta No. 4."]
 ____
 “And what, monks, is Form (__rūpa__)? The Four Primary Modes
 (__dhātu__), and the Form that is present by grasping (__upādāya__) the
-Four Primary Modes – this, monks, is called Form.”footnote:[SN III,
-Khandha Saṃyutta, Upāya Vagga, Sutta No. 4.]
+Four Primary Modes – this, monks, is called Form.”
 ____
 
 The Four Primary Modes mentioned here are the Earth-Mode, Water-Mode,
@@ -36,7 +36,7 @@ constitute this ‘matter’. They refer to four distinguishable general
 __modes of behaviour__, according to which ‘matter’ makes itself known.
 The most important group of behaviours to me is that which I refer to as
 ‘my body’ – “this material body made up of the Four Primary Modes”
-(__kāyo rūpī catummahābhūtiko__).footnote:[MN 74.]
+(__kāyo rūpī catummahābhūtiko__, MN 74).
 
 ____
 “And what, monks, is Feeling (__vedanā__)? It is these six
@@ -53,6 +53,7 @@ Contact is the _coming together_ of three things, the sense-base (eye,
 ear, etc.), the corresponding percept (sight, sound, etc.), and the kind
 of Consciousness involved (eye-consciousness, ear-consciousness, etc.).
 
+[quote, "SN III, Khandha Sayutta, Upāya Vagga, Sutta No. 4."]
 ____
 “And what, monks, is Perception (__saññā__)? It is these six
 perception-groups namely: sight-perception, sound-perception,
@@ -68,28 +69,37 @@ intention with regard to ideas. These, monks are called Determinations.”
 “And what, monks, is Consciousness (__viññāna__)? It is these six
 consciousness-groups, namely: eye-consciousness, ear-consciousness,
 nose-consciousness, tongue-consciousness, body-consciousness,
-mind-consciousness. This, monks, is called Consciousness.”footnote:[SN
-III, Khandha Sayutta, Upāya Vagga, Sutta No. 4.]
+mind-consciousness. This, monks, is called Consciousness.”
 ____
 
 The personality is thus analysed and broken up into its constituent
 parts. My entire being is composed of them. Beyond them there is naught
 else for me. _My world_ is the totality of these Five Grasping Groups.
-They constitute __my world__.
+They constitute _my world_.
 
 None of these Groups can however exist by itself separated from the
 others. They are inseparable, and of their inseparability the Venerable
-Sāriputta says: “Whatever, friend, there exists of Feeling, of
+Sāriputta says:
+
+[quote, "MN 43"]
+____
+“Whatever, friend, there exists of Feeling, of
 Perception, and of Consciousness, these things are associated and not
 dissociated, and it is impossible to dissociate one from the other and
 show their differences. For, whatever one feels, one perceives and
-whatever one perceives, of that one is conscious.”footnote:[? MN 43.]
-Then again we have the Buddha teaching: “Were one, monks, to declare
+whatever one perceives, of that one is conscious.”
+____
+
+Then again we have the Buddha teaching:
+
+[quote, "SN III, Khandha Sayutta, Upāya Vagga, Sutta No. 1."]
+____
+“Were one, monks, to declare
 thus: ‘Apart from Form, apart from Feeling, apart from Perception, apart
 from Determinations, I will show the coming, or the going, or the
 disappearance, or the appearance, or the growth, or the increase, or the
-abundance of Consciousness’ – that is not possible.”footnote:[SN III,
-Khandha Sayutta, Upāya Vagga, Sutta No. 1.]
+abundance of Consciousness’ – that is not possible.”
+____
 
 Before proceeding any further it is extremely important to understand
 clearly what the Buddha defines as Grasping (__upādāna__), or as
