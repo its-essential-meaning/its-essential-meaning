@@ -7,7 +7,7 @@
 # 4. convert to MOBI with kindlegen
 
 MAIN_ADOC="main.adoc"
-NAME="prophecy"
+NAME="essential"
 
 # no trailing slash
 OUT_DIR=output

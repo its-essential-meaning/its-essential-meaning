@@ -6,7 +6,7 @@
 # 3. zip back to EPUB
 
 MAIN_ADOC="main.adoc"
-NAME="prophecy"
+NAME="essential"
 
 # no trailing slash
 OUT_DIR=output
