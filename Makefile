@@ -31,6 +31,9 @@ chapters-to-asciidoc:
 chapters-to-docx:
 	./helpers/chapters_to_docx.sh
 
+stylus-watch:
+	stylus -w ./vendor/asciidoctor-epub3/assets/styles/*.styl -o ./vendor/asciidoctor-epub3/data/styles/
+
 clean:
 	+rm -fv $(FILE).{dvi,ps,pdf,aux,log,bbl,blg}
 
