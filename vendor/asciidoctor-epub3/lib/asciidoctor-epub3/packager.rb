@@ -135,7 +135,7 @@ module GepubBuilderMixin
           width, height = 1050, 1600
         end
       else
-        warn %(asciidoctor: ERROR: front cover image not found or readable: #{image_path})
+        warn %(asciidoctor: ERROR: #{::File.basename(doc.attr 'docfile')}: front cover image not found or readable: #{::File.expand_path image_path, workdir})
         image_path = nil
       end
     end
@@ -238,7 +238,7 @@ body > svg {
         elsif ::File.readable? image_path
           file image_path
         else
-          warn %(asciidoctor: ERROR: image not found or not readable: #{image_path})
+          warn %(asciidoctor: ERROR: #{::File.basename(image.document.attr 'docfile')}: image not found or not readable: #{::File.expand_path image_path, workdir})
         end
       end
     end
@@ -422,8 +422,10 @@ body > svg {
 
     # match CSS font urls in the forms of:
     # src: url(../fonts/notoserif-regular-latin.ttf);
+    # src: url("../fonts/notoserif-regular-latin.ttf");
     # src: url(../fonts/notoserif-regular-latin.ttf) format("truetype");
-    font_list = font_css.scan(/url\(\.\.\/([^)]+\.ttf)\)/).flatten
+    # src: url("../fonts/notoserif-regular-latin.ttf") format("truetype");
+    font_list = font_css.scan(/url\("*\.\.\/([^)]+\.ttf)"*\)/).flatten
 
     return [font_list, font_css.to_ios]
   end
@@ -576,10 +578,6 @@ class Packager
 
       if doc.attr? 'copyright'
         rights(doc.attr 'copyright')
-      end
-
-      if doc.attr? 'isbn'
-        isbn(doc.attr 'isbn')
       end
 
       #add_metadata 'ibooks:specified-fonts', true
