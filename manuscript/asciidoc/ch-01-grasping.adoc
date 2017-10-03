@@ -1,6 +1,7 @@
 [[grasping]]
 = Grasping
 
+[quote, MN 44]
 ____
 “‘Person! Person!’ (__sakkāya__), Venerable One, it is said. But what is
 it that the Exalted One has called the ‘person’?”
@@ -10,7 +11,7 @@ the Exalted One called the ‘person’, namely: the Grasping Group of Form,
 the Grasping Group of Feeling, the Grasping Group of Perception, the
 Grasping Group of Determinations, the Grasping Group of Consciousness.
 These Five Grasping Groups, friend Visakha, has the Exalted One called
-the ‘person’.”footnote:[MN 44.]
+the ‘person’.”
 ____
 
 Thus the Buddha teaches me that I comprise five groups or aggregates of
