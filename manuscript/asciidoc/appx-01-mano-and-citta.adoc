@@ -1,6 +1,5 @@
 [[appendix]]
-Appendix
---------
+= Appendix
 
 [[ii.-mano-and-citta]]
 II. _Mano_ and _Citta_

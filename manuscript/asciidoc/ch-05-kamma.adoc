@@ -1,14 +1,13 @@
 [[kamma]]
-Kamma
------
+= Kamma
 
 It is useful to discuss briefly the subject of intentional action once
 again.
 
+[quote, "Anguttara Nikāya III, Chakka Nipāta, Mahā Vagga, Sutta No. 9."]
 ____
 “Intention, monks, I declare is __kamma__. Having intended, one does
-_kamma_ through body, speech, and mind.”footnote:[Anguttara Nikāya III,
-Chakka Nipāta, Mahā Vagga, Sutta No. 9.]
+_kamma_ through body, speech, and mind.”
 ____
 
 This statement of the Buddha is not quite as simple as it is usually

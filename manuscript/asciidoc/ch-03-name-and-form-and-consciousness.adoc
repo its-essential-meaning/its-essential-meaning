@@ -1,6 +1,5 @@
 [[name-and-form-and-consciousness]]
-Name-and-Form and Consciousness
--------------------------------
+= Name-and-Form and Consciousness
 
 When Consciousness is explained as something that arises and ceases, the
 question follows: What are the conditions necessary for the arising of
@@ -9,11 +8,12 @@ Consciousness, and its ceasing?
 To this, the Buddha gives the answer: Name-and-Form (__nāma-rūpa__) is
 the basis, the genesis, the condition for Consciousness.
 
+[quote, DN 14]
 ____
 “What being present is Consciousness present? Dependent on what does
 Consciousness exist?” The answer is: “Name-and-Form being present, there
 is Consciousness. Dependent on Name-and-Form, Consciousness
-exists.”footnote:[Dīgha Nikāya 14.]
+exists.”
 ____
 
 Thus the condition necessary for the arising of Consciousness is
@@ -22,11 +22,15 @@ Name-and-Form.
 Again, “What being present is Name-and-Form present? Dependent on what
 does Name-and-Form exist?” The answer is: “Consciousness being present,
 there is Name-and-Form. Dependent on Consciousness, Name-and-Form
-exists.”footnote:[Dīgha Nikāya 14.]
+exists.”^DN 14^
 
 Thus the condition for Consciousness is Name-and-Form, and the condition
-for Name-and-Form is Consciousness. “Consciousness turns back from
-Name-and-Form; it goes not beyond.” footnote:[Dīgha Nikāya 14.]
+for Name-and-Form is Consciousness.
+
+[quote, DN 14]
+____
+“Consciousness turns back from Name-and-Form; it goes not beyond.”
+____
 
 All this needs explaining.
 

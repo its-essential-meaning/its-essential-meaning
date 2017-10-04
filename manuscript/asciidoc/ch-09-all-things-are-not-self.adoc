@@ -1,6 +1,5 @@
 [[all-things-are-not-self]]
-All Things Are Not Self
------------------------
+= All Things Are Not Self
 
 The Buddha shows that a thing is impermanent by showing that the
 necessary condition (or the __saṅkhāra__) upon which the thing depends

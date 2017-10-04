@@ -1,6 +1,5 @@
 [[consciousness]]
-Consciousness
--------------
+= Consciousness
 
 In the elucidation of the Five Grasping Groups, Consciousness takes the
 pride of place. The reason for that is that any _experience_ means
@@ -31,6 +30,7 @@ Grasping-Consciousness (__upādāna-viññāna__).
 
 Without sufficient reason, the Buddha says, no Consciousness arises.
 
+[quote, MN 38]
 ____
 “Consciousness, monks, is named after that in dependence on which it
 comes into being.
@@ -58,12 +58,13 @@ husk-fire; the fire that burns in dependence on rubbish is called a
 rubbish-fire. In the same way, monks, Consciousness is named after that
 in dependence on which it comes into being. The Consciousness that comes
 into being in respect of sights in dependence on the eye is called
-eye-consciousness …”footnote:[Majjhima Nikāya 38.]
+eye-consciousness …”
 ____
 
 The four Groups, Form, Feeling, Perception, Determinations, are called
 the supports, or the footholds, or the base, for Consciousness.
 
+[quote, "SN III, Khandha Samyutta, Upāya Vagga, Sutta No. 2."]
 ____
 "There are these five kinds of seed, monks. What five? Seed from root,
 seed from trunk, seed from joints, seed from shoots, and seed from
@@ -101,7 +102,7 @@ delight, it attains to growth, spread and increase.
 
 If Consciousness persists, monks, it is by holding to Feeling …
 Perception … Determinations … that it attains to growth, spread and
-increase."footnote:[SN III, Khandha Samyutta, Upāya Vagga, Sutta No. 2.]
+increase."
 ____
 
 The footholds for Consciousness can be viewed from a second angle. That
