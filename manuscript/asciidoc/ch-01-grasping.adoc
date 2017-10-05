@@ -3,8 +3,8 @@
 
 [quote, MN 44]
 ____
-“‘Person! Person!’ (__sakkāya__), Venerable One, it is said. But what is
-it that the Exalted One has called the ‘person’?”
+"`'`Person! Person!`' (__sakkāya__), Venerable One, it is said. But what is
+it that the Exalted One has called the '`person`'?`"
 
 “These Five Grasping Groups (__upādāna-kkhandhā__), friend Visakha, has
 the Exalted One called the ‘person’, namely: the Grasping Group of Form,
@@ -18,7 +18,9 @@ Thus the Buddha teaches me that I comprise five groups or aggregates of
 Grasping. The Pali word _upādāna_ has been translated here as
 __Grasping__. It may also be translated as __Holding__.
 
-[quote, "SN III, Khandha Saṃyutta, Upāya Vagga, Sutta No. 4."]
+// https://suttacentral.net/pi/sn22.56#3
+
+[quote, SN 22.56]
 ____
 “And what, monks, is Form (__rūpa__)? The Four Primary Modes
 (__dhātu__), and the Form that is present by grasping (__upādāya__) the
@@ -36,7 +38,7 @@ constitute this ‘matter’. They refer to four distinguishable general
 __modes of behaviour__, according to which ‘matter’ makes itself known.
 The most important group of behaviours to me is that which I refer to as
 ‘my body’ – “this material body made up of the Four Primary Modes”
-(__kāyo rūpī catummahābhūtiko__, MN 74).
+(__kāyo rūpī catummahābhūtiko__^MN{nbsp}74^).
 
 ____
 “And what, monks, is Feeling (__vedanā__)? It is these six

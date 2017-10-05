@@ -1,9 +1,11 @@
 [[a-note-on-the-four-applications-of-mindfulness]]
 = A Note on the Four Applications of Mindfulness
 
-[[cattāro-satipaṭṭhānā]]
-(__Cattāro Satipaṭṭhānā__)
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+// TODO subtitle
+
+__Cattāro Satipaṭṭhānā__
+
+// TODO note: DN 22, MN 10
 
 The actual way of living out the Noble Eightfold Path for the
 development of Wisdom and therewith gaining deliverance from Suffering,
@@ -23,12 +25,6 @@ dhammānupassī viharati__)footnote:[Dīgha Nikaya 22. Also, Majjhima
 Nikāya 10.], and this abiding is defined as understanding or knowing as
 it really is (__yathābhūtaṁ pajānāti__), This means that the individual
 practising it is one who is __seeing__.
-
-[[this-footnote-actually-has-no-numbered-reference-in-the-text-but-it-is-presumably-referring-to-either-to-the-chapter-title-or-more-probably-to-dhammesu-dhammanupassi-viharati]]
-*this footnote actually has no numbered reference in the text, but it is
-presumably referring to either to the chapter title or, more probably,
-to 'dhammesu dhammanupassi viharati'*
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Further, the _Sutta_ says that if the _Satipaṭṭhānā_ is practised for
 between seven years to seven days the individual so practising it can

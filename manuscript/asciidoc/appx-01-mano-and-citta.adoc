@@ -1,9 +1,7 @@
 [[appendix]]
 = Appendix
 
-[[ii.-mano-and-citta]]
-II. _Mano_ and _Citta_
-~~~~~~~~~~~~~~~~~~~~~~
+== I. _Mano_ and _Citta_
 
 a.  The English word 'mind' is rather carelessly used to denote the Pali
 terms _mano_ and __citta__. __Mano__, in strict terminology, refers to a
@@ -49,9 +47,7 @@ There is also no justification for reckoning _citta_ to be the same as
 __viññāna__. _Citta_ involves __viññāna__. But that does not mean it is
 the same as __viññāna__.
 
-[[ii.-manosankhara-and-cittasankhara]]
-II. _Manosankhara_ and _Cittasankhara_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+== II. _Manosankhara_ and _Cittasankhara_
 
 In the _Kukkuravatiya Sutta_ (__Majjhima Nikāya 57__) and else where we
 get the triad __kāyasaṅkhāra__, _vacīsaṅkhāra_ and _manosaṅkhāra_ as
@@ -66,9 +62,7 @@ Sutta No. 5, where __kāyasaṅkhāra__, _vacīsaṅkhāra_ and _manosaṅkhāra
 refer to __kāyasaṅcetanā__, _vacīsaṅcetanā_ and __manosaṅcetanā__, and
 this applies to the use of the triad in the _Kukkuravatiya Sutta_ too.
 
-[[iii.-attā]]
-III. ATTĀ
-~~~~~~~~~
+== III. ATTĀ
 
 It will be seen that the Buddha does not give much weight to the many
 speculations regarding 'self' (__attā__). He just dismisses them as
@@ -115,9 +109,7 @@ harder does he adhere to some view or other about ’self‘.
 *edited up to here*
 -------------------
 
-[[iv.-saddha]]
-IV. SADDHA
-~~~~~~~~~~
+== IV. SADDHA
 
 Saddhā is one of the five faculties, and the Buddha states that; the
 puthujjana has none of these faculties. It is, however, sometimes
@@ -148,18 +140,14 @@ seeing and understanding the DhaInma. For exaInple, even though the
 sekha does not experience the amata (deathlesSneSS) he has saddhā in the
 amata; and that is because he sees and understands the amata.
 
-[[v.-sankhāra-and-sankhata]]
-V. SANKHĀRA AND SANKHATA
-~~~~~~~~~~~~~~~~~~~~~~~~
+== V. SANKHĀRA AND SANKHATA
 
 It is not uncommon to see saṅkhāra being mistaken for saṅkhata Sarikhāra
 means something which determines some other thing, whilst saṅkhata
 refers to that which is determined Immense difficulty can result if
 these two things are confused.
 
-[[vi.-nirodha-tanhā]]
-VI. NIRODHA-TANHĀ
-~~~~~~~~~~~~~~~~~
+== VI. NIRODHA-TANHĀ
 
 In the Sangīti Sutta (Dīgha Nikāya 33} are given three groupings of
 tanhā. One group consists of the following three classes of tanhā:
@@ -188,9 +176,7 @@ postitive existence is put in the form of wanting a certain thing to be
 absent in his existence Nirodha-tanhā therefore means tanhā for that
 bhava wherein the specified thing has ceased.
 
-[[vii.-vibhava-tanha]]
-VII. VIBHAVA-TANHA
-~~~~~~~~~~~~~~~~~~
+== VII. VIBHAVA-TANHA
 
 Apart from avijJ'ā, what really lies at the bottom of vibhava- tanhā is
 a dissatisfaction with the past, present and expected future experience
@@ -227,9 +213,7 @@ Suffering. Vibhava-tanhā will merely keep Suffering going on till death.
 It cannot bring Suffering to an end. One's present problem of Suffering
 just remains with no prospect whatever of a solution.
 
-[[viii.-puthujjana]]
-VIII. PUTHUJJANA
-~~~~~~~~~~~~~~~~
+== VIII. PUTHUJJANA
 
 When the puthujjana experiences Suffering (i.e. when he is grieved, or
 agitated, or wonied, etc.) at a time he is considering some particular
@@ -256,9 +240,7 @@ same as 'for me' (in fact the Pali word me refers to both 'mine' and
 'for me'), we also have 'for me' points to 'I am'. The puthujjanā sees
 these things the other way about.
 
-[[ix.-upadisesa]]
-IX. UPADISESA
-~~~~~~~~~~~~~
+== IX. UPADISESA
 
 Upādisesa means residue or that which is remaining.
 
@@ -274,9 +256,7 @@ are by no means the same. Thus, the word upādiseso does not specify what
 remains. For this reason Nānavīra Thera considers that upādisesā must be
 unspecified residue.
 
-[[x.-upādāya-rūpam]]
-X. UPĀDĀYA RŪPAM
-~~~~~~~~~~~~~~~~
+== X. UPĀDĀYA RŪPAM
 
 With reference to the rāpupādānakkhanda in the pancupādānakkhandha we
 get the phrase upādāya rūpam This phrase which means "by grasping rāpa”
@@ -385,9 +365,7 @@ places has been one of the reasons for thinking that in the phrase
 upādāya rāpaṁ too the word upādāya need not be taken in the same sense
 in which it is to be taken in reference to the pancupādānakkhandhā.
 
-[[xi.-invalid-questions]]
-XI. INVALID QUESTIONS
-~~~~~~~~~~~~~~~~~~~~~
+== XI. INVALID QUESTIONS
 
 What happens to the Arahat after death ? Does he exist ? Does he not
 exist ? etc.
@@ -433,9 +411,7 @@ of all such questions That is also why the Buddha's Teaching is 'beyond
 the world' (lOkuttara). It is beyond the world of the put/wjjana, and
 hence beyond his comprehension.
 
-[[xii.-dassana]]
-XII. DASSANA
-~~~~~~~~~~~~
+== XII. DASSANA
 
 ln the Sabbāsava Sulta, Majjhima Nikāya 2, it is said that adherence to
 rites and ritual, doubt, and 'person'-view are to be laid aside by
@@ -456,9 +432,7 @@ Further if one is to enter the Path adherence to rites and ritua1, doubt
 and 'person’- view must be done away with. For this reason it is a
 matter of the highest importance.
 
-[[xiii.-rebirth]]
-XIII. REBIRTH
-~~~~~~~~~~~~~
+== XIII. REBIRTH
 
 It Should be noted that the Suttas do not explain how rebirth takes
 place. They only tell us that so long as a being dies with Ignorance and
@@ -493,9 +467,7 @@ follow his advice and guidance. "Let be the past, let be the future, I
 will preach to you the Dhamma." (ti_t_t/tatu pubbanto titthatu aparanto
 dhammam te deSeSsāmi).
 
-[[xiv.-opanayika]]
-XIV. OPANAYIKA
-~~~~~~~~~~~~~~
+== XIV. OPANAYIKA
 
 The Buddha said that the Dhamma is well said (SvākhāI0) and leading on
 (0panayikO). It leads on to seeing Suffering and the cessation of
