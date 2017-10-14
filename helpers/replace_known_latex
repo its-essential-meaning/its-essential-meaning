@@ -5,6 +5,8 @@
 \\end[{]lpchah[}]
 \\begin[{]dialogue[}]
 \\end[{]dialogue[}]
+\\begin[{]siderule-quote[}]
+\\end[{]siderule-quote[}]
 \\begin[{]glossarydescription[}]
 \\end[{]glossarydescription[}]
 \\thinspace\s
@@ -39,3 +41,5 @@
 \\includegraphics[{]
 \\par
 \\enlargethispage\**[{]
+\\vspace\**[{]
+\\Large

@@ -522,6 +522,10 @@ class Packager
       # replace with next line once the attributes argument is supported
       #unique_identifier doc.id, 'pub-id', 'uuid', 'scheme' => 'xsd:string'
 
+      if doc.attr? 'identifier'
+        identifier(doc.attr 'identifier')
+      end
+
       # NOTE we must use :plain_text here since gepub reencodes
       title(sanitize_doctitle_xml doc, :plain_text)
       id 'pub-title'

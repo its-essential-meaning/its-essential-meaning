@@ -88,7 +88,7 @@ html {
 /* don't set margin on body as that's how many readers frame reading area */
 /* can't set the font-family on body in Kindle */
 body {
-  padding: 0 !important;
+  padding: 20pt 0;
 /* add margin to ~ match Kindle's narrow setting */
 /* don't use !important on margin as it interferes with reader overrides (Calibre and Kindle) */
   margin: 0;
@@ -342,7 +342,7 @@ h6 {
 }
 /* Aldiko requires a higher precedence rule to set margin and text-indent, hence the body prefix */
 /* We'll just use the stronger rule for all paragraph-related stuff to be sure */
-body p {
+body section > p {
   margin: 1em 0 0 0;
   text-align: justify;
   text-indent: 0;
@@ -581,19 +581,23 @@ ul.bibliography > li > span.principal,
 ul.references > li > span.principal {
   text-align: left;
 }
-/* sized based on the major third modular scale (4:5, 16px, 24px) */
-h1,
-h2 {
+h1 {
   color: #333332;
   font-size: 1.5em;
   margin-top: 1em;
 /* 1.5rem */
   margin-bottom: -0.3333em;
-/* -0.5rem, 0.5rem to content */
+}
+h2 {
+  color: #333332;
+  font-size: 1.25em;
+  margin-top: 1em;
+/* 1.5rem */
+  margin-bottom: -0.3333em;
 }
 h3 {
   color: #333332;
-  font-size: 1.25em;
+  font-size: 1.1em;
   margin-top: 0.84em;
 /* 1.05rem */
   margin-bottom: -0.5em;
@@ -648,11 +652,11 @@ h5 code {
 /* Kindle strips (or unwraps) <header> tags, so we use an inner div to style */
 .chapter-header {
 /* NOTE div must have at least 1px top padding for background to fill */
-  padding: 0.75em 1.5em 0.25em 1.5em;
+  padding: 0.75em 1.5em 0.25em 2.5em;
   margin-bottom: 0.5em;
 }
 h1.chapter-title {
-  font-family: "Cormorant", sans-serif !important;
+  font-family: "Source Sans Pro", sans-serif !important;
   font-style: italic;
   font-weight: normal;
   font-size: 2.5em;
@@ -740,14 +744,12 @@ p.lead {
   line-height: 1.75;
 }
 hr.thematicbreak {
-  display: none;
+  display: inline-block;
+  margin: 2em auto;
+  width: 80%;
 }
 hr.thematicbreak + p {
-  margin-top: 1.5em;
-}
-/* TODO finish layout of first-letter */
-hr.thematicbreak + p::first-letter {
-  font-size: 200%;
+  margin-top: 1em;
 }
 p.stack > strong.head,
 p.stack-head > strong.head {
@@ -867,8 +869,7 @@ aside.sidebar > div.content > div.itemized-list > ul {
   margin-left: 0.5em !important;
 }
 div.blockquote {
-  padding: 0 1em;
-  margin: 1.25em 2em;
+  padding: 1.25em 2em 0pt 2em;
 }
 /* display: table causes quotes to be repeated in Aldiko, so we hide this part */
 div[class~="blockquote"] {
@@ -878,6 +879,13 @@ blockquote {
   color: #191918;
   font-style: italic;
   margin-top: 0;
+}
+blockquote > p {
+  text-align: left;
+  padding-bottom: 0.8em;
+}
+blockquote > p:last-child {
+  padding-bottom: 0pt;
 }
 blockquote footer {
   font-size: 0.9em;
@@ -1270,14 +1278,35 @@ section#appendix-thai .table em {
   font-style: normal;
   font-weight: normal;
 }
-section#stillness-flowing .subtitle {
+section#titlepage .subtitle {
   margin: 0;
 }
-section#stillness-flowing > header h1 {
+section#titlepage > header h1 {
   text-align: center;
+}
+section#copyright figure.image div.content {
+  text-align: left;
+}
+figure.image img.titlepage-pubs-logo {
+  margin-top: 3em;
+  width: 100px;
 }
 #titlepage-description {
   text-align: center;
+}
+.titlepage-publisher {
+  font-family: "Source Sans Pro";
+  font-size: 12px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1pt;
+}
+.titlepage-publisher-website {
+  font-family: "Source Sans Pro";
+  font-size: 12px;
+  text-align: center;
+  text-transform: lowercase;
+  letter-spacing: 1pt;
 }
 p.subtitle {
   font-style: italic;
@@ -1312,6 +1341,9 @@ p.subtitle {
 .blockquote.quote blockquote {
   font-style: italic;
 }
+.blockquote.quote blockquote em {
+  font-style: normal;
+}
 .top-anchor {
   font-size: 0pt;
   line-height: 0;
@@ -1321,10 +1353,24 @@ p.subtitle {
 nav#guide {
   display: none;
 }
-figure.image div.content {
-  text-align: left;
-}
 caption,
 figcaption {
   color: #191918;
+}
+figure.image div.content {
+  text-align: center;
+}
+figure.image img.sectionbreak {
+  margin: 0 auto;
+  padding: 15px 0 5px 0;
+}
+figure.image img.quotebreak {
+  margin: 0 auto;
+}
+.blockquote.sidebar-quote {
+  padding: 1em;
+  border-left: 2px solid #666665;
+}
+.blockquote.sidebar-quote > blockquote:first-child p {
+  margin-top: 0pt;
 }

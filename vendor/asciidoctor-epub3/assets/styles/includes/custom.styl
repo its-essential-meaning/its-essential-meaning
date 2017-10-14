@@ -29,14 +29,36 @@ section
       font-weight: normal
 
   // title page header
-  &#stillness-flowing
+  &#titlepage
     .subtitle
       margin: 0
     > header h1
       text-align: center
 
+  &#copyright
+    figure.image div.content
+      text-align: left
+
+figure.image img.titlepage-pubs-logo
+  margin-top: 3em
+  width: 100px
+
 #titlepage-description
   text-align: center
+
+.titlepage-publisher
+  font-family: "Source Sans Pro"
+  font-size: 12px
+  text-align: center
+  text-transform: uppercase
+  letter-spacing: 1pt
+
+.titlepage-publisher-website
+  font-family: "Source Sans Pro"
+  font-size: 12px
+  text-align: center
+  text-transform: lowercase
+  letter-spacing: 1pt
 
 p.subtitle
   font-style: italic
@@ -70,6 +92,8 @@ p.subtitle
 
 .blockquote.quote blockquote
   font-style: italic
+  em
+    font-style: normal
 
 // NOTE: line-height must be relative value. 0pt is an absolute value and triggers warnings from kindlegen:
 // Absolute value specified for CSS property in content is not supported by Kindle readers. Please use % or refer Kindle Publishing Guidelines about usage of property: 'line-height'
@@ -84,9 +108,21 @@ p.subtitle
 nav#guide
   display: none
 
-figure.image div.content
-  text-align: left
-
 caption, figcaption
   color: $black
 
+figure.image div.content
+  text-align: center
+
+figure.image img
+  &.sectionbreak
+    margin: 0 auto
+    padding: 15px 0 5px 0
+  &.quotebreak
+    margin: 0 auto
+
+.blockquote.sidebar-quote
+  padding: 1em
+  border-left: 2px solid $dark-gray
+  & > blockquote:first-child p
+    margin-top: 0pt

@@ -1,4 +1,5 @@
 FILE=main
+NAME=essential
 
 LATEX=lualatex
 BIBTEX=bibtex
@@ -7,6 +8,9 @@ LATEX_OPTS=-interaction=nonstopmode -halt-on-error
 
 all: document
 
+four-times:
+	./helpers/four-times.sh
+
 document:
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex
 
@@ -14,13 +18,13 @@ html:
 	asciidoctor -D output stillness-flowing.adoc
 
 epub:
-	./helpers/generate_epub.sh
+	./helpers/generate_epub.sh $(NAME)
 
 epub-validate:
 	EPUBCHECK=~/bin/epubcheck asciidoctor-epub3 -D output -a ebook-validate main.adoc
 
 mobi:
-	./helpers/generate_mobi.sh
+	./helpers/generate_mobi.sh $(NAME)
 
 preview:
 	latexmk -pvc $(FILE).tex

@@ -148,15 +148,7 @@ class ContentConverter
 <title>#{doctitle_sanitized}</title>
 <link rel="stylesheet" type="text/css" href="styles/epub3.css"/>
 <link rel="stylesheet" type="text/css" href="styles/epub3-css3-only.css" media="(min-device-width: 0px)"/>
-#{icon_css_head}<script type="text/javascript">
-document.addEventListener('DOMContentLoaded', function(event, reader) {
-  if (!(reader = navigator.epubReadingSystem)) {
-    if (navigator.userAgent.indexOf(' calibre/') >= 0) reader = { name: 'calibre-desktop' };
-    else if (window.parent == window || !(reader = window.parent.navigator.epubReadingSystem)) return;
-  }
-  document.body.setAttribute('class', reader.name.toLowerCase().replace(/ /g, '-'));
-});
-</script>
+#{icon_css_head}
 </head>
 <body>
 <section class="chapter" title="#{doctitle_sanitized.gsub '"', '&quot;'}" epub:type="chapter" id="#{docid}">
@@ -353,7 +345,7 @@ document.addEventListener('DOMContentLoaded', function(event, reader) {
     end
 
     footer_tag = footer_content.empty? ? nil : %(
-<footer>~ #{footer_content * ' '}</footer>)
+<footer>&#x2013; #{footer_content * ' '}</footer>)
     content = (convert_content node).strip.
       sub(OpenParagraphTagRx, '<p>').
       sub(CloseParagraphTagRx, '</p>')
@@ -622,7 +614,12 @@ document.addEventListener('DOMContentLoaded', function(event, reader) {
   def image node
     target = node.attr 'target'
     type = (::File.extname target)[1..-1]
-    img_attrs = [%(alt="#{node.attr 'alt'}")]
+
+    img_attrs = []
+    img_attrs << %( id="#{node.attr 'id'}") if node.attr? 'id'
+    img_attrs << %( class="#{node.attr 'role'}") if node.attr? 'role'
+    img_attrs << %( alt="#{node.attr 'alt'}") if node.attr? 'alt'
+
     case type
     when 'svg'
       img_attrs << %(style="width: #{node.attr 'scaledwidth', '100%'}")
