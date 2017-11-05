@@ -1,13 +1,13 @@
 = The Buddha’s Teaching
-R.G. de S. Wettimuny
-v0.1.0, 2017-09-26
-:booktitle: The Buddha’s Teaching
-:revdate: 2017-09-26
+:booktitle: {doctitle}
 :description: Its Essential Meaning
-:doctype: book
+:author: R.G. de S. Wettimuny
 :creator: {author}
+:version: v0.1.0
+:revdate: 2017-11-05
+:doctype: book
 :lang: en
-:keywords: Dhamma, Wettimuny
+:keywords: Wettimuny, Dhamma, Buddhism, RELIGION / Buddhism / Theravada
 :copyright: CC-BY-NC-ND 4.0
 :imagesdir: assets/photos/92dpi-ebook-sRGB
 :includes: manuscript/asciidoc
@@ -25,21 +25,21 @@ include::{includes}/titlepage.adoc[]
 include::{includes}/ch-01-grasping.adoc[]
 include::{includes}/ch-02-consciousness.adoc[]
 include::{includes}/ch-03-name-and-form-and-consciousness.adoc[]
-include::{includes}/ch-04-tanha-and-bhava.adoc[]
-include::{includes}/ch-05-kamma.adoc[]
-include::{includes}/ch-06-sankhara.adoc[]
-include::{includes}/ch-07-holding-to-belief-in-self.adoc[]
-include::{includes}/ch-08-impermanence.adoc[]
-include::{includes}/ch-09-all-things-are-not-self.adoc[]
-include::{includes}/ch-10-birth-decay-and-death.adoc[]
-include::{includes}/ch-11-suffering.adoc[]
-include::{includes}/ch-12-ignorance.adoc[]
-include::{includes}/ch-13-nibbana.adoc[]
-include::{includes}/ch-14-the-puthujjana-sekha-and-asekha.adoc[]
-include::{includes}/ch-15-rebirth.adoc[]
-include::{includes}/ch-16-satipatthana.adoc[]
-
-include::{includes}/appx-01-mano-and-citta.adoc[]
+//include::{includes}/ch-04-tanha-and-bhava.adoc[]
+//include::{includes}/ch-05-kamma.adoc[]
+//include::{includes}/ch-06-sankhara.adoc[]
+//include::{includes}/ch-07-holding-to-belief-in-self.adoc[]
+//include::{includes}/ch-08-impermanence.adoc[]
+//include::{includes}/ch-09-all-things-are-not-self.adoc[]
+//include::{includes}/ch-10-birth-decay-and-death.adoc[]
+//include::{includes}/ch-11-suffering.adoc[]
+//include::{includes}/ch-12-ignorance.adoc[]
+//include::{includes}/ch-13-nibbana.adoc[]
+//include::{includes}/ch-14-the-puthujjana-sekha-and-asekha.adoc[]
+//include::{includes}/ch-15-rebirth.adoc[]
+//include::{includes}/ch-16-satipatthana.adoc[]
+//
+//include::{includes}/appx-01-mano-and-citta.adoc[]
 
 include::{includes}/glossary.adoc[]
 
