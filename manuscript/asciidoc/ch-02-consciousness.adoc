@@ -2,27 +2,34 @@
 = Consciousness
 
 In the elucidation of the Five Grasping Groups, Consciousness takes the
-pride of place. The reason for that is that any _experience_ means
-__being conscious of one or more of the other four Groups__. I am
+pride of place. The reason for that is that any *experience* means
+*being conscious of one or more of the other four Groups*. I am
 conscious of Form (i.e. I am conscious either of my body or of an
 external object or of both); I am conscious of Feeling; I am conscious
-of Perception; and I am conscious of Determinations.“ It is as with the
+of Perception; and I am conscious of Determinations.
+
+// TODO is this a sutta reference?
+
+[quote]
+____
+“It is as with the
 choir-master of a five-member choir who himself, as the chief, takes up
 his part and in the performance of the whole piece takes in himself
 along with it.”
+____
 
 What now is Consciousness (__viññāna__)?
 
 When I say I am conscious of something it means that that something is
-_present_ to me. A sight, a sound, a smell, a taste, a touch, or an idea
-is present. I am _aware_ of a certain perception, or the perception is
-_present_ to me. I am conscious of it.
+*present* to me. A sight, a sound, a smell, a taste, a touch, or an idea
+is present. I am *aware* of a certain perception, or the perception is
+*present* to me. I am conscious of it.
 
 Sometimes Consciousness is seen equated to the subject to whom the
 phenomenon is present. This is not correct. Consciousness does not refer
 to the subject. Neither does it refer to the phenomenon nor to a part of
-the phenomenon. It is not _what_ is present or a part of what is
-present. It is only the _presence_ of the phenomenon. It is the presence
+the phenomenon. It is not *what* is present or a part of what is
+present. It is only the *presence* of the phenomenon. It is the presence
 of that which is present. A feeling is present to me. Consciousness is
 not the feeling. It is only the presence of the feeling. It is the being
 conscious of the feeling Presence that is ‘mine’ or presence ‘for me’ is
@@ -64,16 +71,18 @@ ____
 The four Groups, Form, Feeling, Perception, Determinations, are called
 the supports, or the footholds, or the base, for Consciousness.
 
-[quote, "SN III, Khandha Samyutta, Upāya Vagga, Sutta No. 2."]
+// https://suttacentral.net/pi/sn22.54
+
+[quote, SN 22.54]
 ____
-"There are these five kinds of seed, monks. What five? Seed from root,
+“There are these five kinds of seed, monks. What five? Seed from root,
 seed from trunk, seed from joints, seed from shoots, and seed from
 grain.
 
-"If, monks, these five kinds of seed were present undamaged, not rotten,
+“If, monks, these five kinds of seed were present undamaged, not rotten,
 unspoiled by wind and heat, capable of sprouting, well preserved, but
 there is no earth and water, would, monks, these five kinds of seed come
-to growth, spread, and increase?"
+to growth, spread, and increase?”
 
 “No, Lord.”
 
@@ -91,22 +100,22 @@ growth, spread and increase?”
 
 “Yes, Lord.”
 
-"As the earth, monks, should the four supports for the persistence of
+“As the earth, monks, should the four supports for the persistence of
 Consciousness be regarded. As the water, monks, should delight and
 attachment be regarded. As the five kinds of seed, monks, should the
 nutritive Consciousness be regarded.
 
-"If Consciousness persists, monks, it is by holding to Form that it
+“If Consciousness persists, monks, it is by holding to Form that it
 persists. With Form as object, with Form as support, in association with
 delight, it attains to growth, spread and increase.
 
-If Consciousness persists, monks, it is by holding to Feeling …
+“If Consciousness persists, monks, it is by holding to Feeling …
 Perception … Determinations … that it attains to growth, spread and
-increase."
+increase.”
 ____
 
 The footholds for Consciousness can be viewed from a second angle. That
-is through a dual classification of _internal_ and _external_ bases. The
+is through a dual classification of *internal* and *external* bases. The
 six sense-bases, viz., the eye, the ear, the nose, the tongue, the body,
 and the mind, are called the internal bases or the internal supports for
 Consciousness, whilst those phenomena corresponding to these six
@@ -118,4 +127,4 @@ objects external to the corresponding internal base.
 Consciousness and the other four Groups Cannot therefore be comprehended
 from a standpoint outside of them by any method of objective synthesis
 induction, and so on. Through themselves, and only through themselves,
-i.e., by one’s own experience _only_ can they be understood.
+i.e., by one's own experience *only* can they be understood.
