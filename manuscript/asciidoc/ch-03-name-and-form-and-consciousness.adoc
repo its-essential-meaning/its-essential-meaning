@@ -22,7 +22,7 @@ Name-and-Form.
 Again, “What being present is Name-and-Form present? Dependent on what
 does Name-and-Form exist?” The answer is: “Consciousness being present,
 there is Name-and-Form. Dependent on Consciousness, Name-and-Form
-exists.”^DN 14^
+exists.”^DN{nbsp}14^
 
 Thus the condition for Consciousness is Name-and-Form, and the condition
 for Name-and-Form is Consciousness.
@@ -45,9 +45,9 @@ Firstly, what is __rūpa__, which has been translated as Form?
 Form, as just stated, refers to ‘matter’.
 
 Now, any Form or lump of ‘matter’ can be regarded as a particular
-__group of behaviours__. Since a particular lump of ‘matter’ or a
-particular group of behaviours is always _present_ in the same fashion,
-I come to the _conclusion_ that that ‘matter’ exists independent of my
+*group of behaviours*. Since a particular lump of ‘matter’ or a
+particular group of behaviours is always *present* in the same fashion,
+I come to the *conclusion* that that ‘matter’ exists independent of my
 senses. Since I always note with regard to that ‘matter’ the same
 sights, sounds, smells, etc. I conclude that that ‘matter’ exists
 independent of myself. Further, since the same ‘matter’ exhibits almost
@@ -57,50 +57,51 @@ us individuals.
 
 The various modes of behaviour are not dependent on Consciousness. But
 to distinguish one mode of behaviour from another they have to be
-_cognized_ or they must be made __present__. When so cognized these
-behaviours _appear_ in a certain fashion, or, when they are made to be
+*cognized* or they must be made *present*. When so cognized these
+behaviours *appear* in a certain fashion, or, when they are made to be
 present they are then present in a certain fashion. That means, there is
-an _appearance_ of these behaviours (the word ‘appearance’ being taken
-in a rather wide sense) – an appearance which takes the form of sights,
+an *appearance* of these behaviours (the word ‘appearance’ being taken
+in a rather wide sense) -- an appearance which takes the form of sights,
 sounds, smells, etc. Further, this appearance behaves in a certain
-fashion. Thus there is both an _appearance of behaviour_ and a
-__behaviour of appearance__. And the set of behaviours defining the
-particular lump of ‘matter’ or object is _inferred_ from the behaviour
-of its appearance.footnote:[Also see page 107 and 108.(FIXME: add link)]
+fashion. Thus there is both an *appearance of behaviour* and a
+*behaviour of appearance*. And the set of behaviours defining the
+particular lump of ‘matter’ or object is *inferred* from the behaviour
+of its *appearance*.footnote:[Also see page 107 and 108.(FIXME: add link)]
 
 All modes of behaviour can be categorized under four main modes called
-the Four Primary Modes (__catunna mahābhūtāna__). They are Earth-Mode,
+the Four Primary Modes (__catunnaṃ mahābhūtānaṃ__). They are Earth-Mode,
 Water-Mode, Fire-Mode and Air-Mode. They may also be called the
 Solid-Mode, the Fluid-Mode, the Ripening-Mode and the Motion-Mode.
 
+[quote, MN 140]
 ____
-"And what, monks, is the Earth-Mode (__pahavīdhātu__)? The Earth-Mode
+“And what, monks, is the Earth-Mode (__paṭhavīdhātu__)? The Earth-Mode
 may be internal, may be external. And what, monks, is the internal
-Earth-Mode? Whatever is hard, solid, is internal, _grasped by oneself_
-(__paccattaṃ … upādinna__), that is to say: the hair of the head, the
+Earth-Mode? Whatever is hard, solid, is internal, *grasped by oneself*
+(__paccattaṃ … upādinnaṃ__), that is to say: the hair of the head, the
 hair of the body, nails, teeth, skin, flesh, sinews, bones, marrow of
 the bones, kidneys, heart, liver, pleura, spleen, lungs, intestines,
 mesentery, stomach, excrement, or whatever other thing is hard, solid,
-is internal, grasped by oneself – this, monks, is called the internal
+is internal, grasped by oneself -- this, monks, is called the internal
 Earth-Mode. Whatever is the internal Earth-Mode and whatever is the
 external Earth-Mode, just these are the Earth-Mode …
 
-"And what, monks, is the Water-Mode (__āpodhātu__)? The Water-Mode may
+“And what, monks, is the Water-Mode (__āpodhātu__)? The Water-Mode may
 be internal, may be external. And what, monks, is the internal
 Water-Mode? Whatever is liquid, become liquid, is internal, grasped by
 oneself, that is to say: bile, phlegm, pus, blood, sweat, fat, tears,
 serum, saliva, mucus, synovial fluid, urine, or whatever other thing is
-liquid, become liquid, is internal, grasped by oneself – this, monks, is
+liquid, become liquid, is internal, grasped by oneself -- this, monks, is
 called the internal Water-Mode. Whatever is the internal Water-Mode and
 whatever is the external Water-Mode, just these are the Water Mode …
 
-"And what, monks, is the Fire-Mode (__tejodhātu__)? The Fire-Mode may be
+“And what, monks, is the Fire-Mode (__tejodhātu__)? The Fire-Mode may be
 internal, may be external. And what, monks, is the internal Fire-Mode?
 Whatever is heat, become heat, is internal, grasped by oneself, that is
 to say: that by which one is vitalized, that by which one is consumed,
 that by which one is scorched, that by which what has been munched,
 drunk, eaten and tasted is fully digested, or whatever other thing is
-heat, become heat, is internal, grasped by oneself – this, monks, is
+heat, become heat, is internal, grasped by oneself -- this, monks, is
 called the internal Fire-Mode. Whatever is the internal Fire-Mode and
 whatever is the external Fire-Mode, just these are the Fire-Mode …
 
@@ -112,36 +113,35 @@ abdomen, winds in the belly, winds permeating the limbs, in-breathing,
 out-breathing, or whatever other thing is air, become airy, is internal,
 grasped by oneself – this, monks, is called the internal Air-Mode.
 Whatever is the internal Air-Mode and whatever is the external Air-Mode,
-just these are the Air-Mode …”footnote:[Majjhima Nikāya 140.]
+just these are the Air-Mode …”
 ____
 
 In the above definitions the Buddha refers to the Four Primary Modes as
 “grasped by oneself” (__paccattaṃ upādinnaṃ__). In other words, he is
-referring to the _Grasping_ Group of Form (to
-__rūpa-upādāna-kkhandha__).
+referring to the *Grasping* Group of Form (to __rūpa-upādāna-kkhandha__).
 
 Beyond the above there is only one important thing (according to
-__Suttas__) the Buddha has thought about Form: that is, the question of
+the Suttas) the Buddha has thought about Form: that is, the question of
 the Four Primary Modes “getting no footing” (__na gādhati__). We shall
 come to this later on. One might therefore wonder why the Buddha has
 taught so little about Form or ‘matter’. But the Buddha has a distinct
 purpose in his Teaching. And elucidations are made by him only in as far
 as such are necessary for that purpose. He seeks no intellectual
 approval of what he teaches. His Teaching is designed for a purpose. It
-is designed to lead one on (opanayika) towards a particular goal.
+is designed to lead one on (__opanayika__) towards a particular goal.
 
 The analysis of Form or ‘matter’ given above is sufficient. No further
 analysis of it are essential, as they would not help me to solve the
 problem of the Five Grasping Groups, the problem of ‘my world’. What is
 essential is to realise that the analysis given by the Buddha is
-__sufficient__.
+*sufficient*.
 
 Form, the Buddha teaches, indicates a certain characteristic. That is,
 the characteristic of persisting (__paṭigha__). It is similar to the
-idea of _inertia_ taught in physical science. A tendency for a body to
-_maintain_ its characteristics is demonstrated. By that what we really
+idea of *inertia* taught in physical science. A tendency for a body to
+*maintain* its characteristics is demonstrated. By that what we really
 mean is: there is seen a tendency for the body to maintain its
-__appearance__. This is a very important characteristic of Form. It is
+*appearance*. This is a very important characteristic of Form. It is
 really because of this characteristic that we can distinguish various
 objects from one another. If the table does not remain the table and the
 book does not remain the book when I am continuing to be conscious of
@@ -149,25 +149,25 @@ them I cannot then distinguish them from each other.
 
 There is a material object.footnote:[“Material object” is not quite the
 same as ‘matter’. The former is a particular “lump of ‘matter’”.] This
-object is _not_ dependent on Consciousness. But this object can be
-_present_ or __not present__. Its presence is a matter of Consciousness.
+object is *not* dependent on Consciousness. But this object can be
+*present* or *not present*. Its presence is a matter of Consciousness.
 The object being present to the individual means that he is conscious of
 it. It has been ‘discovered’ by his Consciousness as it were. Though the
-object does not depend on Consciousness there is no _presence_ of the
+object does not depend on Consciousness there is no *presence* of the
 object if there is no Consciousness. Consciousness means this
-__presence__. _I am conscious_ of an object means that that object is
-__present to me__.
+*presence*. *I am conscious* of an object means that that object is
+*present to me*.
 
-Now, an object is always present in __some fashion__. It is present _as_
+Now, an object is always present in *some fashion*. It is present *as*
 shape, colour, smell, sound, etc. Its presence is therefore known by
 these. Or it is present in terms of these. Those things called shape,
 colour, sound, smell, etc., which are brought about when Consciousness
 ‘discovers’ the object are called Name (__nāma__). It is as if the
-particular Name is _how_ the particular object is present
-(Consciousness). It is the _appearance_ of the object (the word
+particular Name is *how* the particular object is present
+(Consciousness). It is the *appearance* of the object (the word
 ‘appearance’ being again taken in a rather wide sense). Therefore, we
 can define Name (__nāma__) as “how Form (__rūpa__) is present
-(__viññāna__)”. The _how_ or the _manner_ is Name, and the presence is
+(__viññāna__)”. The *how* or the *manner* is Name, and the presence is
 Consciousness.
 
 This appearance or “how it is present” is always given a designation
@@ -179,9 +179,10 @@ things. The shape, colour, smell, sound, etc., are the perceptions. Then
 there are certain feelings which are either pleasant, unpleasant or
 neutral. Further, there is Intention, Attention and Contact in relation
 to the object. All these go to make up Name (__nāma__). “Feeling,
-Perception, Intention, Contact, Attention – this is called
-Name.”footnote:[Sayutta Nikāya II, Abhisamaya Sayutta, Buddha Vagga,
-Vibhanga Sutta]
+Perception, Intention, Contact, Attention -- this is called
+Name.”^SN{nbsp}XX.XX^
+
+// FIXME identify the above: Sayutta Nikāya II, Abhisamaya Sayutta, Buddha Vagga, Vibhanga Sutta
 
 It should be quite clear from the above that _nāma_ is not ‘mind’.
 _Rūpa_ is ‘matter’, but _nāma_ is not ‘mind’. ‘Mind’, as a sense-base,
@@ -189,18 +190,18 @@ is __mano__; as mentality, it is __citta__. Thus it is wrong to
 translate _nāma-rūpa_ as ‘mind-and-matter’.
 
 It is not an uncommon thing to find Name (__nāma__) being taken to
-include Consciousness (__viññāna__). This is wrong. Name does _not_
+include Consciousness (__viññāna__). This is wrong. Name does *not*
 include Consciousness. It only entails Consciousness.
 
 If we examine this further we shall find that:
 
-1.  Since ‘matter’ has the characteristic of inertia or persistence, its
+1. Since ‘matter’ has the characteristic of inertia or persistence, its
 appearance is seen to persist or remain the same. That is since Form
 (__rūpa__) has the characteristic of persistence (__paṭigha__), we
 discern in Name (__nāma__) a persistence.
-2.  Since appearance has some particular designation, its ‘substance’
+2. Since appearance has some particular designation, its ‘substance’
 (i.e. the ‘matter’ which gives this appearance) is seen to have a
-designation. That is, since Name (__nāma__) has designation –
+designation. That is, since Name (__nāma__) has designation --
 (__adhivacana__), we discern in Form (__rūpa__) a designation.
 
 It is important to see this since the Buddha refers to it when he
@@ -211,6 +212,8 @@ matter more clear.
 
 What now are Intention (__cetanā__), Attention (__manasikāra__), and
 Contact (__phasso__) which are included in Name (__nāma__)?
+
+@@ AT HERE @@
 
 At this moment I am sitting. The _present_ phenomenon is a sitting
 position. This present phenomenon, the sitting position, now brings to
