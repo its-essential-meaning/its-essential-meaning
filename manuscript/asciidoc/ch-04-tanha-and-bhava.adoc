@@ -68,9 +68,7 @@ a subject (‘I’)*. Or yet, to the *existence of subjectivity*. A
 life-mode completely devoid of all notions of ‘self’ and of thoughts of
 ‘I’ and ‘mine’ will *not* be a *bhava*.
 
-@@ AT HERE @@
-
-The _puthujjana_ looks upon his existence as ‘__my__ existence’. He
+The _puthujjana_ looks upon his existence as ‘*my* existence’. He
 thinks ‘my self exists’ or ‘I exist’. This looking upon one’s existence
 as ‘my existence’ or ‘existence of my self’ is called having
 __bhavadiṭṭhi__. When there are no notions of ‘self’ no thoughts of ‘I’
@@ -86,19 +84,19 @@ rid of if necessary. If one completely gets rid of the thought ‘mine’ so
 that it will never arise again, then one has become Arahat.]
 
 It is the mind that is freed from the canker of __bhava__, just as it is
-the mind that is freed from the cankers of sense-__pleasure__ and
+the mind that is freed from the cankers of sense-pleasure and
 Ignorance. The Buddha said that his mind was freed from the canker of
 __bhava__: “Thus knowing, thus seeing, my mind was freed from the canker
 of sense-pleasure, freed from the canker of __bhava__, freed from the
-canker of Ignorance.”footnote:[Majjhima Nikāya 36.] He described himself
-as “gone to the end of __bhava__” – __bhavassa
-pāragu__.footnote:[Itivuttaka 100.] He did not say he was _going_ to the
-end of __bhava__. He said that he had already _gone_ to the end of
+canker of Ignorance.”^MN{nbsp}36^ He described himself
+as “gone to the end of __bhava__” -- __bhavassa
+pāragu__.^Iti{nbsp}100^ He did not say he was *going* to the
+end of __bhava__. He said that he had already *gone* to the end of
 __bhava__; which means he lives free from __bhava__. In him _bhava_ has
 ceased. He is __bhavanirodha__, because he is completely free from
 notions of ‘self’ and from thoughts of ‘I’ and ‘mine’. He does not look
-upon his existence as ‘__my__ existence’. He does not think ‘__I__
-exist’. Certainly he uses the _words_ ‘I’ and ‘mine’ for purposes of
+upon his existence as ‘*my* existence’. He does not think ‘*I*
+exist’. Certainly he uses the *words* ‘I’ and ‘mine’ for purposes of
 conversation. But that is all. They are expressions current in the world
 of which he makes use, but he is not at all affected by them.
 
@@ -107,33 +105,35 @@ The tendency to the conceit ‘I’ and ‘mine’
 always on the surface. It lies deep-rooted and latent. It is something
 that one perceives only when one reflects upon it. One does not perceive
 it at all times even though it is present at all times lying behind
-one’s thoughts and actions. In the Buddha, and in the Arahats, this
+one's thoughts and actions. In the Buddha, and in the Arahats, this
 tendency is completely uprooted, never to arise again. When all thoughts
 of ‘I’ and ‘mine’ are extinct and do not arise again, ‘my existence’ or
 ‘I exist’ are also extinct and do not arise again.
 
-The Arahat “has gone beyond all __bhava__” – __upaccagā
-sabbabhavāni__.footnote:[Udāna, Nanda Vagga, Sutta No. 10.] The Arahat
-Maha Kassapa declared that he had “escaped from __bhava__” –
-__bhavābhinissato__.footnote:[Theragāthā 1089.] _Bhava_ ceases with the
+// https://suttacentral.net/pi/ud3.10
+
+The Arahat “has gone beyond all __bhava__” -- __upaccagā
+sabbabhavāni__.^Uda{nbsp}3.10^ The Arahat
+Maha Kassapa declared that he had “escaped from __bhava__” --
+__bhavābhinissato__.^Thag{nbsp}1089^ _Bhava_ ceases with the
 attainment of Arahatship. Thereafter the Arahat lives freed from
 __bhava__, delivered from __bhava__. Before the ascetic Gotama attained
 Arahatship all life that existed was __bhava__. With his attaining
 Arahatship there came to be for the first time in the world a life free
 of __bhava__.
 
+// https://suttacentral.net/pi/sn22.110
+
 _Bhava_ is also called a fetter. This fetter is completely cut off and
-destroyed in the Arahat. He is
-__parikkhīnabhavasaññojano__.footnote:[Saṃyutta Nikāya III, Khandha
-Saṃyutta, Anta Vagga, Sutta No. 8.]
+destroyed in the Arahat. He is __parikkhīnabhavasaññojano__.^SN{nbsp}22.110^
 
 If _bhava_ means ‘existence’ pure and simple, then the living Arahat
 cannot have completely destroyed __bhava__, for as a living Arahat there
 is an ‘existence’.footnote:[See page 56. FIXME: add link] The living
 Arahat has ‘existence’, but no __bhava__. He is __bhava__-ceased.
-_Bhava_ refers to the existence of _all_ modes of life _other than_ that
+_Bhava_ refers to the existence of *all* modes of life *other than* that
 of the Arahats, simply because all such modes of life, save the
-Arahat’s, are a case of ’__my__ existence’ or ‘self’-existence to some
+Arahat’s, are a case of ‘*my* existence’ or ‘self’-existence to some
 degree or other.
 
 If the precise meaning of _bhava_ is not understood there can be much
@@ -147,7 +147,7 @@ from beginning to end.
 
 As with the word __taṇhā__, there does not seem to be an exact
 equivalent in English for the word __bhava__. This word is usually
-translated as ‘becoming’ or ‘existence’ – all of which miss the
+translated as ‘becoming’ or ‘existence’ -- all of which miss the
 point.footnote:[Sometimes _bhava_ is seen translated as rebirth! The
 extent to which the meaning of the Suttas (Discourses) is hidden from
 the reader by such inaccuracies can thus be seen.] We shall therefore
@@ -165,7 +165,7 @@ very cleverly deceive themselves for the simple reason that their very
 doubting proves their existence. To doubt also one must exist. _Vibhava_
 stems out of this type of thinking. It is a denial of existence.
 Existence denies itself. But this denial of existence only leads to a
-confirmation of existence. It does _not_ lead to _cessation_ of
+confirmation of existence. It does *not* lead to *cessation* of
 existence.
 
 Since, perhaps, it appears insane to deny existence whilst being
@@ -175,21 +175,25 @@ made: “To the extent, revered Sir, that this self is of Form, is made up
 of the Four Primary Modes, is from the union of the parents, is cut off
 and destroyed on the dissolution of the body, and does not exist after
 death, to that extent is there a complete cutting off of the
-self.”footnote:[Dīgha Nikāya 1.]
+self.”^DN{nbsp}1^
 
 This thinking, in the final analysis, only confirms ‘self’-existence.
-Thus _vibhava_ – denial of ‘self’-existence – only confirms __bhava__,
-only confirms ‘self’-existence. It does not lead to _cessation_ of
+Thus _vibhava_ -- denial of ‘self’-existence -- only confirms __bhava__,
+only confirms ‘self’-existence. It does not lead to *cessation* of
 ‘self’-existence. Just as _bhava_ is, _vibhava_ is also based on ‘self’
-and on thoughts of ‘I’ and ‘mine’. “Those worthy recluses and brahmins
+and on thoughts of ‘I’ and ‘mine’.
+
+[quote, MN 102]
+____
+“Those worthy recluses and brahmins
 who lay down for beings the cutting off, the destruction, the denial of
 _bhava_ (of ‘self’-existence), these, afraid of the ‘person’
 (__sakkāya__), loathing the ‘person’, simply keep running and circling
 round the ‘person’. Just as a dog that is tied by a leash to a strong
 post keeps running and circling round the post, so do these worthy
 recluses and brahmins, afraid of the ‘person’, loathing the ‘person’,
-simply keep running and circling round the ‘person’.”footnote:[Majjhima
-Nikāya 102.]
+simply keep running and circling round the ‘person’.”
+____
 
 Wanting the cutting off of ‘self’-existence and the destruction of
 ‘self’-existence at death is called __vibhava-taṇhā__.footnote:[See
@@ -202,10 +206,11 @@ Just as much as grasping belief in ‘self’ is the most fundamental of the
 four kinds of Grasping, wanting _bhava_ is the most fundamental of the
 three kinds of __taṇhā__.
 
+// https://suttacentral.net/pi/an3.76
+
 Thus the __puthujjana__’s intentional action is determined by __taṇhā__.
 “So, Ānanda, action is the field, Consciousness the seed, and _taṇhā_
-the moisture.”footnote:[Anguttara Nikāya I, Tika Nipāta, Ānanda Vagga,
-Sutta No. 6.] Just as moisture must be present for the seed to sprout up
+the moisture.”^AN{nbsp}3.76^ Just as moisture must be present for the seed to sprout up
 out of the field, so must _taṇhā_ be there for the __puthujjana__’s
 Consciousness to arise from his intentional action. _Taṇhā_ is one of
 the most powerful factors that go into the fashioning of one’s life, yet
@@ -223,45 +228,55 @@ delight. Desire, attachment and delight are things dependent on
 __taṇhā__. Were there no kind of wanting sense-pleasures or
 ‘self’-existence there can be no desire or attachment or delight.
 
+[quote, DN 15]
 ____
 “Thus it is, Ānanda, that _taṇhā_ arises dependent on feeling, pursuit
 dependent on __taṇhā__, gain dependent on pursuit decision dependent on
-gain, _desire_ and _attachment_ dependent on decision, tenacity
+gain, *desire* and *attachment* dependent on decision, tenacity
 dependent on desire and attachment, possession dependent on tenacity,
 avarice dependent on possession, watch and ward dependent on avarice,
 and many a bad and unskilled state of things such as blows and wounds,
 strife, contradiction and retort, quarrelling, slander and lies arise
-from keeping watch and ward.”footnote:[Dīgha Nikāya 15.]
+from keeping watch and ward.”
 ____
 
 Desire (__chanda__), attachment (__rāga__) and delight (__nandi__) have
 also been referred to as Grasping (__upādāna__). “Friend, Visakha, that
 desire and attachment there is in the Five Grasping Groups, that there,
-is the Grasping.”footnote:[Majjhima Nikāya 44.] And, “Whatsoever there
-is delight in Feeling, that is Grasping.”footnote:[Majjhima Nikāya 38.]
+is the Grasping.”^MN{nbsp}44^ And, “Whatsoever there
+is delight in Feeling, that is Grasping.”^MN{nbsp}38^
 This means to say that grasping something also means desiring of it, or
 being attached to it, or delighting in it. This is so because desiring,
-or being attached, or delighting, is _in effect_ the same as regarding
+or being attached, or delighting, is *in effect* the same as regarding
 as ‘mine’. It is a matter of direct experience that when desire,
 attachment or delight exist ‘I’ and ‘mine’ also exist. It is only an ‘I’
 that can desire something or be attached to it or delight in it.
 
 __Taṇhā__, desire, attachment, delight, are all supports for __bhava__.
-‘__I__ exist’ or ‘__my__ existence’ stands supported by these. _Bhava_
+‘*I* exist’ or ‘*my* existence’ stands supported by these. _Bhava_
 hangs on these as its “cord”. They are called the “cord of __bhava__”
-(__bhavanetti__). “Whatever desire, attachment, delight, __taṇhā__,
+(__bhavanetti__).
+
+// https://suttacentral.net/pi/sn23.3
+
+[quote, SN 23.3]
+____
+“Whatever desire, attachment, delight, __taṇhā__,
 whatever tendencies to determinations, attachments, and to the grasping
 of various means there are in the mind, Radha, towards Form … Feeling …
 Perception … Determinations … Consciousness, that is called the cord of
-__bhava__. The cessation of these is the cessation of the cord of
-__bhava__.”footnote:[Saṃyutta Nikāya III, Rādha Samyutta, Bhavanetti
-Sutta.]
+__bhava__. The cessation of these is the cessation of the cord of __bhava__.”
+____
 
 Just as a bunch of mangoes hanging by a stalk will fall down when the
 stalk is cut, so will _bhava_ disappear when the cord of _bhava_ is cut.
 The Buddha said that he stood with the cord of _bhava_ cut. Thus he
-stood freed from __bhava__. “Just, monks, as when the stalk of a bunch
+stood freed from __bhava__.
+
+[quote, DN 1]
+____
+“Just, monks, as when the stalk of a bunch
 of mangoes has been cut, all the mangoes that were hanging on that stalk
 go with it, just so, monks, the body of the Tathāgata stands with the
-cord that binds it to _bhava_ cut
-(__ucchinnabhavanettiko__).”footnote:[Dīgha Nikāya 1.]
+cord that binds it to _bhava_ cut (__ucchinnabhavanettiko__).”
+____
