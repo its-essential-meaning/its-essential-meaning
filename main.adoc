@@ -18,8 +18,6 @@
 
 include::{includes}/preface.adoc[]
 
-include::{includes}/opening.adoc[]
-
 include::{includes}/titlepage.adoc[]
 
 include::{includes}/ch-01-grasping.adoc[]

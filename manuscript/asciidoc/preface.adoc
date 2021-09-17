@@ -3,6 +3,7 @@
 
 In a letter to the author, the late Venerable Ñānavīra Thera stated:
 
+[quote, role=quote-plain]
 ____
 “ … unless one’s thinking is all-of-a-piece, that is, properly speaking,
 no _thinking_ at all. A person who simply makes a collection – however
@@ -92,3 +93,16 @@ understand the Buddha’s Teaching without becoming familiar with the
 Pali.
 
 R.G. de S.W.
+
+<<<<<
+
+[quote, role=quote]
+____
+"Formerly, and now also, Anurādha, it is just Suffering and the
+cessation of Suffering that I proclaim."
+
+_pubbe cāham Anurādha etarahi ca dukkhañceva paññāpemi dukkhassa ca
+nirodhanti_
+
+-- SN 44.2: Anurādhasutta (https://suttacentral.net/sn44.2/en/sujato[link])
+____
