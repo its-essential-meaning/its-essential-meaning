@@ -4,12 +4,12 @@
 It is useful to discuss briefly the subject of intentional action once
 again.
 
-// FIXME: Anguttara Nikāya III, Chakka Nipāta, Mahā Vagga, Sutta No. 9.
-
-[quote, AN XX.XX]
+[quote, role=quote]
 ____
 “Intention, monks, I declare is __kamma__. Having intended, one does
 _kamma_ through body, speech, and mind.”
+
+-- AN 6.63, https://suttacentral.net/an6.63/en/sujato[link]
 ____
 
 This statement of the Buddha is not quite as simple as it is usually
@@ -54,9 +54,7 @@ kind or other. Buddha teaches the extinction of *all* ethics also.
 
 The Buddha teaches the arising and ceasing of _kamma_ thus:
 
-// FIXME: reference Anguttara Nikāya I, Tika Nipāta, Sambodhi Vagga, Sutta No. 9.
-
-[quote, AN XX.XX]
+[quote, role=quote]
 ____
 "Monks, were there _kamma_ performed in lust, born of lust, conditioned
 by lust, arising from lust -- that _kamma_ is unskilful (__akusala__),
@@ -79,6 +77,8 @@ _kamma_ is praiseworthy, that _kamma_ has happiness as fruit, that
 _kamma_ leads to the ceasing of __kamma__. That _kamma_ does not lead to
 the arising of __kamma__. These, monks, are the three conditions for the
 ceasing of __kamma__.”
+
+-- AN 3.111, https://suttacentral.net/an3.111/en/sujato[link]
 ____
 
 Summarized, the above means: unskilful _kamma_ leads to the arising of
@@ -115,9 +115,7 @@ ____
 
 On the other hand:
 
-// FIXME reference Anguttara Nikāya I, Tika Nipāta. Sambodhi Vagga, Sutta No. 10.
-
-[quote, AN XX.XX]
+[quote, role=quote]
 ____
 “How, monks, is desire not born for things which in
 the past were based on desire and attachment … in the future will be
@@ -128,4 +126,6 @@ them. Turning away from them, the mind getting detached from them, one
 penetrates them with wisdom and sees them plain. Thus, monks, is desire
 not born for those things which in the present are based on
 desire.”
+
+-- AN 3.112, https://suttacentral.net/an3.112/en/sujato[link]
 ____

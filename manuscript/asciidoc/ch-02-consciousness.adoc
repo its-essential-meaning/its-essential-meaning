@@ -8,9 +8,9 @@ conscious of Form (i.e. I am conscious either of my body or of an
 external object or of both); I am conscious of Feeling; I am conscious
 of Perception; and I am conscious of Determinations.
 
-// TODO is this a sutta reference?
+// FIXME is this a sutta reference?
 
-[quote]
+[quote, role=quote]
 ____
 “It is as with the
 choir-master of a five-member choir who himself, as the chief, takes up
@@ -37,7 +37,7 @@ Grasping-Consciousness (__upādāna-viññāna__).
 
 Without sufficient reason, the Buddha says, no Consciousness arises.
 
-[quote, MN 38]
+[quote, role=quote]
 ____
 “Consciousness, monks, is named after that in dependence on which it
 comes into being.
@@ -66,14 +66,14 @@ rubbish-fire. In the same way, monks, Consciousness is named after that
 in dependence on which it comes into being. The Consciousness that comes
 into being in respect of sights in dependence on the eye is called
 eye-consciousness …”
+
+-- MN 38
 ____
 
 The four Groups, Form, Feeling, Perception, Determinations, are called
 the supports, or the footholds, or the base, for Consciousness.
 
-// https://suttacentral.net/pi/sn22.54
-
-[quote, SN 22.54]
+[quote, role=quote]
 ____
 “There are these five kinds of seed, monks. What five? Seed from root,
 seed from trunk, seed from joints, seed from shoots, and seed from
@@ -112,6 +112,8 @@ delight, it attains to growth, spread and increase.
 “If Consciousness persists, monks, it is by holding to Feeling …
 Perception … Determinations … that it attains to growth, spread and
 increase.”
+
+-- SN 22.54, https://suttacentral.net/sn22.54/en/sujato[link]
 ____
 
 The footholds for Consciousness can be viewed from a second angle. That

@@ -8,12 +8,14 @@ Consciousness, and its ceasing?
 To this, the Buddha gives the answer: Name-and-Form (__nāma-rūpa__) is
 the basis, the genesis, the condition for Consciousness.
 
-[quote, DN 14]
+[quote, role=quote]
 ____
 “What being present is Consciousness present? Dependent on what does
 Consciousness exist?” The answer is: “Name-and-Form being present, there
 is Consciousness. Dependent on Name-and-Form, Consciousness
 exists.”
+
+-- DN 14, https://suttacentral.net/mn14/en/sujato[link]
 ____
 
 Thus the condition necessary for the arising of Consciousness is
@@ -22,14 +24,16 @@ Name-and-Form.
 Again, “What being present is Name-and-Form present? Dependent on what
 does Name-and-Form exist?” The answer is: “Consciousness being present,
 there is Name-and-Form. Dependent on Consciousness, Name-and-Form
-exists.”^DN{nbsp}14^
+exists.” (DN 14)
 
 Thus the condition for Consciousness is Name-and-Form, and the condition
 for Name-and-Form is Consciousness.
 
-[quote, DN 14]
+[quote, role=quote]
 ____
 “Consciousness turns back from Name-and-Form; it goes not beyond.”
+
+-- DN 14
 ____
 
 All this needs explaining.
@@ -73,7 +77,7 @@ the Four Primary Modes (__catunnaṃ mahābhūtānaṃ__). They are Earth-Mode,
 Water-Mode, Fire-Mode and Air-Mode. They may also be called the
 Solid-Mode, the Fluid-Mode, the Ripening-Mode and the Motion-Mode.
 
-[quote, MN 140]
+[quote, role=quote]
 ____
 “And what, monks, is the Earth-Mode (__paṭhavīdhātu__)? The Earth-Mode
 may be internal, may be external. And what, monks, is the internal
@@ -114,6 +118,8 @@ out-breathing, or whatever other thing is air, become airy, is internal,
 grasped by oneself – this, monks, is called the internal Air-Mode.
 Whatever is the internal Air-Mode and whatever is the external Air-Mode,
 just these are the Air-Mode …”
+
+-- MN 140, https://suttacentral.net/mn140/en/sujato[link]
 ____
 
 In the above definitions the Buddha refers to the Four Primary Modes as
@@ -180,9 +186,7 @@ there are certain feelings which are either pleasant, unpleasant or
 neutral. Further, there is Intention, Attention and Contact in relation
 to the object. All these go to make up Name (__nāma__). “Feeling,
 Perception, Intention, Contact, Attention -- this is called
-Name.”^SN{nbsp}XX.XX^
-
-// FIXME identify the above: Sayutta Nikāya II, Abhisamaya Sayutta, Buddha Vagga, Vibhanga Sutta
+Name.” (SN 12.2, https://suttacentral.net/sn12.2/en/sujato[link])
 
 It should be quite clear from the above that _nāma_ is not ‘mind’.
 _Rūpa_ is ‘matter’, but _nāma_ is not ‘mind’. ‘Mind’, as a sense-base,
@@ -212,8 +216,6 @@ matter more clear.
 
 What now are Intention (__cetanā__), Attention (__manasikāra__), and
 Contact (__phasso__) which are included in Name (__nāma__)?
-
-@@ AT HERE @@
 
 At this moment I am sitting. The *present* phenomenon is a sitting
 position. This present phenomenon, the sitting position, now brings to
@@ -246,11 +248,9 @@ choice*. All other positions are sacrificed and this one position is
 consciously held to. This action, or this exercise of choice, is called
 *Intentional Action*. From the intentional action there comes to be
 *present* the new position. “Thus, Ānanda, intentional action is the
-field, Consciousness is the seed.”^AN{nbsp}3.76^ Just as the seed springs up out of
+field, Consciousness is the seed.” (AN 3.76, https://suttacentral.net/an3.76/en/sujato[link]) Just as the seed springs up out of
 the field the new position becomes present (Consciousness) resulting
 from the intentional action (__kamma__).
-
-// Above: https://suttacentral.net/pi/an3.76
 
 *All conscious action is intentional*. Conscious action is the
 exercise of preference for one available mode of behaviour or action at
@@ -270,9 +270,7 @@ can be no experience. Examination of it also throws some light on how
 Name-and-Form is dependent on Consciousness and Consciousness is
 dependent on Name-and- Form.
 
-// FIXME: reference below for Saṃyutta Nikāya 11. Abhisamaya Saṃyutta, Gahepati Vagga, Dukkha Sutta
-
-[quote, SN XX.XX]
+[quote, role=quote]
 ____
 “In dependence on eye and sights springs up eye-consciousness. The
 *coming together* of the three is called Contact … In dependence on ear
@@ -280,6 +278,8 @@ and sounds … In dependence on nose and odours … In dependence on tongue
 and taste … In dependence on body and touch … In dependence on mind and
 ideas springs up mind-consciousness. The *coming together* of the three
 is called Contact.”
+
+-- SN 12.43, https://suttacentral.net/sn12.43/en/sujato[link]
 ____
 
 There is something important to be noted here. Broadly, by Contact is
@@ -300,7 +300,7 @@ Yet, though Perception, Feeling and Determinations are dependent on
 Contact, Form is not dependent on Contact. Form is dependent on the Four
 Primary Modes.
 
-[quote, MN 109]
+[quote, role=quote]
 ____
 “Monk, it is to be seen that the Group of Form (or ‘matter’) is
 dependent on the Four Primary Modes, is conditioned by the Four Primary
@@ -308,12 +308,14 @@ Modes. The Group of Feeling is dependent on, is conditioned by Contact.
 The Group of Perception is dependent on, is conditioned by Contact. The
 Group of Determinations is dependent on, is conditioned by
 Contact.”
+
+-- MN 109, https://suttacentral.net/mn109/en/sujato[link]
 ____
 
 Now, Contact is dependent on Name-and-Form. The Buddha teaches that this
 should be understood thus:
 
-[quote, DN 15]
+[quote, role=quote]
 ____
 “Ānanda, those modes, features, characteristics, exponents, by which
 Name-body is to be seen -- if all those modes, features, characteristics
@@ -352,6 +354,8 @@ particular coming together)?”
 
 “Wherefore, Ānanda, just that is the reason, the ground the arising, the
 condition for Contact, to wit, Name-and-Form.”
+
+-- DN 15, https://suttacentral.net/dn15/en/sujato[link]
 ____
 
 Since it is important to understand this rather difficult teaching let
@@ -423,7 +427,7 @@ There are things which, however, do not have a
 total-either-way-simultaneity as Name-and-Form and Consciousness have.
 For example perception and knowledge. “Perception arises first,
 knowledge arises thereafter (in dependence on
-Perception)”^DN{nbsp}9^ But the case with Name-and-Form
+Perception)” (DN 9) But the case with Name-and-Form
 and Consciousness is different. Since they depend on each other they
 arise together and cease together. One neither precedes nor follows the
 other in time. The relationship that Name-and-Form and Consciousness

@@ -4,7 +4,7 @@
 :author: R.G. de S. Wettimuny
 :creator: {author}
 :version: v0.1.0
-:revdate: 2017-11-05
+:revdate: 2021-09-18
 :doctype: book
 :lang: en
 :keywords: Wettimuny, Dhamma, Buddhism, RELIGION / Buddhism / Theravada
@@ -25,11 +25,13 @@ include::{includes}/ch-02-consciousness.adoc[]
 include::{includes}/ch-03-name-and-form-and-consciousness.adoc[]
 include::{includes}/ch-04-tanha-and-bhava.adoc[]
 include::{includes}/ch-05-kamma.adoc[]
-include::{includes}/ch-06-sankhara.adoc[]
-include::{includes}/ch-07-holding-to-belief-in-self.adoc[]
-include::{includes}/ch-08-impermanence.adoc[]
-include::{includes}/ch-09-all-things-are-not-self.adoc[]
-include::{includes}/ch-10-birth-decay-and-death.adoc[]
+
+//include::{includes}/ch-06-sankhara.adoc[]
+//include::{includes}/ch-07-holding-to-belief-in-self.adoc[]
+//include::{includes}/ch-08-impermanence.adoc[]
+//include::{includes}/ch-09-all-things-are-not-self.adoc[]
+//include::{includes}/ch-10-birth-decay-and-death.adoc[]
+
 //include::{includes}/ch-11-suffering.adoc[]
 //include::{includes}/ch-12-ignorance.adoc[]
 //include::{includes}/ch-13-nibbana.adoc[]
