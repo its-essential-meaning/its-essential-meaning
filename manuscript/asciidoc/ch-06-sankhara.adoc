@@ -19,22 +19,20 @@ Secondly, in the context of the Doctrine of Dependent Arising
 it is defined as bodily-__saṅkhāra__, verbal-__saṅkhāra__ and
 mental-__saṅkhāra__ thus:
 
-// FIXME reference Saṁyutta Nikāya II, Abhisamaya Saṃyutta, Buddha Vagga, Vibhaṅga Sutta.
-
-[quote, SN XX.XX]
+[quote, role=quote]
 ____
 “What, monks, are the __saṅkhāra__? They are
 the three __saṅkhāra__, namely, bodily-__saṅkhāra__, verbal-__saṅkhāra__
 and mental-__saṅkhāra__. These, monks, are called the
 __saṅkhāra__.”
+
+-- SN 12.2, https://suttacentral.net/sn12.2/en/sujato[link]
 ____
 
 These three kinds of _saṅkhāra_ are in turn defined in the
 __Cūlavedalla Sutta__  as follows:
 
-// TODO add note about who is asking and replying
-
-[quote, MN 44]
+[quote, role=quote]
 ____
 “Friend, Visākha, in-breathing and out-breathing are the
 bodily-__saṅkhāra__. Discursive thinking is the verbal-__saṅkhāra__
@@ -51,19 +49,23 @@ bodily-__saṅkhāra__. Having earlier had discursive thinking, one
 subsequently utters words. Therefore discursive thinking is
 verbal-__saṅkhāra__. Perception and Feeling are mental. These are
 closely connected with the mind. Therefore they are mental-__saṅkhāra__.”
+
+-- MN 44, https://suttacentral.net/mn44/en/sujato[link]
 ____
 
 Thirdly, in the __Kukkuravatiya Sutta__, bodily-__saṅkhāra__,
 verbal-__saṅkhāra__ and mental-__saṅkhāra__ appear in a somewhat different
 context thus:
 
-[quote, MN 57]
+[quote, role=quote]
 ____
 “Here, Punna, someone determines a
 bodily-__saṅkhāra__ that is harmful, determines a verbal-__saṅkhāra__
 that is harmfu1, determines a mental-__saṅkhāra__ that is harmful. He
 having determined a bodily-__saṅkhāra__ … a verbal-__saṅkhāra__ … a
 mental-__saṅkhāra__ that is harmful, upbrings a world that is harmful.”
+
+-- MN 57, https://suttacentral.net/mn57/en/sujato[link]
 ____
 
 Fourthly, in the context of the Doctrine of Dependent Arising, the
@@ -71,9 +73,7 @@ __Parivīmaṁsana Sutta__ contains _saṅkhāra_ as
 meritorious-__saṅkhāra__, demeritorious-__saṅkhāra__, and
 imperturbable-__saṅkhāra__, thus:
 
-// FIXME reference Saṃyutta Nikāya 11. Abhisamaya Saṃyutta, Dukkha Vagga, Sutta No. 1.
-
-[quote, SN XX.XX]
+[quote, role=quote]
 ____
 “Were, monks, an ignorant individual
 to determine a meritorious-__saṅkhāra__ his consciousness would go
@@ -86,13 +86,13 @@ arising of Knowledge does not determine meritorious-__saṅkhāra__, does
 not determine demeritorious-__saṅkhāra__, does not determine
 imperturbable-__saṅkhāra__. Not determining, not intending, he grasps at
 nothing in the world.”
+
+-- SN 12.51, https://suttacentral.net/sn12.51/en/sujato[link]
 ____
 
 Fifthly, the __Khajjaniya Sutta__ identifies _saṅkhāra_ as the fourth Group thus.
 
-// FIXME reference Saṃyutta Nikāya II, Khandha Saṃyutta, Khajjaniya Vagga, Sutta No. 7.
-
-[quote, SN XX.XX]
+[quote, role=quote]
 ____
 “Why, monks, do ye say __sahkhāra__? They determine (__abhisaṅkaronti__)
 the determined. That is why they are called __saṅkhāra__. What is the
@@ -104,6 +104,8 @@ Determinations do they detemine in accordance with the nature of
 Determinations. Determined Consciousness do they determine in accordance
 with the nature of Consciousness. They determine the determined. That is
 why they are called __saṅkhāra__.”
+
+-- SN 22.79 https://suttacentral.net/sn22.79/en/sujato[link]
 ____
 
 Sixthly, in the _Mahāvedalla Sutta_ (MN 43) heat is called a life-__saṅkhāra__,
