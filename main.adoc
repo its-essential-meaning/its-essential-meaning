@@ -25,10 +25,10 @@ include::{includes}/ch-02-consciousness.adoc[]
 include::{includes}/ch-03-name-and-form-and-consciousness.adoc[]
 include::{includes}/ch-04-tanha-and-bhava.adoc[]
 include::{includes}/ch-05-kamma.adoc[]
+include::{includes}/ch-06-sankhara.adoc[]
+include::{includes}/ch-07-holding-to-belief-in-self.adoc[]
+include::{includes}/ch-08-impermanence.adoc[]
 
-//include::{includes}/ch-06-sankhara.adoc[]
-//include::{includes}/ch-07-holding-to-belief-in-self.adoc[]
-//include::{includes}/ch-08-impermanence.adoc[]
 //include::{includes}/ch-09-all-things-are-not-self.adoc[]
 //include::{includes}/ch-10-birth-decay-and-death.adoc[]
 
@@ -41,7 +41,7 @@ include::{includes}/ch-05-kamma.adoc[]
 //
 //include::{includes}/appx-01-mano-and-citta.adoc[]
 
-include::{includes}/glossary.adoc[]
+//include::{includes}/glossary.adoc[]
 
 include::{includes}/copyright.adoc[]
 

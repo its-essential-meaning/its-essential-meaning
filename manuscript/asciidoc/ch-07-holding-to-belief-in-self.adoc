@@ -16,7 +16,7 @@ seIf.”^Snp{nbsp}1119^ With the uprooting and destruction of these false views 
 things follow.
 
 The notion of ‘self-hood’ is fundamentally a notion of
-**mastery**footnote:[The Pali word is __vasa__. See Majjhima Nikāya 35.]
+**mastery**footnote:[The Pali word is __vasa__. See https://suttacentral.net/mn35[Majjhima Nikāya 35].]
 over things, a notion of being able to wield power over things, which in
 the final analysis is a notion of mastery over Form, Feeling,
 Perception, Determinations and Consciousness. ‘I am master over this
@@ -75,7 +75,7 @@ the rest thus: ‘The self, the world’ (__attā ca loko ca__). And he
 further keeps deliberating about himself (that is about the Five
 Grasping Groups regarded as ‘self’) thus:
 
-[quote, MN 2]
+[quote, role=quote]
 ____
 * ‘Was I in the past’,
 * ‘was I not in the past’,
@@ -108,6 +108,8 @@ were real and true:
 * or ‘this my self which feels pleasant and unpleasant feelings, reaps the
 fruit of good and bad action, is permanent, steadfast, eternal, not
 transitory, stands unchanging as an etemal thing’.
+
+-- https://suttacentral.net/mn2[MN 2], All the Defilements
 ____
 
 Thus he is gone to (wrong) view, or he is of (wrong) view (__diṭṭhigata__).
@@ -119,9 +121,7 @@ not hold to a belief in ‘self’, these deliberations do not arise.
 This regarding or viewing the Grasping Groups as ‘self’ in some way or
 other is called the ‘person’-view (__sakkāyadiṭṭhi__).
 
-// TODO add note about who is asking and replying
-
-[quote, MN 44]
+[quote, role=quote]
 ____
 “But how, noble lady, is there the ‘person’-view?”
 
@@ -136,6 +136,8 @@ the Worthy Ones, untrained in the Doctrine of the Worthy Ones, regards
 * or regards ‘self’ as being in Consciousness.
 
 Thus, friend Visakha, it is said there is the ‘person’-view.”
+
+-- https://suttacentral.net/mn44[MN 44], The Shorter Classification
 ____
 
 But why say ‘*person*’-view (__sakkāyadiṭṭhi__)?
@@ -151,15 +153,13 @@ __sakkāya__, i.e., a ‘person’, a ‘somebody’, a collection of Five
 Grasping Groups which regards itself as master over itself. To be
 precise the Five Grasping Groups takes itself to be a __sakkāya__.
 
-// FIXME reference Saṃyutta Nikāya III, Khandha Saṃyutta, Anta Vagga, Sutta No. 3.
-
 Another word is __satta__. The _puthujjana_ takes himself to be a
 __satta__. _Satta_ or _sakkāya_ refers to the sentient being regarded in
 some way or other as ‘self’. That is, it refers to the Five Grasping
 Groups taken to be ‘self’. It is the __puthujjana__’s concept of the
 sentient being. It is his concept of himself. That is why the Five
 Grasping Groups are called __sakkāya__.footnote:[“What, monks, is the
-__sakkāya__? The Five Grasping Groups are to be so called.” (SN XX.XX)]
+__sakkāya__? The Five Grasping Groups are to be so called.” (https://suttacentral.net/sn22.105[SN 22.105])]
 To have this concept means to be gone to ‘person’-view.
 
 Again, the Five Grasping Groups looks upon itself as ‘self’ so long as
@@ -229,15 +229,15 @@ narrates at length the many things that the _puthujjana_ takes to be
 ‘mine’. He does *not* include the other two notions of ‘I’ and ‘self’ at
 all in this Discourse.
 
-// FIXME reference Saṃyutta Nikāya III, Khandha Saṃyutta, Thera Vagga, Sutta No. 1.
-
 Further, in the __Ananda Sutta__ we have the following:
 
-[quote, SN XX.XX]
+[quote, role=quote]
 ____
 “By grasping Form is there ‘I am’, not by not-grasping (__rūpam upādāya
 asmīti hoti no anupādāya__). By grasping Feeling … Perception …
 Determinations … Consciousness is there ‘I am’, not by not-grasping.”
+
+-- https://suttacentral.net/sn22.83[SN 22.83], With Ānanda
 ____
 
 This too indicates that ‘mine’ (which is essentially the same as what

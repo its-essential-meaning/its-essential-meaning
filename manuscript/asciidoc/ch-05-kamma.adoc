@@ -9,7 +9,7 @@ ____
 “Intention, monks, I declare is __kamma__. Having intended, one does
 _kamma_ through body, speech, and mind.”
 
--- AN 6.63, https://suttacentral.net/an6.63/en/sujato[link]
+-- https://suttacentral.net/an6.63[AN 6.63], Penetrative
 ____
 
 This statement of the Buddha is not quite as simple as it is usually
@@ -78,7 +78,7 @@ _kamma_ leads to the ceasing of __kamma__. That _kamma_ does not lead to
 the arising of __kamma__. These, monks, are the three conditions for the
 ceasing of __kamma__.”
 
--- AN 3.111, https://suttacentral.net/an3.111/en/sujato[link]
+-- https://suttacentral.net/an3.111[AN 3.111], Sources (1st)
 ____
 
 Summarized, the above means: unskilful _kamma_ leads to the arising of
@@ -127,5 +127,5 @@ penetrates them with wisdom and sees them plain. Thus, monks, is desire
 not born for those things which in the present are based on
 desire.”
 
--- AN 3.112, https://suttacentral.net/an3.112/en/sujato[link]
+-- https://suttacentral.net/an3.112[AN 3.112], Sources (2nd)
 ____

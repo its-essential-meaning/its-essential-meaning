@@ -13,7 +13,7 @@ Grasping Group of Determinations, the Grasping Group of Consciousness.
 These Five Grasping Groups, friend Visakha, has the Exalted One called
 the ‘person’.”
 
--- MN 44
+-- https://suttacentral.net/mn44[MN 44], The Shorter Classification
 ____
 
 Thus the Buddha teaches me that I comprise five groups or aggregates of
@@ -26,7 +26,7 @@ ____
 (_dhātu_), and the Form that is present by grasping (_upādāya_) the
 Four Primary Modes -- this, monks, is called Form.”
 
--- SN 22.56, https://suttacentral.net/sn22.56/en/sujato[link]
+-- https://suttacentral.net/sn22.56[SN 22.56], Perspectives
 ____
 
 The Four Primary Modes mentioned here are the Earth-Mode, Water-Mode,
@@ -40,7 +40,7 @@ constitute this ‘matter’. They refer to four distinguishable general
 *modes of behaviour*, according to which ‘matter’ makes itself known.
 The most important group of behaviors to me is that which I refer to as
 ‘my body’ – “this material body made up of the Four Primary Modes”
-(__kāyo rūpī catummahābhūtiko__, MN 74).
+(__kāyo rūpī catummahābhūtiko__, https://suttacentral.net/mn74[MN 74]).
 
 ____
 “And what, monks, is Feeling (__vedanā__)? It is these six
@@ -73,9 +73,7 @@ intention with regard to ideas. These, monks are called Determinations.”
 “And what, monks, is Consciousness (__viññāna__)? It is these six
 consciousness-groups, namely: eye-consciousness, ear-consciousness,
 nose-consciousness, tongue-consciousness, body-consciousness,
-mind-consciousness. This, monks, is called Consciousness.”
-
--- SN 22.56
+mind-consciousness. This, monks, is called Consciousness.” (https://suttacentral.net/sn22.56[SN 22.56])
 ____
 
 The personality is thus analysed and broken up into its constituent
@@ -95,7 +93,7 @@ dissociated, and it is impossible to dissociate one from the other and
 show their differences. For, whatever one feels, one perceives and
 whatever one perceives, of that one is conscious.”
 
--- MN 43
+-- https://suttacentral.net/mn43[MN 43], The Great Classification
 ____
 
 Then again we have the Buddha teaching:
@@ -108,7 +106,7 @@ from Determinations, I will show the coming, or the going, or the
 disappearance, or the appearance, or the growth, or the increase, or the
 abundance of Consciousness’ -- that is not possible.”
 
--- SN 22.53, https://suttacentral.net/sn22.53/en/sujato[link]
+-- https://suttacentral.net/sn22.53[SN 22.53], Involvement
 ____
 
 Before proceeding any further it is extremely important to understand
@@ -181,7 +179,7 @@ Determinations are a thing to be comprehended; Consciousness is a thing
 to be comprehended. These, monks, are the things to be comprehended. And
 what, monks, is comprehending ...”
 
--- SN 22.106, https://suttacentral.net/sn22.106/en/sujato[link]
+-- https://suttacentral.net/sn22.106[SN 22.106], Should Be Completely Understood
 ____
 
 The immediate question that arises is: Could there be a Group of Form, a

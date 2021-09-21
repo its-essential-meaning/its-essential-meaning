@@ -53,33 +53,22 @@ transformation*.”
 
 Now, the Buddha teaches:
 
-// FIXME reference Anguttara Nikāya I, Tika Nipāta, Cūla Vagga, Sutta No. 7.
-
-[quote, AN XX.XX]
+[quote, role=quote]
 ____
 “Monks, there are these three
 Determined-characteristics of the Determined (__saṅkhata__). What
 three? Arising is to be discerned, passing away is to be discerned,
 otherwise-ness in persistence is to be discerned. These are the three
 Determined-characteristics of the __Determined__.”
-____
 
-And:
-
-// FIXME reference Anguttara Nikāya I , Tikaa Nipāta, Cūla Vagga. Sutta No. 8.
-
-[quote, AN XX.XX]
-____
 “Monks, there are these three Not-Determined-characteristics
 of the Not-Determined (__asaṅkhata__). What three? Arising is not to
 be discerned, passing away is not to be discerned, otherwise-ness in
 persistence is not to be discerned. These are the three
 Not-Determined-characteristics of the Not-Determined.”
+
+-- https://suttacentral.net/an3.47[AN 3.47], Characteristics of the Conditioned and the Unconditioned
 ____
-
-// FIXME reference Saṃyutta Nikāya IV, Avyākata Saṃyutta, Sutta No. 2.
-
-// FIXME reference Anguttara Nikāya IV, Aṭṭhaka Nipāta, Maha Vagga, Sutta No. 9.
 
 In understanding the above we must remember what the Buddha refers to as
 the Determined (__saṅkhata__) and the Not-Determined (__asaṅkhata__).
@@ -89,20 +78,19 @@ the domain of his Teaching. But it is very dangerous. We must know
 always precisely what he is referring to, and avoid stretching the
 limits in our own imagination. He specifically said that he teaches only
 one thing always, i.e. Suffering and the cessation of Suffering.
-“Formerly, and now also, Anuradha, it is just Suffering and the
-cessation of Suffering that I proclaim.”^SN{nbsp}XX.XX^ He also said that his Teaching has the
+“Formerly, and now also, Anurādha, it is just Suffering and the
+cessation of Suffering that I proclaim.” (https://suttacentral.net/sn44.2[SN 44.2])
+He also said that his Teaching has the
 taste of Deliverance right through. “Just as the great ocean, Paharada,
 has but one taste, the taste of salt, even so, Paharada, this Dhamma and
 Discipline has but one taste, the taste of
-Deliverance.”^AN{nbsp}XX.XX^ The words Determined and Not-Determined are also
+Deliverance.” (https://suttacentral.net/an8.19[AN 8.19]) The words Determined and Not-Determined are also
 used by him in relation to that *one* thing he teaches -- Suffering and
 the cessation of Suffering.
 
 What now is the Determined?
 
-// FIXME reference to Khajjaniya Sutta
-
-As the _Khajjaniya Sutta_ tells us, it is the Five Grasping Groups. This
+As the _Khajjanīya Sutta_ tells us (https://suttacentral.net/sn22.79[SN 22.79]), it is the Five Grasping Groups. This
 means that it refers to the ‘person’, or to ‘self’, or to the subject
 ‘I’. These are all detemined things. Hence they are called the
 Determined (__saṅkhata__). Of all the things that have been determined
@@ -162,12 +150,12 @@ What now is the Not-Determined?
 
 The Not-Determined is defined as follows:
 
-// FIXME reference Saṃyutta Nikāya IV, Asaṅkhata Saṃyutta, Sutta No. 12.
-
-[quote, SN XX.XX]
+[quote, role=quote]
 ____
 “The destruction of lust, the destruction of hatred, the destruction of
 delusion -- this, monks, is called the Not-Determined (__asaṅkhata__).”
+
+-- https://suttacentral.net/sn43.12[SN 43.12], The Unconditioned
 ____
 
 The Path leading to the Not-Determined is further defined as the
@@ -176,12 +164,12 @@ Noble Eightfold Path.
 Then we have Arahatship also defined as the destruction of lust and of
 hatred and of delusion:
 
-// FIXME reference Saṃyutta Nikāya IV. Jambukhādaka Saṃyutta, Sutta No. 2.
-
-[quote, SN XX.XX]
+[quote, role=quote]
 ____
 “The destruction of lust, the destruction of hatred, the destruction of
 delusion -- this, friend, is called Arahatship.”
+
+-- https://suttacentral.net/sn38.2[SN 38.2], A Question About Perfection
 ____
 
 Thus, the Not-Determined is synonymous with Arahatship. The
@@ -191,14 +179,14 @@ the Not-Determined, and is now living experiencing the Not-Determined.
 
 Now, actually and in truth, there is no ‘Arahat’ to be found.
 
-// FIXME reference Saṃyutta Nikāya IV, Avyākata Saṃyutta, Sutta No. 2.
-
-[quote, SN XX.XX]
+[quote, role=quote]
 ____
 “Anurādha, the __Tathāgata__,footnote:[Tathāgata refers to the Buddha.] actually
 and in truth, is here not to be found.”
 
 “__Anurādha, diṭṭheva dhamme saccato thetato Tathāgate anupalabbhyamāne.__”
+
+-- https://suttacentral.net/sn44.2[SN 44.2], With Anurādha
 ____
 
 The reason for this is that there
@@ -321,7 +309,7 @@ negative. To the _puthujjana_ a ‘self’ always **appears**, but never
 does he find it when he tries to.
 
 What the Buddha said was: “All things are Not-self” (__sabbe dhammā
-anattā__)^MN{nbsp}35^. It simply means that no thing
+anattā__, https://suttacentral.net/mn35[MN 35]). It simply means that no thing
 is self, or that if you look for a self you will not find one. ‘Self’ is
 a deception, like a mirage. It does not mean that the mirage, as such,
 does not exist. The mirage *does* exist. And it keeps persisting. It

@@ -26,7 +26,7 @@ the three __saṅkhāra__, namely, bodily-__saṅkhāra__, verbal-__saṅkhāra_
 and mental-__saṅkhāra__. These, monks, are called the
 __saṅkhāra__.”
 
--- SN 12.2, https://suttacentral.net/sn12.2/en/sujato[link]
+-- https://suttacentral.net/sn12.2[SN 12.2], Analysis
 ____
 
 These three kinds of _saṅkhāra_ are in turn defined in the
@@ -50,7 +50,7 @@ subsequently utters words. Therefore discursive thinking is
 verbal-__saṅkhāra__. Perception and Feeling are mental. These are
 closely connected with the mind. Therefore they are mental-__saṅkhāra__.”
 
--- MN 44, https://suttacentral.net/mn44/en/sujato[link]
+-- https://suttacentral.net/mn44[MN 44], The Shorter Classification
 ____
 
 Thirdly, in the __Kukkuravatiya Sutta__, bodily-__saṅkhāra__,
@@ -65,7 +65,7 @@ that is harmfu1, determines a mental-__saṅkhāra__ that is harmful. He
 having determined a bodily-__saṅkhāra__ … a verbal-__saṅkhāra__ … a
 mental-__saṅkhāra__ that is harmful, upbrings a world that is harmful.”
 
--- MN 57, https://suttacentral.net/mn57/en/sujato[link]
+-- https://suttacentral.net/mn57[MN 57], The Ascetic Who Behaved Like a Dog
 ____
 
 Fourthly, in the context of the Doctrine of Dependent Arising, the
@@ -87,7 +87,7 @@ not determine demeritorious-__saṅkhāra__, does not determine
 imperturbable-__saṅkhāra__. Not determining, not intending, he grasps at
 nothing in the world.”
 
--- SN 12.51, https://suttacentral.net/sn12.51/en/sujato[link]
+-- https://suttacentral.net/sn12.51[SN 12.51], A Full Inquiry
 ____
 
 Fifthly, the __Khajjaniya Sutta__ identifies _saṅkhāra_ as the fourth Group thus.
@@ -105,10 +105,10 @@ Determinations. Determined Consciousness do they determine in accordance
 with the nature of Consciousness. They determine the determined. That is
 why they are called __saṅkhāra__.”
 
--- SN 22.79 https://suttacentral.net/sn22.79/en/sujato[link]
+-- https://suttacentral.net/sn22.79[SN 22.79], Itchy
 ____
 
-Sixthly, in the _Mahāvedalla Sutta_ (MN 43) heat is called a life-__saṅkhāra__,
+Sixthly, in the _Mahāvedalla Sutta_ (https://suttacentral.net/mn43[MN 43]) heat is called a life-__saṅkhāra__,
 as that on which depends (__paṭicca__) life.
 
 It might assist the reader to see the above mentioned relationships

@@ -88,9 +88,9 @@ the mind that is freed from the cankers of sense-pleasure and
 Ignorance. The Buddha said that his mind was freed from the canker of
 __bhava__: “Thus knowing, thus seeing, my mind was freed from the canker
 of sense-pleasure, freed from the canker of __bhava__, freed from the
-canker of Ignorance.” (MN 36) He described himself
+canker of Ignorance.” (https://suttacentral.net/mn36[MN 36]) He described himself
 as “gone to the end of __bhava__” -- __bhavassa
-pāragu__. (Iti 100) He did not say he was *going* to the
+pāragu__. (https://suttacentral.net/iti100[Iti 100]) He did not say he was *going* to the
 end of __bhava__. He said that he had already *gone* to the end of
 __bhava__; which means he lives free from __bhava__. In him _bhava_ has
 ceased. He is __bhavanirodha__, because he is completely free from
@@ -111,9 +111,9 @@ of ‘I’ and ‘mine’ are extinct and do not arise again, ‘my existence’
 ‘I exist’ are also extinct and do not arise again.
 
 The Arahat “has gone beyond all __bhava__” -- __upaccagā
-sabbabhavāni__. (Uda 3.10, https://suttacentral.net/ud3.10/en/sujato[link]) The Arahat
+sabbabhavāni__. (https://suttacentral.net/ud3.10[Uda 3.10]) The Arahat
 Maha Kassapa declared that he had “escaped from __bhava__” --
-__bhavābhinissato__. (Thag 1089) _Bhava_ ceases with the
+__bhavābhinissato__. (Thag 1089 FIXME: add link) _Bhava_ ceases with the
 attainment of Arahatship. Thereafter the Arahat lives freed from
 __bhava__, delivered from __bhava__. Before the ascetic Gotama attained
 Arahatship all life that existed was __bhava__. With his attaining
@@ -121,7 +121,7 @@ Arahatship there came to be for the first time in the world a life free
 of __bhava__.
 
 _Bhava_ is also called a fetter. This fetter is completely cut off and
-destroyed in the Arahat. He is __parikkhīnabhavasaññojano__. (SN 22.110, https://suttacentral.net/sn22.110/en/sujato[link])
+destroyed in the Arahat. He is __parikkhīnabhavasaññojano__. (https://suttacentral.net/sn22.110[SN 22.110])
 
 If _bhava_ means ‘existence’ pure and simple, then the living Arahat
 cannot have completely destroyed __bhava__, for as a living Arahat there
@@ -171,7 +171,7 @@ made: “To the extent, revered Sir, that this self is of Form, is made up
 of the Four Primary Modes, is from the union of the parents, is cut off
 and destroyed on the dissolution of the body, and does not exist after
 death, to that extent is there a complete cutting off of the
-self.” (DN 1)
+self.” (https://suttacentral.net/dn1[DN 1])
 
 This thinking, in the final analysis, only confirms ‘self’-existence.
 Thus _vibhava_ -- denial of ‘self’-existence -- only confirms __bhava__,
@@ -190,7 +190,7 @@ post keeps running and circling round the post, so do these worthy
 recluses and brahmins, afraid of the ‘person’, loathing the ‘person’,
 simply keep running and circling round the ‘person’.”
 
--- MN 102, https://suttacentral.net/mn102/en/sujato[link]
+-- https://suttacentral.net/mn102[MN 102]
 ____
 
 Wanting the cutting off of ‘self’-existence and the destruction of
@@ -206,7 +206,7 @@ three kinds of __taṇhā__.
 
 Thus the __puthujjana__’s intentional action is determined by __taṇhā__.
 “So, Ānanda, action is the field, Consciousness the seed, and _taṇhā_
-the moisture.” (AN 3.76, https://suttacentral.net/an3.76/en/sujato[link])
+the moisture.” (https://suttacentral.net/an3.76[AN 3.76])
 Just as moisture must be present for the seed to sprout up
 out of the field, so must _taṇhā_ be there for the __puthujjana__’s
 Consciousness to arise from his intentional action. _Taṇhā_ is one of
@@ -236,15 +236,15 @@ and many a bad and unskilled state of things such as blows and wounds,
 strife, contradiction and retort, quarrelling, slander and lies arise
 from keeping watch and ward.”
 
--- DN 15, https://suttacentral.net/dn15/en/sujato[link]
+-- https://suttacentral.net/dn15[DN 15], The Great Discourse on Causation
 ____
 
 Desire (__chanda__), attachment (__rāga__) and delight (__nandi__) have
 also been referred to as Grasping (__upādāna__). “Friend, Visakha, that
 desire and attachment there is in the Five Grasping Groups, that there,
-is the Grasping.” (MN 44, https://suttacentral.net/mn44/en/sujato[link])
+is the Grasping.” (https://suttacentral.net/mn44[MN 44])
 And, “Whatsoever there
-is delight in Feeling, that is Grasping.” (MN 38, https://suttacentral.net/mn38/en/sujato[link])
+is delight in Feeling, that is Grasping.” (https://suttacentral.net/mn38[MN 38])
 This means to say that grasping something also means desiring of it, or
 being attached to it, or delighting in it. This is so because desiring,
 or being attached, or delighting, is *in effect* the same as regarding
@@ -265,7 +265,7 @@ of various means there are in the mind, Radha, towards Form … Feeling …
 Perception … Determinations … Consciousness, that is called the cord of
 __bhava__. The cessation of these is the cessation of the cord of __bhava__.”
 
--- SN 23.3, https://suttacentral.net/sn23.3/en/sujato[link]
+-- https://suttacentral.net/sn23.3[SN 23.3], Attachment To Rebirth
 ____
 
 Just as a bunch of mangoes hanging by a stalk will fall down when the
@@ -280,5 +280,5 @@ of mangoes has been cut, all the mangoes that were hanging on that stalk
 go with it, just so, monks, the body of the Tathāgata stands with the
 cord that binds it to _bhava_ cut (__ucchinnabhavanettiko__).”
 
--- DN 1, https://suttacentral.net/dn1/en/sujato[link]
+-- https://suttacentral.net/dn1[DN 1], The Prime Net
 ____
