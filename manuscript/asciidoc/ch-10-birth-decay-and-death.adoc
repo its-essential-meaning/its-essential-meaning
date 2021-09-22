@@ -7,7 +7,7 @@ he could get beyond these phenomena. All these were nothing but
 Suffering. And as Gotama the Buddha he claimed he had won the not-born,
 the not-decaying and the not-dying.
 
-[quote, MN 26]
+[quote, role=quote]
 ____
 “So I, monks, being liable to birth because of ‘self’ (__attanā__),
 having known the peril in what is liable to birth, seeking the non-born,
@@ -23,6 +23,8 @@ uttermost security from the bonds - Nibbāna. Being liable to stain
 because of ‘self’ ... won the stainless, the uttermost security from the
 bonds - Nibbāna. Knowledge and vision arose in me: ‘Unshakeable is
 my Deliverance; this is the end of birth; there is no _bhava_ again now.’”
+
+-- https://suttacentral.net/mn26[MN 26], The Noble Search
 ____
 
 But the _puthujjana_ sees the Buddha ‘decaying’ and ‘dying’ in the same
@@ -40,9 +42,7 @@ phenomenon of birth, decay and death.
 The definition of birth, decay and death given by the Buddha himself is
 as follows:
 
-// FIXME reference Saṃyutta Nikāya II, Abhisamaya Saṃyutta, Buddha Vagga, Sutta No. 2.
-
-[quote, SN XX.XX]
+[quote, role=quote]
 ____
 “And what monks, is birth?”
 
@@ -61,15 +61,15 @@ beings, is falling, separation, breaking up, disappearance, mortality,
 death, completion of time, breaking up of the Groups, laying down of the
 body, cutting off of the living senses -- this is called death. Thus it
 is, this decay and this dying that is called decay and death.”
+
+-- https://suttacentral.net/sn12.2[SN 12.2], Analysis
 ____
 
 Now, birth, decay and death in the above are referred to in relation to
 ‘beings’. The Pali word is __satta__. _Satta_ (being) is defined for us
 as follows:
 
-// FIXME reference Saṃyutta Nikāya III, Rādha Saṃyutta, Satta Sutta.
-
-[quote, SN XX.XX]
+[quote, role=quote]
 ____
 "‘Being! being! (__satta__)’ it is said. To what extent, Lord, is one
 called a being?”
@@ -78,6 +78,8 @@ called a being?”
 is concerned with Form ... Feeling ... Perception ... Determinations ...
 Consciousness -- entangled thereby, fast entangled thereby, *therefore* is
 one called a ‘being’.”
+
+-- https://suttacentral.net/sn23.2[SN 23.2], Sentient Beings
 ____
 
 Very clearly, _satta_ (being) refers to the Five _Grasping_ Groups. For,
@@ -132,7 +134,7 @@ and death. This thinking of his own past birth and his own future death
 goes on right through his life, forming a part of the mass of Suffering
 that exists for him.
 
-[quote, Dhp 1]
+[quote, role=quote]
 ____
 “Things have mind as forerunner, mind as chief, are mind made.”
 
@@ -142,29 +144,29 @@ to. Quite understandably it has been given first precedence in this
 collection of verses in as much as the _Mūlapariyāya Sutta_ has been
 given first precedence in the collection of medium length discourses
 called the __Majjhima Nikāya__.]
+
+- https://suttacentral.net/dhp1-20[Dhp 1]
 ____
 
 What drove Prince Siddharta out of his
 palace at the age of twenty-nine was not the actual event of his birth
 or of a death, but the *thought* of his past birth and a death to come.
 
-// FIXME reference Saṃyutta Nikāya II, Abhisamaya Saṃyutta, Kaḷārakhattiya Vagga, Sutta No. 8
-
 __Jāti__, it must be noted, is *not* rebirth. In the Pali, rebirth is
 __punabbavābhinibbatti__, which means, **the coming to be of a renewed
 bhava.**footnote:[For example: _katam panāvuso āyatim
 punabbhavābhinibbatti_ -- “How, friend, is there the coming to be of a
-renewed __bhava__? (MN 43). In the following Sutta
+renewed __bhava__? (https://suttacentral.net/mn43[MN 43]). In the following Sutta
 passage both _jāti_ and _punabbhavābhinibbatti_ appear: _āyatim
 punabhhavābhinibbattiyā sati āyatiṁ jāti jarāmaranaṁ sokaparideve dukkha
 domanassupāyāsā sambhavanti_ -- “There being in the future a coming to
 be of a renewed __bhava__, there is in the future birth, decay, death,
-sorrow, grief, suffering, lamentation and woe produced” (SN XX.XX).]
+sorrow, grief, suffering, lamentation and woe produced” (https://suttacentral.net/sn12.38[SN 12.38]).]
 
 Another form of _bhava_ springs up. This new springing up in the future is
 re-birth. And if one is free from birth (as the Arahat is), then one is
 also free from any possibility of rebirth. “He having realised the
-destruction of birth does not come to rebirth.”^Iti{nbsp}104^
+destruction of birth does not come to rebirth.” (https://suttacentral.net/iti104[Iti 104])
 
 As the body with all its sense organs changes from youth to old age, it
 is to the _puthujjana_ that this change is **decay**. ‘Decay’ is the
@@ -188,7 +190,7 @@ change for the better or for the worse *only if* it is considered as a
 change in ‘**my** body’. The same applies to Feeling, Perception,
 Determinations and Consciousness. It is very important that this is seen.]
 
-[quote, MN 140]
+[quote, ]
 ____
 * “‘I am’ -- monk, this is a supposition (__maññitaṁ__).
 * ‘This am I’ -- this is a supposition.
@@ -208,6 +210,8 @@ at peace is not born, does not decay, is not agitated, does not envy.
 so born, how, monk, could he decay (__tam pi’ssa bhikkhu na’tthi yena
 jāyetha, ajāyamāno kiṁ jiyyissati__)? Not decaying, how could he die?
 Not dying how could he be agitated? Not being agitated, how could he envy?”
+
+-- https://suttacentral.net/mn140[MN 140], The Analysis of the Elements
 ____
 
 That of which can be said ‘was born’ is ‘self’ or ‘I’. But the Arahat is
@@ -242,9 +246,7 @@ Arahat Upasena was then told that no change for the worse in his
 faculties necessitating such action was evident. The reply the Arahat
 gave is very illuminating. He said:
 
-// FIXME reference Saṃyutta Nikāya IV, Saḷāyatana Saṃyutta, Migajāla Vagga, Sutta No. 7.
-
-[quote, SN XX.XX]
+[quote, role=quote]
 ____
 “Friend Sāriputta, he who should think ‘I am the eye’, ‘the eye is
 mine’, or ‘I am the tongue’, ‘the tongue is mine’, or ‘I am the mind’,
@@ -255,6 +257,8 @@ am the eye’, ‘the eye is mine’, or ‘I am the tongue’, ‘the tongue is
 mine’, or ‘I am the mind’, ‘the mind is mine’. How then, friend
 Sāriputta, could there be to me the existence of an otherwise-ness in
 the body, or a change for the worse in the faculties?”
+
+-- https://suttacentral.net/sn35.69[SN 35.69], Upasena and the Viper
 ____
 
 So the monks put the Venerable Upasena’s body on a couch and bore it
@@ -274,13 +278,13 @@ the Arahats, *live experiencing* deathlessness. Exhorting the five monks
 at Benares (whom he first taught) to listen to him, he described himself
 thus:
 
-// FIXME reference Mahāvagga I, Pañcavaggiya Kathā.
-
-[quote, Mv XX.XX]
+[quote, role=quote]
 ____
 “The Tathāgata, monks, is Arahat, is All Enlightened. Give ear,
 monks. Deathlessness has been reached (__amatamadhigataṁ__). I will
 intruct you.”
+
+-- https://suttacentral.net/pli-tv-kd1[Vin I. 5-8], Mahāvagga
 ____
 
 _Amatamadhigataṁ_ means “**gone** to deathlessness” and *not* “going to
@@ -288,32 +292,26 @@ deathlessness.” It is something that *has happened* or *has been achieved*
 “Having attained it and realised it” (__sacchikatvā upasampajja__) the Arahat
 “lives experiencing it in the body” (__kāyena ca phusitvā viharati__).
 
-// FIXME reference Anguttara Nikāya I, Tika Nipāta, Devadtūta Vagga, Sutta No. 8.
-
 The Arahat has come to the cessation of birth, decay and death. He is
 “entirely freed from birth, decay and death” -- __parimutto jātiyā jarā
-maranena__.^AN{nbsp}XX.XX^
+maranena__. (https://suttacentral.net/an3.38[AN 3.38])
 
-// FIXME reference Anguttara Nikāya I, Tika Nipāta, Brāhmana Vagga, Sutta No. 7.
+He “has done away with birth and death” -- __pahīnajātimarano__. (https://suttacentral.net/an3.57[AN 3.57])
 
-He “has done away with birth and death” -- __pahīnajātimarano__.^AN{nbsp}XX.XX^
-
-He “has gone beyond birth and death” -- __jāti marana maccagā__.^Iti{nbsp}77^
+He “has gone beyond birth and death” -- __jāti marana maccagā__. (https://suttacentral.net/iti77[Iti 77])
 
 He is one who “has arrived at the destruction of birth” --
-__jātikkhayaṁ patto__.^Iti{nbsp}99^
+__jātikkhayaṁ patto__. (https://suttacentral.net/iti99[Iti 99])
 
-He “has conquered death” -- __maranābhibhū__.^Thag{nbsp}1180^
+He “has conquered death” -- __maranābhibhū__. (https://suttacentral.net/thag20.1[Thag 1180])
 
-// FIXME reference Anguttara Nikāya I, Tika Nipāta, Devadūta Vagga, Sutta No. 2.
-
-To him applies: “Calm and unclouded, peaceful, freed of 1onging, he hath crossed
+To him applies: “Calm and unclouded, peaceful, freed of longing, he hath crossed
 over birth and decay, I say” -- __santo vidhūmo anīgho nirāso atāri so
-jātijaranti brūmī’ti__.^AN{nbsp}XX.XX^
+jātijaranti brūmī’ti__. (https://suttacentral.net/an3.32[AN 3.32])
 
 When Ananda attained at Arahatship he said of himself, “Gone to the end of birth
 and death he bears the final frame” -- __dhāreti antimaṁ dehaṁ
-jātimaranapāragu__.^Thag{nbsp}1022^
+jātimaranapāragu__. (https://suttacentral.net/thag17.3[Thag 1022])
 
 Again, the Buddha is the first human being in the world who overcame
 death, though the greatest thinkers in the world have wondered how it
@@ -366,11 +364,13 @@ Vacchagotta that he *ought* to be at a loss, that he *ought* to be
 bewildered, which only means that the uninstructed _puthujjana_ *ought*
 to be at a loss in understanding the Buddha’s Teaching.
 
-[quote, MN 72]
+[quote, role=quote]
 ____
 “You ought to be at a loss, Vaccha, you ought to be bewildered. For,
 Vaccha, this Dhamma is deep, difficult to see, difficult to understand,
 peaceful, excellent, beyond dialectic, subtle, intelligible to the wise.”
+
+-- https://suttacentral.net/mn72[MN 72], With Vacchagotta on Fire
 ____
 
 This particular Discourse to Vacchagotta is well worth a careful study.
@@ -385,10 +385,6 @@ and designated as Arahat. In as much as there is now no flame to go
 east, west, north, south or anywhere else, with regard to the Arahat
 there is no ‘person’ to die, and hence no ‘person’ to arise after death.
 
-// FIXME reference Saṃyutta Nikāya IV, Saḷayatana Saṃyutta, Avijja Vagga, Sutta No. 10.
-
-// FIXME reference Udāna, Nanda Vagga, Sutta No. 10.
-
 The _puthujjana_ looks upon the Arahat as he would look upon himself.
 That is as a __sakkāya__, a ‘self’, a ‘person’ who says ‘I’ and ‘mine’.
 Thus viewing he puts these questions. The _puthujjana_ being a Five
@@ -396,20 +392,18 @@ Thus viewing he puts these questions. The _puthujjana_ being a Five
 subjectivity, of ‘I’ and ‘mine’) thinks that the Arahat is also a Five
 *Grasping* Groups. He does not know that *all* Grasping is extinct in
 the Arahat, that the Arahat “has laid down all Grasping” --
-__sabbupādānapariyādāna__,^SN{nbsp}XX.XX^ that the Arahat “has destroyed
-all Grasping” -- __sabbupādānakkhayaṁ__.^Uda{nbsp}XX.XX^
+__sabbupādānapariyādāna__, (https://suttacentral.net/sn35.62[SN 35.62]) that the Arahat “has destroyed
+all Grasping” -- __sabbupādānakkhayaṁ__. (https://suttacentral.net/ud3.10[Uda 3.10])
 He does not see that the Arahat “by the destruction,
 dispassion, cessation, giving up, casting out all suppositions, all
 standpoints, all latent conceits of ‘I’ and ‘mine’, is freed without
-Grasping”.^MN{nbsp}72^
+Grasping”. (https://suttacentral.net/mn72[MN 72])
 
 *When the Arahat is asked questions about himself on the basis of things not
 applicable to him, what other reply can he give than saying that those questions
 about him do not apply to him?*
 
-// FIXME reference SN IV, Avyākata Saṃyutta, Khemātherī Sutta
-
-[quote, SN XX.XX]
+[quote, role=quote]
 ____
 “Even so, great king,
 
@@ -436,6 +430,8 @@ app1y. To say, ‘The Tathagata does not exist after death’, does not
 apply. To say, ‘The Tathagata does exist and does not exist after
 death’, does not apply. To say, ‘The Tathagata neither exists nor does
 not exist after death’, does not apply”.
+
+-- https://suttacentral.net/sn44.1[SN 44.1], With Khemā
 ____
 
 The Groups of Form, Feeling, Perception, Determinations and
@@ -449,11 +445,9 @@ When Grasping is extinct, all such subjectivity is extinct. What then
 remains is a residual *Not-Grasping* Five Groups to which birth, decay
 and death do not apply. “This is deathlessness, that is to say, the
 deliverance of the mind from Grasping” -- __etaṁ amataṁ yadidaṁ anupādā
-cittassa vimokkho__.^MN{nbsp}106^
+cittassa vimokkho__. (https://suttacentral.net/mn106[MN 106])
 
-// FIXME reference SN I, Kosala Saṃyutta, Bandhana Vagga, Sutta No. 3
-
-[quote, SN XX.XX]
+[quote, role=quote]
 ____
 The King Pasenadi asks the Buddha, “To the born is there any other than
 decay and death?” To which the Buddha replies, “To the born, great king,
@@ -476,6 +470,8 @@ have finished, done what was to be done, laid down the burden, won the
 highest good, completely destroyed the fetter of __bhava__, freed by
 right insight -- to them there is a breaking up of the body, a laying
 down of it.”
+
+-- https://suttacentral.net/sn3.3[SN 3.3], Old Age and Death
 ____
 
 In the above reply the Buddha teaches that birth, decay and death are

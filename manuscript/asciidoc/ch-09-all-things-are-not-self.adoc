@@ -1,18 +1,16 @@
 [[all-things-are-not-self]]
 = All Things Are Not Self
 
+FIXME update 'cankers' to 'taints' or 'outflows'?
+
 The Buddha shows that a thing is impermanent by showing that the
 necessary condition (or the __saṅkhāra__) upon which the thing depends
 is impermanent.
 
-// TODO update 'cankers' to 'taints' or 'outflows'?
-
 This can be seen, for instance, in the __Pārileyya Sutta__.
 The destruction of the cankers is spoken of, and the following passage occurs:
 
-// FIXME reference Saṃyutta Nikāya III, Khandha Saṃyutta, Khajjaniya Vagga, Sutta No. 9.
-
-[quote, SN XX.XX]
+[quote, role=quote]
 ____
 “Monks, how knowing, how seeing, is there without delay the destruction
 of the cankers? Here, monks, the uninstructed _puthujjana_ not
@@ -29,6 +27,8 @@ arisen. That Contact is impermanent, is determined, is dependently
 arisen. That Ignorance is impermanent, is determined, is dependently
 arisen. Thus knowing, monks, thus seeing, is there without delay the
 destruction of the cankers.”
+
+-- https://suttacentral.net/sn22.81[SN 22.81], At Pārileyya
 ____
 
 And so with the other Groups, Feeling, Perception, Determinations and
@@ -60,14 +60,14 @@ seeing that its constituent factors are impermanent. When the
 constituent factors that go to make up the house are impermanent then
 the house must necessarily be impermanent:
 
-// FIXME reference Saṃyutta Nikāya III, Khandha Saṃyutta, Anicca Vagga, Sutta No. 7.
-
-[quote, SN XX.XX]
+[quote, role=quote]
 ____
 “Whatever cause, whatever condition there be for the arising of Form ...
 Feeling ... Perception ... Determinations ... Consciousness, that is
 impermanent. How can, monks, consciousness that is so composed of impermanent
 things be permanent?”
+
+-- https://suttacentral.net/sn22.18[SN 22.18], Impermanence With Its Cause
 ____
 
 With regard to the other two characteristics of the
@@ -81,7 +81,7 @@ In other words, he shows the _puthujjana_ that the latter’s ‘self’ is a
 determined thing dependent upon Determinations, upon __saṅkhāra__. He
 further shows that these _saṅkhāra_ which form the necessary conditions
 for that thing identified as ‘self’ are impermanent. “All _sañkhāra_ are
-impermanent (__sabbe saṅkhāra aniccā__)”.^MN{nbsp}35^
+impermanent (__sabbe saṅkhāra aniccā__)”. (https://suttacentral.net/mn35[MN 35])
 
 Now, when he sees that the _saṅkhāra_ upon which his ‘self’ depends are
 impermanent, then he sees that this his ‘self’ must also be necessarily

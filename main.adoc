@@ -1,4 +1,4 @@
-= The Buddha’s Teaching
+= The Buddha's Teaching
 :booktitle: {doctitle}
 :description: Its Essential Meaning
 :author: R.G. de S. Wettimuny
@@ -28,9 +28,8 @@ include::{includes}/ch-05-kamma.adoc[]
 include::{includes}/ch-06-sankhara.adoc[]
 include::{includes}/ch-07-holding-to-belief-in-self.adoc[]
 include::{includes}/ch-08-impermanence.adoc[]
-
-//include::{includes}/ch-09-all-things-are-not-self.adoc[]
-//include::{includes}/ch-10-birth-decay-and-death.adoc[]
+include::{includes}/ch-09-all-things-are-not-self.adoc[]
+include::{includes}/ch-10-birth-decay-and-death.adoc[]
 
 //include::{includes}/ch-11-suffering.adoc[]
 //include::{includes}/ch-12-ignorance.adoc[]
