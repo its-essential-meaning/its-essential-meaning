@@ -1,5 +1,5 @@
 [[ch-01-grasping]]
-= Grasping
+= 1. Grasping
 
 [quote, role=quote]
 ____

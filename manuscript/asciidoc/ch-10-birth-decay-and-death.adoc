@@ -1,5 +1,5 @@
 [[ch-10-birth-decay-and-death]]
-= Birth, Decay and Death
+= 10. Birth, Decay and Death
 
 Prince Siddharta left his palace for no other reason than to find the
 solution to the problem of birth, decay and death, to determine whether
