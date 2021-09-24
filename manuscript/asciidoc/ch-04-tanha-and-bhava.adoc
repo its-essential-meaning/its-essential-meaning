@@ -1,4 +1,4 @@
-[[tanha-and-bhava]]
+[[ch-04-tanha-and-bhava]]
 = Taṇhā and Bhava
 
 We have seen that any actual present points to many possibilities. From
@@ -125,8 +125,9 @@ destroyed in the Arahat. He is __parikkhīnabhavasaññojano__. (https://suttace
 
 If _bhava_ means ‘existence’ pure and simple, then the living Arahat
 cannot have completely destroyed __bhava__, for as a living Arahat there
-is an ‘existence’.footnote:[See page 56. FIXME: add link] The living
-Arahat has ‘existence’, but no __bhava__. He is __bhava__-ceased.
+is an ‘existence’.footnote:[See <<ch-08-impermanence.adoc#living-experience,Chapter 8, Impermanence>>:
+"The Not-Determined therefore is the *living experience of the Arahat*."]
+The living Arahat has ‘existence’, but no __bhava__. He is __bhava__-ceased.
 _Bhava_ refers to the existence of *all* modes of life *other than* that
 of the Arahats, simply because all such modes of life, save the
 Arahat’s, are a case of ‘*my* existence’ or ‘self’-existence to some
@@ -195,7 +196,7 @@ ____
 
 Wanting the cutting off of ‘self’-existence and the destruction of
 ‘self’-existence at death is called __vibhava-taṇhā__.footnote:[See
-Appendix on Vibhava-taṇhā, pages 172 and 173. FIXME: add link] (It is an
+<<ch-99-appendix.adoc#vibhava-tanha,Appendix on Vibhava-taṇhā>>.] (It is an
 undesirability because such a destruction of ‘self’-existence cannot be
 got. ‘Self’-existence, or __bhava__, can be destroyed only by following
 a particular training, i.e., by treading the Noble Eightfold Path.)

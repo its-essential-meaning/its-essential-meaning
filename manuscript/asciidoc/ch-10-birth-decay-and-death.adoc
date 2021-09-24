@@ -1,4 +1,4 @@
-[[birth-decay-and-death]]
+[[ch-10-birth-decay-and-death]]
 = Birth, Decay and Death
 
 Prince Siddharta left his palace for no other reason than to find the

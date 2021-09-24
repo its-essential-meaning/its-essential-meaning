@@ -1,4 +1,4 @@
-[[name-and-form-and-consciousness]]
+[[ch-03-name-and-form-and-consciousness]]
 = Name-and-Form and Consciousness
 
 When Consciousness is explained as something that arises and ceases, the
@@ -68,7 +68,10 @@ sounds, smells, etc. Further, this appearance behaves in a certain
 fashion. Thus there is both an *appearance of behaviour* and a
 *behaviour of appearance*. And the set of behaviours defining the
 particular lump of ‘matter’ or object is *inferred* from the behaviour
-of its *appearance*.footnote:[Also see page 107 and 108.(FIXME: add link)]
+of its *appearance*.footnote:[See <<ch-13-nibbana.adoc#the-four-primary,Chapter 13, Nibbāna>>:
+"But their [the Four Primary Modes] _appearance_ is a matter for
+Consciousness, and their 'existence' is _inferred_ through the
+behaviour of this __appearance__."]
 
 All modes of behaviour can be categorized under four main modes called
 the Four Primary Modes (__catunnaṃ mahābhūtānaṃ__). They are Earth-Mode,

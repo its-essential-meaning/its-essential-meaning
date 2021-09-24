@@ -1,4 +1,4 @@
-[[holding-to-belief-in-self-and-person-view]]
+[[ch-07-holding-to-belief-in-self]]
 = Holding to Belief in Self- and Person-view
 
 With this we come to the problem of ‘self’. It is in fact the basic
@@ -171,8 +171,11 @@ that thoughts of ‘I’ and ‘mine’ and the deception ‘self’ arise in th
 they are still __sakkāya__. But they know that regarding anything as ‘I
 am’ or as ‘mine’ or as ‘self’ is wrong. Therefore they do not hold to
 any belief in ‘self’. Thus they have no __attavādupādāna__, and to that
-extent have no _sakkāyadiṭṭhi_ also. See footnote on page 135. FIXME:
-add link] It should be noted that _sakkāyadiṭṭhi_ is not a question of
+extent have no _sakkāyadiṭṭhi_ also. See also <<ch-16-satipatthana.adoc#truth-for-him,Chapter 16, Four Applications of Mindfulness>>:
+"The _Satipatthānā Sutta_ assumes a prior understanding of the Buddha's Teaching. [...]
+though these fundamentals and their resultant implications are very difficult to __see__,
+they edify him who sees them. They are truth __for him__."]
+It should be noted that _sakkāyadiṭṭhi_ is not a question of
 just passively viewing oneself as a _sakkāya_ in a rather detached
 manner. It is much more dynamic and intense a matter, deeply rooted.
 Hence the difficulty in getting rid of it.

@@ -1,4 +1,4 @@
-[[a-note-on-the-four-applications-of-mindfulness]]
+[[ch-16-satipatthana]]
 = A Note on the Four Applications of Mindfulness
 
 // TODO subtitle
@@ -122,7 +122,7 @@ also _experience_ it. The Arahat is at all times experiencing the
 cessation of Suffering. He therefore fully comprehends it and sees it
 penetratively through and through.
 
-The _Satipatthānā Sutta_ assumes a prior understanding of the Buddha's
+[[truth-for-him]]The _Satipatthānā Sutta_ assumes a prior understanding of the Buddha's
 Teaching. Obviously, this understanding cannot be obtained from this
 __Sutta__. It has to be obtained from the other __Suttas__. Therefore,
 before embarking on the actual practice of the _Satipatthāna_ one has to

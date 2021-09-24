@@ -1,4 +1,4 @@
-[[impermanence]]
+[[ch-08-impermanence]]
 = Impermanence
 
 Invariably, one imagines all too soon that one understands and perceives
@@ -172,7 +172,7 @@ delusion -- this, friend, is called Arahatship.”
 -- https://suttacentral.net/sn38.2[SN 38.2], A Question About Perfection
 ____
 
-Thus, the Not-Determined is synonymous with Arahatship. The
+[[living-experience]]Thus, the Not-Determined is synonymous with Arahatship. The
 Not-Determined therefore is the *living experience of the Arahat*.
 He has trod the Path leading to the Not-Determined, has arrived at
 the Not-Determined, and is now living experiencing the Not-Determined.

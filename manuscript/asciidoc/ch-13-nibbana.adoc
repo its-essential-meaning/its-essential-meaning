@@ -1,4 +1,4 @@
-[[nibbāna]]
+[[ch-13-nibbana]]
 = Nibbāna
 
 By now the reader may have obtained some idea of the individual called
@@ -419,7 +419,7 @@ It is necessary to see why Kevaḍḍha's question is not a proper question
 before we can see the significance of the question that the Buddha
 himself put in its place.
 
-The Four Primary Modes (i.e. the four primary modes of behaviour)
+[[the-four-primary]]The Four Primary Modes (i.e. the four primary modes of behaviour)
 _purely by themselves_ are not a matter for Consciousness. But their
 _appearance_ is a matter for Consciousness, and their 'existence' is
 _inferred_ through the behaviour of this __appearance__, i.e. through

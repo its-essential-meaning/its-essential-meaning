@@ -1,4 +1,4 @@
-[[all-things-are-not-self]]
+[[ch-09-all-things-are-not-self]]
 = All Things Are Not Self
 
 FIXME update 'cankers' to 'taints' or 'outflows'?

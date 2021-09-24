@@ -1,4 +1,4 @@
-[[appendix]]
+[[ch-99-appendix]]
 = Appendix
 
 == I. _Mano_ and _Citta_
@@ -178,7 +178,7 @@ bhava wherein the specified thing has ceased.
 
 == VII. VIBHAVA-TANHA
 
-Apart from avijJ'ā, what really lies at the bottom of vibhava- taṇhā is
+[[vibhava-tanha]]Apart from avijJ'ā, what really lies at the bottom of vibhava- taṇhā is
 a dissatisfaction with the past, present and expected future experience
 The puthujjanā is dissatisfied with his past; he is dissatisfied with
 the present; and he cannot see any satisfaction in the future which he

@@ -1,4 +1,4 @@
-[[suffering]]
+[[ch-11-suffering]]
 = Suffering
 
 Just as one does with some other doctrines in Buddhism one imagines all
@@ -50,7 +50,9 @@ into betrayal and disappointment, i.e., he is always led into Suffering.
 ____
 "Neither do I, monks, see that holding to a belief in 'self' from the
 holding to which there would not arise sorrow, lamentation, suffering,
-grief, despair."footnote:[MN 22]
+grief, despair."
+
+-- https://suttacentral.net/mn22[MN 22], The Simile of the Snake
 ____
 
 When this insight grows in him he sees that he had been working right
@@ -77,9 +79,9 @@ The Buddha summarily defines Suffering as the Five Grasping Groups:
 "Birth is Suffering, decay is Suffering, disease is Suffering, death is
 Suffering, union with the undesired is Suffering, being sundered from
 the desired is Suffering, not getting what is wished for is Suffering.
-In short, the Five Grasping Groups are Suffering."footnote:[FIXME
-missing footnote] This essentially means, all notions of 'self', all
-thoughts of 'I' and 'mine' are Suffering.
+In short, the Five Grasping Groups are Suffering." (https://suttacentral.net/pli-tv-kd1[Vin I. 5-8])
+This essentially means, all notions of 'self', all thoughts of 'I' and
+'mine' are Suffering.
 
 Birth, decay disease, death, etc., are all Suffering because they apply
 to a 'self' or an 'I' who is subject to all these. The _puthujjana_

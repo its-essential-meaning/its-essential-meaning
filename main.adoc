@@ -30,15 +30,14 @@ include::{includes}/ch-07-holding-to-belief-in-self.adoc[]
 include::{includes}/ch-08-impermanence.adoc[]
 include::{includes}/ch-09-all-things-are-not-self.adoc[]
 include::{includes}/ch-10-birth-decay-and-death.adoc[]
+include::{includes}/ch-11-suffering.adoc[]
+include::{includes}/ch-12-ignorance.adoc[]
+include::{includes}/ch-13-nibbana.adoc[]
+include::{includes}/ch-14-the-puthujjana-sekha-and-asekha.adoc[]
+include::{includes}/ch-15-rebirth.adoc[]
+include::{includes}/ch-16-satipatthana.adoc[]
 
-//include::{includes}/ch-11-suffering.adoc[]
-//include::{includes}/ch-12-ignorance.adoc[]
-//include::{includes}/ch-13-nibbana.adoc[]
-//include::{includes}/ch-14-the-puthujjana-sekha-and-asekha.adoc[]
-//include::{includes}/ch-15-rebirth.adoc[]
-//include::{includes}/ch-16-satipatthana.adoc[]
-//
-//include::{includes}/appx-01-mano-and-citta.adoc[]
+include::{includes}/ch-99-appendix.adoc[]
 
 //include::{includes}/glossary.adoc[]
 

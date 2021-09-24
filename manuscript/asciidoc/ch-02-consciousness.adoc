@@ -1,4 +1,4 @@
-[[consciousness]]
+[[ch-02-consciousness]]
 = Consciousness
 
 In the elucidation of the Five Grasping Groups, Consciousness takes the
@@ -7,8 +7,6 @@ pride of place. The reason for that is that any *experience* means
 conscious of Form (i.e. I am conscious either of my body or of an
 external object or of both); I am conscious of Feeling; I am conscious
 of Perception; and I am conscious of Determinations.
-
-// FIXME is this a sutta reference?
 
 [quote, role=quote]
 ____
