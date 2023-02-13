@@ -14,14 +14,14 @@ Suffering. He contents himself by feeling that he will in time get over
 his present state of Suffering, and that his present state of Suffering
 is just another one of those aspects of life which he must put up with.
 "Sense pleasures are said by me to be of little satisfaction, of much
-Suffering, of much tribulation, wherein is more peril."footnote:[MN 22]
+Suffering, of much tribulation, wherein is more peril."footnote:[https://suttacentral.net/mn22[MN 22]]
 The _puthujjana_ does not see this.
 
 The _puthujjana_ delights in the fact of his existence. 'I exist' or 'my
 existence' is something desirable to him. He delights in notions of
 'self'. He delights in seeing things as 'mine'. "'All is mine', he
 conceives. He delights in All" -- __sabbaṁ meti maññati sabbaṁ
-abhinandati__.footnote:[MN 1] He delights in 'self'-existence. He does
+abhinandati__.footnote:[https://suttacentral.net/mn1[MN 1]] He delights in 'self'-existence. He does
 not see that 'self'-existence is Suffering. He does not see that
 delighting in 'self'-existence is really a delighting in Suffering. He
 can even have an aversion to destroying his thoughts of 'I' and 'mine',
@@ -62,8 +62,8 @@ that therefore it was always a case of betrayal, disappointment, grief,
 agitation, worry, suffering, to some degree or other. "It is just
 Suffering that is produced, Suffering that persists and disappears.
 Nought beside Suffering is produced, nought beside Suffering
-ceases."footnote:[SN I, Bhikkhunī Saṃyutta, Bhikkhunī Vagga, Sutta, No.
-10.] To the extent one sees this, to that extent one has right view.
+ceases."footnote:[https://suttacentral.net/sn5.10/en/bodhi[SN 5.10: Vajirā Sutta]]
+To the extent one sees this, to that extent one has right view.
 
 When the individual no longer regards anything as 'self' (which only
 means that he no longer regards any of the Five Grasping Groups as
@@ -119,7 +119,7 @@ Determinations and Consciousness.
 
 "Herein, monks, the well-taught Ariyan disciple (Noble diSCiple) regards
 Form thus: 'Not, this is mine; not, this am I; not, this is my
-self"footnote:[_Na_ _etaṁ mama_ is usually translated as "This is not
+self"footnote:[_Na etaṁ mama_ is usually translated as "This is not
 mine". But this rendering tends to leave in the reader's mind the
 impression that though *this* is not mine, there may be something else
 that is mine. In fact such an impression is deliberately made to remain
@@ -133,8 +133,7 @@ etaṁ mama, na eso ahaṁ asmi, na eso me attā__). Of such a one the Form
 alters and becomes otherwise. But in spite of the altering and
 otherwise-ness of Form, sorrow and grief, woe, lamentation and despair
 arise not in him. 'Thus, monks, there is no worry from no
-Grasping".footnote:[SN III, Khandha Saṃyutta, Nakulapita Vagga, Sulta
-No. 8.]
+Grasping".footnote:[https://suttacentral.net/sn22.8/en/bodhi[SN 22.8: Agitation through Clinging (2)]]
 
 The same again applies to the other four Groups.
 
@@ -175,7 +174,7 @@ the cessation of Suffering -- __dukkhanirodho__. "He having put aside
 all tendency towards attachment, having dispelled all tendency to
 resistence, having removed tendencies to views and conceits such as 'I
 am', having put aside ignorance, Knowledge having arisen, he is here and
-now an end-maker of Suffering."footnote:[MN 9] No more can any Suffering
+now an end-maker of Suffering."footnote:[https://suttacentral.net/mn9[MN 9]] No more can any Suffering
 arise in him. He certainly can have painful or unpleasant feeling, but
 such painful or unpleasant feeling, is *not* Suffering. In such an
 eventuality he just bears the pain. He does not *suffer* by it.
@@ -184,8 +183,7 @@ unbound (__visaññutto__) to it; feeling an unpleasant feeling, feels it
 unbound to it; feeling a neutral feeling, feels it unbound to it. He,
 monks, is called an Aryan disciple unbound to birth, decay, death,
 sorrow, grief, suffering, lamentation and woe; he is unbound to
-Suffering, I declare."footnote:[SN IV, Vedanā Saṃyutta, Sagātha Vagga,
-Sutta No. 6.]
+Suffering, I declare."footnote:[https://suttacentral.net/sn36.6/en/bodhi[SN 36.6: The Dart]]
 
 Suffering (__dukkha__), it must be noted, does not refer to bodily pain.
 In the Pali, the word _dukkha_ is used to denote Suffering, and also to
@@ -202,8 +200,8 @@ is always attended with grief, fear, etc.]
 When the _puthujjana_ experiences a painful feeling, he feels a
 repugnance for it. This means he has a twofold feeling, i.e., a bodily
 painful feeling and a mental painful fee1ing. "He feels a twofold
-feeling, bodily and mental."footnote:[SN IV,Vedanā
-Saṃyutta,Pathamasagātha Vagga, Sutta No. 6.] He knows no refuge from
+feeling, bodily and mental."footnote:[https://suttacentral.net/sn36.6/en/bodhi[SN 36.6: The Dart]]
+He knows no refuge from
 painful feeling other than sensual pleasure. He is thus bound to sensual
 pleasure. The Arahat on the other hand can also experience a painful
 feeling. But neither does he have a repugnance for painful feeling nor
@@ -221,7 +219,7 @@ that monk so seated and so employed, and seeing the meaning of it, at
 that time gave utterance to this saying of uplift: 'For the monk who
 hath all _kamma_ left behind, and shaken off the defilements aforetime
 gathered, who stands fast without 'mine' -- for such there is no need to
-talk to folk'."footnote:[Udāna, Nanda Vagga, Sutta No. 1.]
+talk to folk'."footnote:[https://suttacentral.net/ud3.1/en/anandajoti[Ud 3.1: The Discourse about Deeds]]
 ____
 
 The Arahat does not need to talk to folk, entreating them to relieve him
@@ -238,13 +236,13 @@ say, with regard to feeling for instance, whether the _puthujjana's_
 feelings are pleasant, unpleasant or neutral, they are nevertheless
 Suffering. It is not only unpleasant feeling, that is Suffering for him,
 but *all* feeling.footnote:["Whatever is felt, that is Suffering" --
-_yad kiṁci vedayitaṃ tad dukkhasmin ti_ (SN II, Abhisamaya Saṃyutta,
-Kalārakhattiya Vagga, Sutta No. 2). Or again, "It is just Suffering that
+_yaṁ kiñci vedayitaṁ taṁ dukkhasmin'ti_ (https://suttacentral.net/sn12.32/en/bodhi[SN 12.32: The Kaḷara]).
+Or again, "It is just Suffering that
 is produced, Suffering that persists and disappears. Nought beside
-Suffering is produced, nought beside Suffering ceases" -- _Dukkhaṁ eva
-hi sambhoti, dukkhaṁ tiṭṭhati veti ca, nāññatra dukkha sambhoti,
-nāññatra dukkhā nirujjhati ti_ (SN I, Bhikkhunī Saṃyutta, Bhikkunī
-Vagga, Sutta No. 10).] It is precisely *this* that is difficult to see,
+Suffering is produced, nought beside Suffering ceases" --
+_Dukkhaṁ eva hi sambhoti, dukkhaṁ tiṭṭhati veti ca, nāññatra dukkha sambhoti, nāññatra dukkhā nirujjhati ti_
+(https://suttacentral.net/sn5.10/en/bodhi[SN 5.10: Vajirā Sutta]).]
+It is precisely *this* that is difficult to see,
 and hence the difficulty of seeing the First Noble Truth.
 
 To see this one has to turn towards the fundamental characteristic of
@@ -256,8 +254,19 @@ With regard to feeling, whether the feeling he experiences is pleasant
 or unpleasant or neutra1, he regards it always as 'mine'. This regarding
 the Groups as 'mine' is always attended with agitation and worry to
 *some* degree or other, which only means that he is **always suffering
-to some degree or other**.[multiblock footnote omitted] As we shall see
-in the next chapter, the _puthujjana_ acts in this fashion because he is
+to some degree or other**.{empty}footnote:[In the complex structure of the deliberation `this is mine' (_etam
+mama_) there are to be found those mental concomitants such as
+agitation, worry, fear, doubt, etc. These mental concomitants are a
+necessary part of the structure of this deliberation. Likewise, the
+deliberation `not, this is mine' (_na etaṁ mama_) is divorced from these
+mental concomitants. These mental concomitants are _dukkha_. Thus,
+fundamentally, the arising and ceasing of _dukkha_ is to be found in
+these deliberations. Unless this is seen the First Noble Truth is not
+seen.pass:[<br><br>]
+With the Arahat, of course, no _dukkha_ arises at all, the thought
+`mine' never arising in him. Therefore, with him, there is also no
+_dukkha_ to cease.]
+As we shall see in the next chapter, the _puthujjana_ acts in this fashion because he is
 Ignorant of (i.e. he does not **see**) the Four Noble Truths, viz., the
 Noble Truth of Suffering, the Noble Truth of the Arising of Suffering,
 the Noble Truth of the Ceasing of Suffering, and the Noble Truth of the
@@ -267,7 +276,6 @@ Suffering, and therefore continues to be a __puthujjana__, because he is
 ignorant of the Buddha's Teaching.
 
 ____
-"Now I, brahmin, lay down that a man's wealth is the
-Dhamma,footnote:[i.e. the Buddha's Teaching.] Ariyan, beyond the world
-(__lokuttara__)."footnote:[MN 96]
+"Now I, brahmin, lay down that a man's wealth is the Dhamma,footnote:[i.e. the Buddha's Teaching.]
+Ariyan, beyond the world (__lokuttara__)."footnote:[https://suttacentral.net/mn96[MN 96]]
 ____
