@@ -26,12 +26,10 @@ experiences it.
 To the extent the _sekha_ experiences the Teaching, to that extent does
 he see the Teaching better. His seeing is still imperfect and his
 cultivation of the Four Applications of Mindfulnessfootnote:[On the Four
-Applications of Mindfulness see Ch. XVII.] is only partial (__catunnaṃ
-kho āvuso satipaṭṭhānānaṃ padesaṃ bhāvitattā__)footnote:[Saṃyutta Nikāya
-V, Satipaṭṭhana Saṃyutta, Sīlaṭṭhiti Vagga, Sutta No. 6.] as against
-that of the _asekha_ which is complete (__satipaṭṭhānānaṃ samattaṃ
-bhāvitattā__).footnote:[Saṃyutta Nikāya V, Satipaṭṭhana Saṃyutta,
-Sīlaṭṭhiti Vagga, Sutta No. 7.] He, the __sekha__, can see a part of the
+Applications of Mindfulness see Ch. XVII. (FIXME: ch ref)] is only partial
+(__catunnaṃ kho āvuso satipaṭṭhānānaṃ padesaṃ bhāvitattā__)footnote:[https://suttacentral.net/sn47.26/en/bodhi[SN 47.26: Partly]]
+as against that of the _asekha_ which is complete (__satipaṭṭhānānaṃ samattaṃ bhāvitattā__).footnote:[https://suttacentral.net/sn47.27/en/bodhi[SN 47.27: Completely]]
+He, the __sekha__, can see a part of the
 Teaching without experiencing it. But seeing and understanding in the
 _fullest_ sense comes only with the experience of it. It is therefore to
 be expected that there would be various classes of _sekhas_ depending on
@@ -48,21 +46,18 @@ wisdom, what they lead to, their excellence, their fruit, and their end
 faculties: faith, energy, mindfulness, concentration, and wisdom. He
 lives experiencing with the body, penetratively seeing with wisdom, what
 they lead to, their excellence, their fruit, and their
-end."footnote:[Saṃyutta Nikāya V, Indriya Saṃyutta, Chaṭṭho Vagga, Sutta
-No. 3.]
+end."footnote:[https://suttacentral.net/sn48.53/en/sujato[SN 48.53: A Trainee]]
 
 The _sekha_ has faith in the fact that deathlessness can be attained by
 developing the five controlling faculties. He "stands knocking at the
-door of deathlessness" - __amara dvāraṁ āhacca
-tiṭṭhati.__footnote:[Saṃyutta Nikāya II, Abhisamaya Saṃyutta, Gahapati
-Vagga, Sutta No. 9.] But the _asekha_ having developed these faculties
+door of deathlessness" - __amara dvāraṁ āhacca tiṭṭhati.__footnote:[https://suttacentral.net/sn12.49/en/bodhi[SN 12.49: The Noble Disciple (1)]]
+But the _asekha_ having developed these faculties
 fully has achieved deathlessness and lives experiencing deathlessness.
 Arahat Sariputta said that the latter was the case with him.
 Incidentally, it is wrong to think that the _puthujjana_ has these
 faculties. The _puthujjana_ does not possess these faculties. It is the
 _sekha_ who has acquired them, but of course he has to develop
-them.footnote:[Saṃyutta Nikāya V, Indriya Saṃyutta, Mudatara Vagga,
-Suttas No. 12 and 8.]
+them.footnote:[https://suttacentral.net/sn48.12/en/sujato[SN 48.12] and https://suttacentral.net/sn48.18/en/sujato[SN 48.18]]
 
 Khemaka, an _Anāgami_ (i.e. one of the higher classes of __sekhas__)
 says: "Though, friends, I discern in the Five Grasping Groups no self
@@ -72,8 +67,7 @@ found 'I am', yet I do not discern that I am this 'I am'.” Further,
 "Friends, though an Ariyan disciple has put away the five lower fetters,
 yet there remains in his Five Grasping Groups the conceit 'I am', the
 desire 'I am', the tendency ’I am', still not removed from
-him."footnote:[Saṃyutta Nikāya III, Khandha Saṃyutta, Thera Vagga, Sutta
-No. 7.]
+him."footnote:[https://suttacentral.net/sn22.89/en/bodhi[SN 22.89: Khemaka]]
 
 The _puthujjana_ is _not_ on the Path to __Nibbāna__, whilst the _sekha_
 is on the Path. And once an individual is on the Path, the Buddha
@@ -99,7 +93,7 @@ tacit agreement with the Teaching. But he is not one who has merely
 studied the Teaching and or professes to follow the Teaching. He is much
 more than that. He makes a genuine attempt to realize the Teaching in
 himself, knowing that he still does not actually see the
-Teaching.footnote:[Saṃyutta Nikāya III, Chakka Nipāta, Ānisamsa Vagga.]
+Teaching.footnote:[https://suttacentral.net/an6.101/en/sujato[AN 6.101: Extinguished]]
 
 Of these two kinds of _puthujjana_ the _assutavā_ is me kind that is to
 be found more often.
@@ -132,9 +126,8 @@ state, has attained __Nibbāna__. He is therefore _asekha_
 (Learning-ender).
 
 Thus, with the __puthujjana__, we have nine kinds of
-individuals.footnote:[Anguttara Nikāya IV, Navaka Nipāta, Sambodhi
-Vagga, Sutta No. 9.] If we take into account the two types of
-_puthujjanas_ we then have ten kinds of individuals.
+individuals.footnote:[https://suttacentral.net/an9.9/en/sujato[AN 9.9: Persons]]
+If we take into account the two types of _puthujjanas_ we then have ten kinds of individuals.
 
 It will be seen that of the seven _sekhas_ there are fruit-attainers
 (__phala-lābhi__), i.e. the __sotāpanna__, the _sakadāgāmi_ and the
@@ -152,14 +145,13 @@ monk develops insight preceded by serenity. In thus developing insight
 preceded by serenity, the Path is born. He pursues that Path, develops
 and practises it. In him thus pursuing, developing, and practising that
 Path, the fetters are put away, and the latencies
-cease.“footnote:[Anguttara Nikāya II, Catukka Nipāta, Paṭipadā Vagga.]
+cease.“footnote:[https://suttacentral.net/an4.170/en/thanissaro[AN 4.170: In Tandem]]
 However, the first class of Path-attainer _shall always_ attain the
 fruit before his death even if that fruit-attainment be just before
 death. According to the _Suttas_ one of two thing makes this fruit
-attainment possible - diligent work, or the crisis of approaching death
-which provide the necessary impetus to attainment.footnote:[Saṃyutta
-Nikāya III, Okkantika Saṃyutta, Sutta No. 1.] Unlike the _puthujjana_
-who is subject to retrogression the _sekha_ whether he be a
+attainment possible -- diligent work, or the crisis of approaching death
+which provide the necessary impetus to attainment.footnote:[https://suttacentral.net/sn25.1/en/sujato[SN 25.1: The Eye]]
+Unlike the _puthujjana_ who is subject to retrogression the _sekha_ whether he be a
 path-attainer or a fruit-attainer progresses towards the goal.
 
 The Buddha teaches that there are ten fetters which bind beings to
@@ -173,8 +165,7 @@ fetters are (1) 'person'-view (__sakkāyadiṭṭhi__), (2) Doubt
 (__māno__), (9) Restlessness (__uddhaccaṁ__), and (10) Ignorance
 (__avijjāṁ__). The first five are described as lower fetters
 (__orambhāgiyāni saññojanāni__) whilst the other five are described as
-higher fetters (__uddhambhāgiyāni saññojanāni__).footnote:[Anguttara
-Nikāya V, Dasala Nipāta. Nātha Vagga, Sutta No. 3.]
+higher fetters (__uddhambhāgiyāni saññojanāni__).footnote:[https://suttacentral.net/an10.13/en/bodhi[AN 10.13: Fetters]]
 
 The first fruit-attainer is called _sotāpanno_ (Stream-entrant). He has
 destroyed the first three fetters of 'person'-view, doubt, and practice
@@ -183,8 +174,8 @@ means got on to the Noble Eightfold Path, the Stream (__sota__) being
 defined as this path: "The Stream, Sariputta, is just this Noble
 Eightfold Path, that is to Say, right understanding, right thinking,
 right action, right speech, right living, right effort, right
-mindfulneSS, right concentration."footnote:[Saṃyutta Nikāya V, Sotāpati
-Saṃyutta, Veludrārra Vagga, Sutta No. 5.] The second fruit-attainer is
+mindfulneSS, right concentration."footnote:[https://suttacentral.net/sn55.5/en/sujato[SN 55.5: With Sāriputta (2nd)]]
+The second fruit-attainer is
 called _sakadāgāmi_ (Once-returner). He has destroyed the first three
 fetters and reduced lust, hatred and delusion (__tiṇṇaṁ saññojanānaṁ
 parikkhayā rāgadosamohānam tanutta__); Therefore he has not only
@@ -201,9 +192,8 @@ the fruit of Stream-entrance, are of two kinds - the _dhammānusāri_
 just crossed over from the plane of the _puthujjana_ to the plane of the
 __Ariya__. The _dhammānusāri_ is one who through wisdom is pleased with
 the Dhamma to an extent, whilst the _saddhānusāri_ is one who through
-faith is firmly attached to Dhamma.footnote:[Majjhima Nikāya 70 and
-Saṃyutta Nikāya III, Okkantika Saṃyutta, Sutta No. 1.] As stated earlier
-they are both incapable of passing away without realizing the fruit of
+faith is firmly attached to Dhamma.footnote:[[https://suttacentral.net/mn70[MN 70]] and [https://suttacentral.net/sn25.1/en/sujato[SN 25.1: The Eye]]]
+As stated earlier they are both incapable of passing away without realizing the fruit of
 Stream-entrance, i.e., without becoming __sotāpanna__.
 
 The maximum number of lives left for the _sotāpanna_ is seven
@@ -213,15 +203,13 @@ within this period (niyato sambodhi-parāyano). The _sakadāgāmi_ returns
 once more to this world and accomplishes the destruction of Suffering
 (__sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karoti__). The __anāgāmi__,
 when he dies here, will be reborn spontaneously in the Pure Abodes and
-attains to Extinction there.footnote:[Anguttara Nikāya 1, Tika Nipāta,
-Samana Vagga, Sutttas N0. 7 and 8.]
+attains to Extinction there.footnote:[https://suttacentral.net/an3.88/en/sujato[AN 3.88: Training (3rd)] and https://suttacentral.net/an3.89/en/sujato[AN 3.89: Three Trainings (1st)]]
 
 All this means that, as a cart pushed just over the hilltop will roll
 down by its own weight without extra effort, so will the _sotāpanna_ in
 any case end up in _Nibbāna_ within a maximum of seven further lives.
 The Buddha however exhorts all _sekhas_ to act with diligence
 (__appamādena karaṇīyan__) and try to make an end of it all in this life
-itself by attaining Arahatship. "MonkSs, just as a little bit of feces
+itself by attaining Arahatship. "Monks, just as a little bit of feces
 is foul smelling, even so do I not praise __bhava__, not even for so
-brief a time as is needed for a finger snap."footnote:[Anguttara Nikāya
-1, Eka Nipāta, Ekadhammka Pāli, Third Vagga, Sutta No. 13.]
+brief a time as is needed for a finger snap."footnote:[https://suttacentral.net/an1.316-332/en/sujato[AN 1.328]]

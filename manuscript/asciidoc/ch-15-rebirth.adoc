@@ -16,19 +16,17 @@ beings could be accounted for, there yet remains a certain amount of
 doubt about it until one _sees_ rebirth. Until then, to some extent or
 other, one has trust in the Buddha with regard to the matter.
 
-FIXME: multiblock footnote omitted
-
 On the other hand the Buddha demands no belief in rebirth from one whose
 sole aim is to end Suffering, nor does he insist that one must see
 rebirth if one is to come to the end of Suffering. As we pointed out
 earlier, the _Suttas_ speak of Arahats who saw rebirth and could
-recollect past lives as well as of those who could __not__.footnote:[For
-example: Saṃyutta Nikāya II, Abhisamaya Saṃyutta, Mahā Vagga, Sutta No.
-10, and Saṃyutta Nikāya II, Kassapa Saṃyutta, Sutta No. 9.] Certainly
-belief in rebirth would be very useful in that it would act as an urge
+recollect past lives as well as of those who could __not__.footnote:[For example: https://suttacentral.net/sn16.9/en/bodhi[SN 16.9: Jhanas and Direct Knowledges]]
+Certainly belief in rebirth would be very useful in that it would act as an urge
 to reach the Path as fast and as diligently as possible, and so get to
 _Ariyabhumi_ (plane of the __Ariyas__) at least, in this life. But it is
-not absolutely essential.[multiblock footnote omitted]
+not absolutely essential.footnote:[It is sometimes thought that the most effective way of convincing one of the validity of the Buddha's Teaching is to prove to one that there is rebirth. This is not so. We find that even ascetics who could see rebirth and could recollect their past lives did not always accept the Buddha's Teaching In fact, their very seeing rebirth and recollecting past lives made them come to wrong View. For example, see [https://suttacentral.net/dn1[DN 1]].
+pass:[<br><br>]
+Far too much time seems to be spent on the subject of rebirth by those interested in the Buddha's Teaching. If this time is spent by them in trying to see here and now itself a solution to the problem of their present existence, they are bound to be benefited much more, and in fact will also be attracted towards the Buddha's Teaching much more.]
 
 The present problem of my existence, which is just the problem of my
 _present_ Suffering, is to be solved _here_ and _now_ with no reference
@@ -50,28 +48,28 @@ __sotāpanna__'s achievement with a simile, the Buddha points out that
 the Suffering the _sotāpanna_ has destroyed is as vast as the earth
 whilst the Suffering he will have to endure in the future during a
 maximum of a further seven lives is as small as the bit of soil he
-placed on his finger nail.footnote:[Saṃyutta Nikāya, II, Abhisamaya
-Saṃyutta, Abhisamaya Vagga, Sutta No. 1.] With regard to the relative
+placed on his finger nail.footnote:[https://suttacentral.net/sn13.1/en/sujato[SN 13.1: A Fingernail]]
+With regard to the relative
 value of the __sotāpanna__'s achievement it is said: "Better than sole
 kingship of the earth, better than going to heaven, better than supreme
 rulership of all the worlds, is the fruit of Stream-entrance
-(__Sotāpattiphalaṁ__)."footnote:[Dhammapada 178.]
+(__Sotāpattiphalaṁ__)."footnote:[https://suttacentral.net/dhp167-178/en/sujato[Dhp 178]]
 
-There are many passages in the __Suttas__footnote:[For examp1e, in
-Majjhima Nikāya 135.] where we have the Buddha teaching in a rather
+There are many passages in the __Suttas__footnote:[For examp1e, in https://suttacentral.net/mn135[MN 135]]
+where we have the Buddha teaching in a rather
 general manner how one is reborn in accordance with one's deeds. That
 is, he teaches that the rebirth awaiting a person is _in accordance
-with_ his __kamma__.footnote:[Majjhima Nikāya 136.]
+with_ his __kamma__.footnote:[https://suttacentral.net/mn136[MN 136]]
 
 It should also be noted that the subject of rebirth need not always
 remain a matter of trust in the Buddha. The Buddha has shown the course
 by following which one could recollect his own past lives and _see_
 other beings dying here and being born there according to their
-deeds.footnote:[Majjhima Nikāya 77.] To the individual who has achieved
+deeds.footnote:[https://suttacentral.net/mn77[MN 77]] To the individual who has achieved
 this vision the subject of rebirth no longer remains a matter of trust
 in the Buddha. To such an individual, rebirth is a matter of certainty.
 The Buddha said that he himself could recollect the past as far back as
-he wished.footnote:[Dīgha Nikāya 29.]
+he wished.footnote:[https://suttacentral.net/mn29[MN 29]]
 
 On many an occasion the not yet enlightened monks went to the Buddha,
 either for inspiration or from curiosity, and inquired from him as to
@@ -79,7 +77,7 @@ where some departed one had been reborn. As one reads through these
 passages in the __Suttas__, one imagines the Buddha smiling to himself
 at these questions and giving the answers and the reasons for them, as
 one who answers children, wishing to soothe them. In the
-__Mahāparinibbāna Sutta__footnote:[Dīgha Nikāya 16.] we have him telling
+__Mahāparinibbāna Sutta__footnote:[https://suttacentral.net/dn16[DN 16]] we have him telling
 Ananda who asked these questions: "Now there is nothing strange in this,
 Ananda, that a human being should die; but that as each one does you
 should come to me and inquire about him in this manner - that is
