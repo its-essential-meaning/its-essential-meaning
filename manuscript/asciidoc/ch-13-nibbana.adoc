@@ -14,10 +14,10 @@ _Nibbāna_ literally means extinction (or cessation). The word by itself
 says nothing more. To the question "The extinction of what, is
 __Nibbāna__?" many answers can be given. Some of the more important
 answers would be that it is the extinction of subjectivity, or of
-Suffering, or of the cankers, or of __taṇhā__, or of Grasping. The
+Suffering, or of the taints, or of __taṇhā__, or of Grasping. The
 extinction of any one of these things implies *also* the extinction of
 the others. When all subjectivity is extinct, all Suffering is also
-extinct, Ignorance is also extinct, the cankers are also extinct, and so
+extinct, Ignorance is also extinct, the taints are also extinct, and so
 on. It is therefore clear that _Nibbāna_ can be described in many ways,
 and in discussion one would usually refer to it as the extinction of
 that thing round which the discussion revolves. If one is discussing
@@ -62,9 +62,9 @@ All that had to be done has been done (__kataṁ karanīyaṁ__). There is
 nothing more to come here from (__nāparaṁ itthattāyāti__). "For the
 Arahat, friend, there is nothing further to be done."footnote:[https://suttacentral.net/sn22.122/en/suddhaso[SN 22.122], The Virtuous One]
 
-*(3) Anāsavaṁ -- The Without Cankers*
+*(3) Anāsavaṁ -- The Without Taints*
 
-All the Cankers, viz., the cankers of sense-pleasure, of
+All the Taints, viz., the taints of sense-pleasure, of
 'self'-existence, and of Ignorance are extinct in Arahatship.
 
 *(4) Saccaṁ -- The Truth*
@@ -298,21 +298,21 @@ am', that indeed is the ultimate happiness."footnote:[https://suttacentral.net/u
 A description of Arahatship which would interest the ethicist is that
 given in the __Pāsādika Sutta__footnote:[https://suttacentral.net/dn29/en/sujato[DN 29]] wherein the
 Buddha in describing the Arahat says: "Friend, the monk in whom the
-cankers are destroyed is incapable of deliberately depriving a living
-being of life. The monk in whom the cankers are destroyed is incapable
+taints are destroyed is incapable of deliberately depriving a living
+being of life. The monk in whom the taints are destroyed is incapable
 of taking what is not given so that it constitutes theft. The monk in
-whom the cankers are destroyed is incapable of indulging in sex
-(__methunaṁ dhammaṁ__). The monk is whom the cankers are destroyed is
-incapable of mindfully uttering falsehood. The monk in whom the cankers
+whom the taints are destroyed is incapable of indulging in sex
+(__methunaṁ dhammaṁ__). The monk is whom the taints are destroyed is
+incapable of mindfully uttering falsehood. The monk in whom the taints
 are destroyed is incapable of laying up treasure for indulging in
 pleasures as he did when being a house-holder. The monk in whom the
-cankers are destroyed is incapable of taking a course of action through
-desire. The monk in whom the cankers are destroyed is incapable of
-taking a course of action through hatred. The monk in whom the cankers
+taints are destroyed is incapable of taking a course of action through
+desire. The monk in whom the taints are destroyed is incapable of
+taking a course of action through hatred. The monk in whom the taints
 are destroyed is incapable of taking a course of action through
-delusion. The monk in whom the cankers are destroyed is incapable of
+delusion. The monk in whom the taints are destroyed is incapable of
 taking a course of action through fear. Friend, the monk who is Arahat,
-in whom the cankers are destroyed, has done what was to be done, has
+in whom the taints are destroyed, has done what was to be done, has
 laid down the burden, attained the highest, completely destroyed the
 fetter of __bhava__, released through right knowledge, is incapable of
 these nine behaviours."
@@ -346,7 +346,7 @@ residue.
 
 "What, monks, is the _Nibbāna_ element with residue?
 
-"Here, monks, a monk is Arahat, has destroyed the cankers, has lived the
+"Here, monks, a monk is Arahat, has destroyed the taints, has lived the
 life, done what was to be done, laid down the burden, attained the
 highest goal, completely destroyed the fetter of __bhava__, released by
 perfect knowledge. In him the five senses still remaining, these not

@@ -1,19 +1,17 @@
 [[ch-09-all-things-are-not-self]]
 = 9. All Things Are Not Self
 
-FIXME update 'cankers' to 'taints' or 'outflows'?
-
 The Buddha shows that a thing is impermanent by showing that the
 necessary condition (or the __saṅkhāra__) upon which the thing depends
 is impermanent.
 
 This can be seen, for instance, in the __Pārileyya Sutta__.
-The destruction of the cankers is spoken of, and the following passage occurs:
+The destruction of the taints is spoken of, and the following passage occurs:
 
 [quote, role=quote]
 ____
 "Monks, how knowing, how seeing, is there without delay the destruction
-of the cankers? Here, monks, the uninstructed _puthujjana_ not
+of the taints? Here, monks, the uninstructed _puthujjana_ not
 discerning the Noble Ones, unskilled in the Noble Doctrine, untrained in
 the Noble Doctrine, not discerning the Worthy Ones, not skilled in the
 Doctrine of the Worthy Ones, regards Form as 'self'. This regarding,
@@ -26,7 +24,7 @@ dependently arisen. That _taṅhā_ is impermanent, determined, dependently
 arisen. That Contact is impermanent, is determined, is dependently
 arisen. That Ignorance is impermanent, is determined, is dependently
 arisen. Thus knowing, monks, thus seeing, is there without delay the
-destruction of the cankers."
+destruction of the taints."
 
 -- https://suttacentral.net/sn22.81/en/bodhi[SN 22.81], At Pārileyya
 ____
@@ -34,23 +32,23 @@ ____
 And so with the other Groups, Feeling, Perception, Determinations and
 Consciousness.
 
-Here, the cankers are the things (__dhammā__) considered. The necessary
-condition for the cankers is the regarding of Form (or the other Groups)
+Here, the taints are the things (__dhammā__) considered. The necessary
+condition for the taints is the regarding of Form (or the other Groups)
 as 'self'. That is, regarding the Groups as 'self' is the _saṅkhāra_ for
-the cankers. Thus we have: "This regarding, monks, is the __saṅkhāra__."
-The Buddha then goes on to show that the _saṅkhāra_ on which the cankers
+the taints. Thus we have: "This regarding, monks, is the __saṅkhāra__."
+The Buddha then goes on to show that the _saṅkhāra_ on which the taints
 depend is impermanent by showing that this _saṅkhāra_ in turn depends
 upon certain other conditions for its own existence. So we have, "Thus,
 monks, that _saṅkhāra_ impermanent, is determined, dependently arisen."
 When the impermanence of the _saṅkhāra_ called "regarding the groups as
-'self'" is seen, then the impermanence of the cankers which depend on
+'self'" is seen, then the impermanence of the taints which depend on
 this _saṅkhāra_ is seen, and hence the possibility of their destruction
 is seen.
 
-In the above, the Buddha does not directly say that the cankers are
+In the above, the Buddha does not directly say that the taints are
 impermanent. He indicates the fact in an indirect manner. He shows that
-the cankers are impermanent by showing that the _saṅkhāra_ which forms
-the necessary condition for the cankers to exist is impermanent. I will
+the taints are impermanent by showing that the _saṅkhāra_ which forms
+the necessary condition for the taints to exist is impermanent. I will
 stop regarding the house I live in as permanent only if I see that the
 constituents which form the necessary conditions for the house, i.e. the
 foundation, the walls, the roof, etc., are impermanent. My being merely
