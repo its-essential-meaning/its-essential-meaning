@@ -56,7 +56,7 @@ attained by developing the five controlling faculties. He "stands
 knocking at the door of deathlessness" - *amara dvāraṁ āhacca
 tiṭṭhati.*[^knocking] But the *asekha* having developed these faculties fully
 has achieved deathlessness and lives experiencing deathlessness.
-Arahat Sariputta said that the latter was the case with him.
+Arahat Sāriputta said that the latter was the case with him.
 Incidentally, it is wrong to think that the *puthujjana* has these
 faculties. The *puthujjana* does not possess these faculties. It is the
 *sekha* who has acquired them, but of course he has to develop
@@ -200,7 +200,7 @@ The first fruit-attainer is called *sotāpanno* (Stream-entrant).
 He has destroyed the first three fetters of 'person'-view, doubt, and
 practice of rites and ritual. Entered the Stream (i.e. entered the
 *sota*) means got on to the Noble Eightfold Path, the Stream (*sota*)
-being defined as this path: "The Stream, Sariputta, is just this
+being defined as this path: "The Stream, Sāriputta, is just this
 Noble Eightfold Path, that is to Say, right understanding, right
 thinking, right action, right speech, right living, right effort,
 right mindfulneSS, right concentration."[^stream] The second fruit-attainer

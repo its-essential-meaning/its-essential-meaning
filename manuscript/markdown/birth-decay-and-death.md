@@ -252,7 +252,7 @@ of birth" -- *jātikkhayaṁ patto*.[^patto] He "has conquered death" --
 *maranābhibhū*.[^conq] To him applies: "Calm and unclouded, peaceful,
 freed of 1onging, he hath crossed over birth and decay, I say" -- *santo
 vidhūmo anīgho nirāso atāri so jātijaranti brūmī'ti*.[^brumi] When
-Ananda attained at Arahatship he said of himself, "Gone to the end of
+Ānanda attained at Arahatship he said of himself, "Gone to the end of
 birth and death he bears the final frame" -- *dhāreti antimaṁ dehaṁ
 jātimaranapāragu*.[^paragu]
 

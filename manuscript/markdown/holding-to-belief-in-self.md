@@ -198,7 +198,7 @@ many things that the *puthujjana* takes to be ‘mine’. He does *not*
 include the other two notions of ‘I’ and ‘self’ at all in this
 Discourse.
 
-Further, in the *Ananda Sutta*[^14] we have the following:
+Further, in the *Ānanda Sutta*[^14] we have the following:
 
 “By grasping Form is there ‘I am’, not by not-grasping (*rūpam upādāya
 asmīti hoti no anupādāya*). By grasping Feeling … Perception …

@@ -92,8 +92,8 @@ reads through these passages in the *Suttas*, one imagines the
 Buddha smiling to himself at these questions and giving the
 answers and the reasons for them, as one who answers children,
 wishing to soothe them. In the *Mahāparinibbāna Sutta*[^mirror] we have
-him telling Ananda who asked these questions: "Now there is
-nothing strange in this, Ananda, that a human being should die;
+him telling Ānanda who asked these questions: "Now there is
+nothing strange in this, Ānanda, that a human being should die;
 but that as each one does you should come to me and inquire
 about him in this manner - that is wearisome to me. I will,
 therefore, preach to you a way of Dhamma called the Mirror of

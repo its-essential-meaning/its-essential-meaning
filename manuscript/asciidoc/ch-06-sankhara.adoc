@@ -21,12 +21,12 @@ mental-__saṅkhāra__ thus:
 
 [quote, role=quote]
 ____
-“What, monks, are the __saṅkhāra__? They are
+"What, monks, are the __saṅkhāra__? They are
 the three __saṅkhāra__, namely, bodily-__saṅkhāra__, verbal-__saṅkhāra__
 and mental-__saṅkhāra__. These, monks, are called the
-__saṅkhāra__.”
+__saṅkhāra__."
 
--- https://suttacentral.net/sn12.2[SN 12.2], Analysis
+-- https://suttacentral.net/sn12.2/en/bodhi[SN 12.2], Analysis of Dependent Origination
 ____
 
 These three kinds of _saṅkhāra_ are in turn defined in the
@@ -34,23 +34,23 @@ __Cūlavedalla Sutta__  as follows:
 
 [quote, role=quote]
 ____
-“Friend, Visākha, in-breathing and out-breathing are the
+"Friend, Visākha, in-breathing and out-breathing are the
 bodily-__saṅkhāra__. Discursive thinking is the verbal-__saṅkhāra__
-Perception and Feeling are the mental-__saṅkhāra__.”
+Perception and Feeling are the mental-__saṅkhāra__."
 
-“Noble lady, for what reason are in-breathing and out- breathing the
+"Noble lady, for what reason are in-breathing and out- breathing the
 bodily-__saṅkhāra__? For what reason is discursive thinking the
 verbal-__saṅkhāra__? For what reason are Perception and Feeling the
-mental-__saṅkhāra__?”
+mental-__saṅkhāra__?"
 
-“Friend, Visākha, in-breathing and out-breathing are corporeal. These
+"Friend, Visākha, in-breathing and out-breathing are corporeal. These
 are *closely connected with* (__paṭibaddhā__) the body. Therefore they are
 bodily-__saṅkhāra__. Having earlier had discursive thinking, one
 subsequently utters words. Therefore discursive thinking is
 verbal-__saṅkhāra__. Perception and Feeling are mental. These are
-closely connected with the mind. Therefore they are mental-__saṅkhāra__.”
+closely connected with the mind. Therefore they are mental-__saṅkhāra__."
 
--- https://suttacentral.net/mn44[MN 44], The Shorter Classification
+-- https://suttacentral.net/mn44/en/sujato[MN 44], The Shorter Classification
 ____
 
 Thirdly, in the __Kukkuravatiya Sutta__, bodily-__saṅkhāra__,
@@ -59,13 +59,13 @@ context thus:
 
 [quote, role=quote]
 ____
-“Here, Punna, someone determines a
+"Here, Punna, someone determines a
 bodily-__saṅkhāra__ that is harmful, determines a verbal-__saṅkhāra__
 that is harmfu1, determines a mental-__saṅkhāra__ that is harmful. He
 having determined a bodily-__saṅkhāra__ … a verbal-__saṅkhāra__ … a
-mental-__saṅkhāra__ that is harmful, upbrings a world that is harmful.”
+mental-__saṅkhāra__ that is harmful, upbrings a world that is harmful."
 
--- https://suttacentral.net/mn57[MN 57], The Ascetic Who Behaved Like a Dog
+-- https://suttacentral.net/mn57/en/bodhi[MN 57], The Dog-Duty Ascetic
 ____
 
 Fourthly, in the context of the Doctrine of Dependent Arising, the
@@ -75,7 +75,7 @@ imperturbable-__saṅkhāra__, thus:
 
 [quote, role=quote]
 ____
-“Were, monks, an ignorant individual
+"Were, monks, an ignorant individual
 to determine a meritorious-__saṅkhāra__ his consciousness would go
 towards merit. Were he to determine a demeritorious-__saṅkhāra__ his
 consciousness would go towards demerit. Were he to determine an
@@ -85,16 +85,16 @@ to Knowledge, monks, through such non-attachment to Ignorance and the
 arising of Knowledge does not determine meritorious-__saṅkhāra__, does
 not determine demeritorious-__saṅkhāra__, does not determine
 imperturbable-__saṅkhāra__. Not determining, not intending, he grasps at
-nothing in the world.”
+nothing in the world."
 
--- https://suttacentral.net/sn12.51[SN 12.51], A Full Inquiry
+-- https://suttacentral.net/sn12.51/en/sujato[SN 12.51], Thorough Investigation
 ____
 
 Fifthly, the __Khajjaniya Sutta__ identifies _saṅkhāra_ as the fourth Group thus.
 
 [quote, role=quote]
 ____
-“Why, monks, do ye say __sahkhāra__? They determine (__abhisaṅkaronti__)
+"Why, monks, do ye say __sahkhāra__? They determine (__abhisaṅkaronti__)
 the determined. That is why they are called __saṅkhāra__. What is the
 determined that they determine? Determined Form do they determine in
 accordance with the nature of Form. Determined Feeling do they determine
@@ -103,12 +103,12 @@ determine in accordance with the nature of Perception. Determined
 Determinations do they detemine in accordance with the nature of
 Determinations. Determined Consciousness do they determine in accordance
 with the nature of Consciousness. They determine the determined. That is
-why they are called __saṅkhāra__.”
+why they are called __saṅkhāra__."
 
--- https://suttacentral.net/sn22.79[SN 22.79], Itchy
+-- https://suttacentral.net/sn22.79/en/bodhi[SN 22.79], Being Devoured
 ____
 
-Sixthly, in the _Mahāvedalla Sutta_ (https://suttacentral.net/mn43[MN 43]) heat is called a life-__saṅkhāra__,
+Sixthly, in the _Mahāvedalla Sutta_ (https://suttacentral.net/mn43/en/sujato[MN 43]) heat is called a life-__saṅkhāra__,
 as that on which depends (__paṭicca__) life.
 
 It might assist the reader to see the above mentioned relationships
@@ -148,9 +148,9 @@ thing depends upon this necessary condition, that thing can exist *only if*
 this necessary condition is present. The thing cannot be present
 without the necessary condition being present. If the necessary
 condition is absent, then the thing is also absent. It should not be
-understood as ‘once the necessary condition has come and gone the thing
-arises’. Nor must it be understood as ‘the necessary condition *becomes*
-the thing’. No. There is no *temporal* succession one after the other. If
+understood as 'once the necessary condition has come and gone the thing
+arises'. Nor must it be understood as 'the necessary condition *becomes*
+the thing'. No. There is no *temporal* succession one after the other. If
 the necessary condition is gone, then the thing is also gone. This is a
 *structural principle*.
 

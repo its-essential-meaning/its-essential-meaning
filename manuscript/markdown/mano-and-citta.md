@@ -126,11 +126,11 @@ Suttas as Cittappasāda, i.e. gladdening, or being pleased in mind.
 One can have belief in a doctrine or be pleased about a doctrine
 even though one does not really see it or understand it.
 
-On a certain occasion (obviously when Ananda was still a
-puthujJ'ana) the Buddha said that if Ananda dies just at that time,
-Ananda would bereborn seven times the king of the gods and
+On a certain occasion (obviously when Ānanda was still a
+puthujJ'ana) the Buddha said that if Ānanda dies just at that time,
+Ānanda would bereborn seven times the king of the gods and
 seven times the king of India by reason of the Cittappasāda
-Ananda had towards the Buddha. Note that the word used is
+Ānanda had towards the Buddha. Note that the word used is
 cittappasāda and not isaddhā. (See Anguttara Nikāya I, Tika
 Nipāta, Ānanda Vagga, Sutta N0. I0).
 

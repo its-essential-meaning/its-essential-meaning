@@ -50,7 +50,7 @@ __Taṇhā__, that is to say, wanting 'self'-existence and sense-pleasure,
 is maintained because of Ignorance. "I dec1are, monks, that
 _bhava-taṇhā_ (wanting 'self'-existence) is with nutriment, not without
 nutriment. And what is the nutriment of __bhava-taṇhā__? Ignorance is to
-be so called."footnote:[https://suttacentral.net/an10.62/en/bodhi[AN 10.62: Craving]]
+be so called."footnote:[https://suttacentral.net/an10.62/en/bodhi[AN 10.62], Craving]
 
 Ignorance can be defined in more than one way. It can be defined as not
 seeing or not knowing the arising and ceasing of the Five Grasping
@@ -92,7 +92,7 @@ Suffering, non-knowledge of the ceasing of Suffering, non-knowledge of
 the Path leading to the ceasing of Suffering -- this, friend, is called
 Ignorance."
 
--- [https://suttacentral.net/mn9[MN 9]]
+-- https://suttacentral.net/mn9/en/bodhi[MN 9], Right View
 ____
 
 Suffering, arising of Suffering, ceasing of Suffering, and the Path
@@ -153,7 +153,7 @@ three evil ways of conduct fulfils the Five Hindrances; the fulfilment
 of the Five Hindrances fulfils Ignorance. Such is the nourishment of
 Ignorance, such is the fulfilment."
 
--- https://suttacentral.net/an10.62/en/bodhi[AN 10.62: Craving]
+-- https://suttacentral.net/an10.62/en/bodhi[AN 10.62], Craving
 ____
 
 Thus, according to the above, Ignorance finally depends upon not hearing
@@ -167,7 +167,7 @@ of Ignorance.*
 For the Five Hindrances, improper attention, etc., to be present
 Ignorance must be present. It would then appear that Ignorance depends
 upon Ignorance. This is in fact directly indicated in the __Sammādiṭṭhi
-Sutta__.footnote:[https://suttacentral.net/mn9[MN 9]] In this _Sutta_ it is said that
+Sutta__.footnote:[https://suttacentral.net/mn9/en/bodhi[MN 9]] In this _Sutta_ it is said that
 the condition for Ignorance is the cankers; "From the arising of the
 cankers is the arising of Ignorance. From the ceasing of the cankers is
 the ceasing of Ignorance." These cankers are in turn defined in the same
@@ -197,7 +197,7 @@ rid of Ignorance without some exteral aid. It is this aid, however, that
 the Buddha gives. He gives it in the form of a Teaching that goes
 *against* the _puthujjana's_ understanding of things. That is why the
 Buddha describes his Teaching as "going against the stream"
-(__paṭisotagāmi__).footnote:[https://suttacentral.net/mn26[MN 26]] The _puthujjana_
+(__paṭisotagāmi__).footnote:[https://suttacentral.net/mn26/en/bodhi[MN 26]] The _puthujjana_
 constantly thinks 'This is mine; this am I; this is my self.' The Buddha
 points out to him that it is wrong, and teaches him to think instead
 'Not, this is mine; not, this am I; not, this is my self'. It is because
@@ -214,7 +214,7 @@ having Consciousness, and in all external indications, the tendency to
 the conceit 'I' and 'mine'?"
 
 "Rahula, whatever Form ... Feeling ... Perception ... Determinations ...
-Consciousness, be it past, future, or present, external or interna1,
+Consciousness, be it past, future, or present, external or internal,
 gross or subtle, low or high, far or near -- all Consciousness -- (is to
 be regarded as) 'Not, this is mine; not, this am I; not, this is my
 self.' That is seeing things by right insight as they really are.
@@ -223,7 +223,7 @@ self.' That is seeing things by right insight as they really are.
 and in all external indications, there comes to be no tendency to the
 conceit 'I' and 'mine'.
 
--- https://suttacentral.net/sn22.91/en/bodhi[SN 22.91: Rahula]
+-- https://suttacentral.net/sn22.91/en/bodhi[SN 22.91], Rahula
 ____
 
 All thoughts of 'I' and 'mine' are completely got rid of means that
@@ -258,7 +258,7 @@ Path and the Arahat, should be noted, or else confusion can arise.
 
 We have said that it is almost impossible to overcome Ignorance without
 some extemal aid. How then did the Buddha overcome it without any such
-aid? The Buddha said, "For me there is no teacher."footnote:[https://suttacentral.net/mn26[MN 26]]
+aid? The Buddha said, "For me there is no teacher."footnote:[https://suttacentral.net/mn26/en/bodhi[MN 26], The Noble Search]
 This means he overcame Ignorance by himself.
 
 The answer is: though it is extremely difficult and appears almost

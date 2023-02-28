@@ -8,7 +8,7 @@ terms _mano_ and __citta__. __Mano__, in strict terminology, refers to a
 particular base (__āyatana__) just as much as _cakkhu_ (eye) does. On
 the basis of these certain perceptions come about Based on the eye there
 is seeing; likewise based on _mano_ there is thinking. That is why the
-Buddha always teaches six such bases - these being the six internal
+Buddha always teaches six such bases -- these being the six internal
 bases (__ajjattikāni āyatanani__), viz., eye-base (__cakkhāyatana__),
 ear-base (__sotāyatana__), nose-base (__ghānāyatana__), tongue-base
 (__jivhāyatana__), body-base (__kāyāyatana__) and mind-base
@@ -49,11 +49,13 @@ the same as __viññāna__.
 
 == II. Manosaṅkhāra and Cittasaṅkhāra
 
-In the _Kukkuravatiya Sutta_ (__Majjhima Nikāya 57__) and else where we
+In the _Kukkuravatiya Sutta_ (https://suttacentral.net/mn57/en/bodhi[MN 57]) and else where we
 get the triad __kāyasaṅkhāra__, _vacīsaṅkhāra_ and _manosaṅkhāra_ as
 against the triad __kāyasaṅkhāra__, _vacīsaṅkhāra_ and _cittasaṅkhāra_
 that appears in the _paṭiccasamuppāda_ exemplification. The former
 triad, it should be noted, is not the same as the latter.
+
+FIXME: add link to sutta
 
 In the triad __kāyasaṅkhāra__, _vacīsaṅkhāra_ and __manosaṅkhāra__, the
 word _saṅkhāra_ refers to _cetanā_ (intention). This can be seen from
@@ -66,16 +68,16 @@ this applies to the use of the triad in the _Kukkuravatiya Sutta_ too.
 
 It will be seen that the Buddha does not give much weight to the many
 speculations regarding 'self' (__attā__). He just dismisses them as
-wrong views (__miccādiṭṭhi__). What he _does_ give weight to is the
-_notion_ of 'self', which fundamentally is nothing but a notion of
-mastery (__vasa__), or in other words, a notion of existing __as
-desired__. Some thing is considered as 'self' means that thing is
+wrong views (__miccādiṭṭhi__). What he *does* give weight to is the
+*notion* of 'self', which fundamentally is nothing but a notion of
+mastery (__vasa__), or in other words, a notion of existing **as desired**.
+Some thing is considered as 'self' means that thing is
 considered as being readily amenable to altering its existence to suit
 one's wish. "If, monks, this body were 'self', then you should be able
 to have 'Let my body be thus, let my body be not thus'." The same
 applies to Feeling, Perception, _Determinations_ and Consciousness. In
 the __puthujjana__'s conscious life it is just this notion of mastery
-that _leads_ him on and not those speculations such as 'Self is eternal'
+that *leads* him on and not those speculations such as 'Self is eternal'
 or 'Self is not eternal' or 'Self is conscious', etc. which he indulges
 in during his moments of speculation. The _puthujjana_ can well be
 divorced from these speculations, but certainly not from the notion that
@@ -143,7 +145,7 @@ these two things are confused.
 
 == VI. Nirodha-taṇhā
 
-In the _Sangīti Sutta_ ([https://suttacentral.net/dn33[DN 33]]) are given three groupings of
+In the _Sangīti Sutta_ (https://suttacentral.net/dn33/en/sujato[DN 33]) are given three groupings of
 _taṇhā_. One group consists of the following three classes of _taṇhā_:
 _rūpa-taṇhā_, _arūpa-taṇhā_, and _nirodha-taṇhā_.
 
@@ -181,14 +183,14 @@ the present; and he cannot see any satisfaction in the future which he
 knows will be decay and death. In other words, he is dissatisfied with
 the _sakkāya_, past, present and future.
 
-Unfortunately, he knows no _escape_ from the _sakkāya_. He does not know
+Unfortunately, he knows no *escape* from the _sakkāya_. He does not know
 _sakkāyanirodha_. Under the circumstances he seeks consolation by doubting
 the reality of the _sakkāya_ which of course is nothing but a doubting the
 reality of his own existence; and on this basis he logically tries to
-find a way out. In this attempt he gets very close to the view of _no existence_.
+find a way out. In this attempt he gets very close to the view of **no existence**.
 Nevertheless, having _sakkāyadiṭṭhi_, he cannot doubtlessly
 accept that he does not exist. He is therefore caught in a duality -- the
-duality of _is_ and _is not_ -- a duality which in extremist thinking points
+duality of *is* and *is not* -- a duality which in extremist thinking points
 to eternalism (_sasata_) on the one hand and to nihilism (_uccedha_) on the
 other. So, without applying his view of nihilism to present living he
 goes beyond (_atidhāvati_) and applies it to a future time, i.e. to after
@@ -203,8 +205,8 @@ _Vibhava-taṇhā_ is the wanting a complete cutting off of the _sakkāya_ at
 death. But this kind of _taṇhā_ is as undesirable as _bhava-taṇhā_ because
 it does not give one any opportunity whatsoever to experience
 _sakkāyanirodha_ which is nothing but the experience of the cessation of
-Suffering. Let alone _experiencing_ the cessation of Suffering it does not
-give one any opportunity whatsoever to even _see_ the cessation of
+Suffering. Let alone *experiencing* the cessation of Suffering it does not
+give one any opportunity whatsoever to even *see* the cessation of
 Suffering. _Vibhava-taṇhā_ will merely keep Suffering going on till death.
 It cannot bring Suffering to an end. One's present problem of Suffering
 just remains with no prospect whatever of a solution.
@@ -214,12 +216,12 @@ just remains with no prospect whatever of a solution.
 When the _puthujjana_ experiences Suffering (i.e. when he is grieved, or
 agitated, or worried, etc.) at a time he is considering some particular
 thing as 'mine', he attempts to get away from that Suffering not by
-considering that _same_ thing as 'not mine' but by switching his mind over
-to considering some _other_ thing as 'mine'. Considering this other thing
+considering that *same* thing as 'not mine' but by switching his mind over
+to considering some *other* thing as 'mine'. Considering this other thing
 as 'mine' may give him less Suffering, and also provide him with some
 kind of temporary relief; but he is basically continuing to regard
-things as 'mine'. Whether it is _this_ that he is considering as 'mine' or
-whether it is _that_, it hardly matters. What matters is that the
+things as 'mine'. Whether it is *this* that he is considering as 'mine' or
+whether it is **that**, it hardly matters. What matters is that the
 considerations 'mine' is persisting in him unbroken. Thus he is in no
 way going towards the extinction of Suffering as the Ariyan disciple who
 considers things as 'not mine' is.
@@ -232,25 +234,25 @@ considering of it as 'not mine' sets in.
 
 Incidentally, we have said that 'mine' points to 'I'. Expanded, this
 statement would be: 'is mine' points to 'I am'. Since 'is mine' is the
-same as 'for me' (in fact the Pali word _me_ refers to both 'mine' and
+same as 'for me' (in fact the Pali word *me* refers to both 'mine' and
 'for me'), we also have 'for me' points to 'I am'. The _puthujjana_ sees
 these things the other way about.
 
 == IX. Upādisesa
 
-_Upādisesa_ means _residue_, or _that which is remaining_.
+_Upādisesa_ means 'residue', or 'that which is remaining'.
 
 However, we find this word used in the Suttas to refer to two different
 things that remain. Usually it refers to the _pañcakkhandha_ (the Five
 Groups) which is what is remaining with regard to the Arahat. But, for
-instance, in the _Satipatthāna Sutta_ ([https://suttacentral.net/mn10[MN 10]]) it is used to
+instance, in the _Satipatthāna Sutta_ (https://suttacentral.net/mn10/en/sujato[MN 10]) it is used to
 refer to that which remains with regard to the _anāgāmi_. In the former
 case it denotes the difference between _sa-upādisesa nibbānadhātu_ and
 _anupādisesa nibbānadhātu_ (FIXME page ref: see page 1O4). In the latter case it denotes
 the difference between the _anāgāmi_ and the Arahat. These two differences
-are by no means the same. Thus, the word _upādisesa_ does not specify _what_
+are by no means the same. Thus, the word _upādisesa_ does not specify *what*
 remains. For this reason Ñāṇavīra Thera considers that _upādisesa_ must be
-_unspecified_ residue.
+*unspecified* residue.
 
 == X. Upādāya rūpaṁ
 
@@ -261,12 +263,12 @@ _rūpa_", or again as "by-product of _rūpa_". This is seriously misleading for
 with regard to the first Group, it immediately shuts the door to the
 problem of Suffering and the cessation of Suffering.
 
-In the _Upādāna Paripavatta Sutta_footnote:[https://suttacentral.net/sn22.56/en/bodhi[SN 22.56: Phases of the Clinging Aggregates]] we get the following passages:
+In the _Upādāna Paripavatta Sutta_footnote:[https://suttacentral.net/sn22.56/en/bodhi[SN 22.56], Phases of the Clinging Aggregates] we get the following passages:
 
 ____
-Katamañca, bhikkhave, rūpaṁ? Cattāro ca mahābhūtā catunnañca mahābhūtānaṁ upādāya rūpaṁ. Idaṁ vuccati, bhikkhave, rūpaṁ. Āhārasamudayā rūpasamudayo; āhāranirodhā rūpanirodho. Ayameva ariyo aṭṭhaṅgiko maggo rūpanirodhagāminī paṭipadā, seyyathidaṁ -- sammādiṭṭhi ... pe ... sammāsamādhi.
+__Katamañca, bhikkhave, rūpaṁ? Cattāro ca mahābhūtā catunnañca mahābhūtānaṁ upādāya rūpaṁ. Idaṁ vuccati, bhikkhave, rūpaṁ. Āhārasamudayā rūpasamudayo; āhāranirodhā rūpanirodho. Ayameva ariyo aṭṭhaṅgiko maggo rūpanirodhagāminī paṭipadā, seyyathidaṁ -- sammādiṭṭhi ... pe ... sammāsamādhi.__
 
-Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā evaṁ rūpaṁ abhiññāya, evaṁ rūpasamudayaṁ abhiññāya, evaṁ rūpanirodhaṁ abhiññāya, evaṁ rūpanirodhagāminiṁ paṭipadaṁ abhiññāya rūpassa nibbidāya virāgāya nirodhāya paṭipannā, te suppaṭipannā. Ye suppaṭipannā, te imasmiṁ dhammavinaye gādhanti.
+__Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā evaṁ rūpaṁ abhiññāya, evaṁ rūpasamudayaṁ abhiññāya, evaṁ rūpanirodhaṁ abhiññāya, evaṁ rūpanirodhagāminiṁ paṭipadaṁ abhiññāya rūpassa nibbidāya virāgāya nirodhāya paṭipannā, te suppaṭipannā. Ye suppaṭipannā, te imasmiṁ dhammavinaye gādhanti.__
 ____
 
 The translation would be:
@@ -295,7 +297,7 @@ Certain other Sutta passages concerning _rūpa_ are those defining the Four Prim
 One such passage (defining the Earth Mode in https://suttacentral.net/mn140/en/bodhi[MN 140]) is:
 
 ____
-Katamā ca, bhikkhu, pathavīdhātu?
+__Katamā ca, bhikkhu, pathavīdhātu?
 Pathavīdhātu siyā ajjhattikā siyā bāhirā.
 Katamā ca, bhikkhu, ajjhattikā pathavīdhātu?
 Yaṁ ajjhattaṁ paccattaṁ kakkhaḷaṁ kharigataṁ upādinnaṁ, seyyathidaṁ --
@@ -304,7 +306,7 @@ yaṁ vā panaññampi kiñci ajjhattaṁ paccattaṁ kakkhaḷaṁ kharigataṁ
 ayaṁ vuccati, bhikkhu, ajjhattikā pathavīdhātu.
 Yā ceva kho pana ajjhattikā pathavīdhātu yā ca bāhirā pathavīdhātu pathavīdhāturevesā.
 'Taṁ netaṁ mama nesohamasmi na meso attā'ti -- evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
-Evametaṁ yathābhūtaṁ sammappaññāya disvā pathavīdhātuyā nibbindati, pathavīdhātuyā cittaṁ virājeti.
+Evametaṁ yathābhūtaṁ sammappaññāya disvā pathavīdhātuyā nibbindati, pathavīdhātuyā cittaṁ virājeti.__
 ____
 
 The translation would be:
@@ -329,7 +331,7 @@ Here again, we see the Buddha indicating Suffering and its cessation.
 The latter part of this passage wherein the Buddha exhorts the disciple
 to regard the Mode as 'Not, this is mine; not, this am I; not, this is
 my self' and thereby detach his thinking (_cittaṁ virājeti_) from the Mode
-has meaning _only_ from the fact of the Mode being grasped (_upādinnaṁ_).
+has meaning *only* from the fact of the Mode being grasped (_upādinnaṁ_).
 If the word _upādinnaṁ_ is reckoned to mean 'because of' or 'derived from'
 the whole meaning and purpose of the Sutta passage is lost. It is
 because the Mode is grasped (i.e. it is considered as 'mine' and the
@@ -343,14 +345,14 @@ the phrase _anukampaṁ upādāya_ appears.
 It means 'taking up sympathy'. But we should not take _upādāya_ herein precisely the same
 sense in which the word is used in reference to the _pañcupādānakkhandha_
 The Arahat takes sympathy, but that does not mean he takes sympathy in
-the sense of considering sympathy as 'mine'. There is no '__my__ sympathy'
-or '__I am__ in sympathy' with the Arahat. In the phrase _anukampaṁ upādāya_
+the sense of considering sympathy as 'mine'. There is no '**my** sympathy'
+or '**I am** in sympathy' with the Arahat. In the phrase _anukampaṁ upādāya_
 the word _upādāya_ is rather indifferently used. It is again due to that
 elasticity of language, often present in dialogue.
 
 Another place where
 the word _upādāna_ is used without bring given exactly the same meaning as
-in _pañcupādānakkhandha_ is the _Aggivacchagotta Sutta_ ([https://suttacentral.net/mn72[MN 72]]).
+in _pañcupādānakkhandha_ is the _Aggivacchagotta Sutta_ (https://suttacentral.net/mn72/en/thanissaro[MN 72]).
 In this Sutta we get the phrase _ayaṁ aggi tiṇakaṭṭhupādānaṁ paṭicca jalatī_,
 which means, 'this fire is burning dependent on taking up
 grass and sticks.' Perhaps, the use of _upādāya_ and _upādāna_ in such
@@ -370,14 +372,14 @@ delighting in and being attached to the Groups
 
 The person who asks the question as to what will happen to the Arahat
 after death is really asking the following question: 'What will happen to
-_me_ after death if _I_ become Arahat?' It is an answer to _this_ question
+*me* after death if *I* become Arahat?' It is an answer to *this* question
 that he is really seeking. The attachment to the Groups lies latent and
 unnoticed by the questioner. Although in the question, the questioner
 does not indicate the involvement of any subjectivity (i.e. he does not
 indicate in the question that he himself is involved), the fact is that
-_he_ as a subject _is_ involved. _He_ wants to know what will happen to _him_
-after death if _he_ becomes Arahat. Since the questioner is a _puthujjana_
-the question appears valid _to him_, and so he keeps on asking it. Not
+*he* as a subject *is* involved. *He* wants to know what will happen to *him*
+after death if *he* becomes Arahat. Since the questioner is a _puthujjana_
+the question appears valid *to him*, and so he keeps on asking it. Not
 seeing the _pañcupādānakkhandha_ as _pañcupādānakkhandha_ and the
 _pañcakkhandha_ as _pañcakkhandha_ he puts forth these questions. But if he
 does see the _pañcupādānakkhandha_ and the _pañcakkhandha_ he cannot and
@@ -389,31 +391,31 @@ does not go beyond Arahatship.
 The _puthujjana_, whether he be a philosopher, ethicist, ascetic, or
 anyone else, does not see that these questions about the Arahat, self
 and the world are unjustified. He assumes he is justified in asking them,
-and so he keeps on asking them. At the same time he sees that _no_ answer
+and so he keeps on asking them. At the same time he sees that *no* answer
 to any one of them is justifiable. He can proceed no further, and so his
 thinking ends in frustration.
 
-The Buddha also does not answer these questions. But he shows _how_ and
-_why_ they arise. When this is seen the invalidity of the questions is
+The Buddha also does not answer these questions. But he shows *how* and
+*why* they arise. When this is seen the invalidity of the questions is
 seen. When their invalidity is seen the questions are no longer asked.
 Thus does the Buddha rescue the thinker from frustration -- not by
-answering unanswerable questions, but by bringing him to the _cessation_
+answering unanswerable questions, but by bringing him to the *cessation*
 of all such questions. That is also why the Buddha's Teaching is 'beyond
 the world' (_lokuttara_). It is beyond the world of the _puthujjana_, and
 hence beyond his comprehension.
 
 == XII. Dassana
 
-ln the _Sabbāsava Sutta_ ([https://suttacentral.net/mn2[MN 2]]), it is said that adherence to
-rites and ritual, doubt, and 'person'-view are to be laid aside by _seeing_ (__dassana__).
+ln the _Sabbāsava Sutta_ (https://suttacentral.net/mn2/en/bodhi[MN 2]), it is said that adherence to
+rites and ritual, doubt, and 'person'-view are to be laid aside by *seeing* (__dassana__).
 
-This means, that one has to _see_ that adherence to rites and ritual,
+This means, that one has to *see* that adherence to rites and ritual,
 doubt (about the Dhamma), and having 'person'-view prevent the cessation
-of Suffering. This _seeing_ is not quite as easy and simple as it would
+of Suffering. This *seeing* is not quite as easy and simple as it would
 appear to be. It is not to be achieved through a process of conceptual
 or logical thinking. Nor is it to be achieved by any kind of scholarly
 analysis. Only a sustained effort at looking deep down into the very
-depths of one's own personal existence, can bring about this _seeing_.
+depths of one's own personal existence, can bring about this **seeing**.
 Actually, with this seeing the Four Noble Truths are also seen; and this
 is what is meant by the arising of the Dhamma-Eye (_dhammacakkhuṁ udapādi_).
 
@@ -423,23 +425,23 @@ matter of the highest importance.
 
 == XIII. Rebirth
 
-It should be noted that the Suttas do not explain _how_ rebirth takes
+It should be noted that the Suttas do not explain *how* rebirth takes
 place. They only tell us that so long as a being dies with Ignorance and
 _taṇhā_ there is a new _bhavā_ springing up.
 
-Conceptually thinking out _how_ rebirth takes place (the mechanics of it,
+Conceptually thinking out *how* rebirth takes place (the mechanics of it,
 so to say), with connections in time and space, will not help. And any
 attempt to do so can do more harm than good (as in fact has happened,
-e.g. _by going beyond the Suttas_ and introducing the concept of a _paṭisandhi viññāna_).
+e.g. **by going beyond the Suttas** and introducing the concept of a _paṭisandhi viññāna_).
 
-What one _has_ to do, as the Buddha says, is to see
+What one *has* to do, as the Buddha says, is to see
 and understand one's present Suffering, how it arises, how it ceases,
 and the way to its cessation, and thereby reach the Path. The individual
 who accomplishes this task will know that whatsoever rebirth will befall
-him cannot be in an unfortunate sphere; and that, _for him_, is the most
+him cannot be in an unfortunate sphere; and that, **for him**, is the most
 important knowledge regarding rebirth. It is also a matter of experience
 that as one begins to see Suffering and its cessation, one's thoughts
-about rebirth (which are purely speculative unless one _sees_ rebirth)
+about rebirth (which are purely speculative unless one **sees** rebirth)
 begin to recede into the background. In fact the phenomenon of rebirth
 itself causes little concern to such a one.
 
