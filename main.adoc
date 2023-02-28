@@ -41,7 +41,5 @@ include::{includes}/ch-99-appendix.adoc[]
 
 include::{includes}/ch-99-an-3-33-sariputta.adoc[]
 
-//include::{includes}/glossary.adoc[]
-
 include::{includes}/copyright.adoc[]
 
