@@ -1,18 +1,14 @@
 [[ch-16-satipatthana]]
 = 16. A Note on the Four Applications of Mindfulness
 
-// TODO subtitle
+__(Cattāro Satipaṭṭhānā)__
 
-__Cattāro Satipaṭṭhānā__
-
-// TODO note: DN 22, MN 10
-
-The actual way of living out the Noble Eightfold Path for the
+[[start]]The actual way of living out the Noble Eightfold Path for the
 development of Wisdom and therewith gaining deliverance from Suffering,
 or for attaining Arahatship, is the practising of the Fourfold
 Applications of Mindfulness (__cattāro satipaṭṭhānā__). How one
 practises this Way of Mindfulness is given in the Discourse called the
-__Mahā Satipaṭṭhānā Sutta__.
+__Mahā Satipaṭṭhānā Sutta__.footnote:[https://suttacentral.net/dn22/en/sujato[DN 22] and https://suttacentral.net/mn10/en/sujato[MN 10]]
 
 It is sometimes thought that the practice of this Way of Mindfulness can
 be undertaken without any prior understanding of the Buddha's Teaching.
@@ -21,7 +17,7 @@ it is quite clear that there must be a good understanding of the
 Teaching if one is to embark on the practice of the four _satipaṭṭhānas_
 so to obtain any beneficial results. Repeatedly the _Satipaṭṭhānā Sutta_
 says "abides seeing the nature of things in things" (__dhammesu
-dhammānupassī viharati__)footnote:[https://suttacentral.net/dn22/en/sujato[DN 22] and https://suttacentral.net/mn10/en/sujato[MN 10]],
+dhammānupassī viharati__),
 and this abiding is defined as understanding or knowing as
 it really is (__yathābhūtaṁ pajānāti__), This means that the individual
 practising it is one who is **seeing**.

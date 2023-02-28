@@ -78,7 +78,7 @@ say, __Nibbāna__, which is not a state unreal."footnote:[https://suttacentral.n
 
 *(5) Pāraṁ -- The Beyond*
 
-Essentially it means that Arahatship is beyond all Suffering.
+[[beyond]]Essentially it means that Arahatship is beyond all Suffering.
 
 *(6) Nipunaṁ -- The Subtle*
 
@@ -232,7 +232,7 @@ them.
 
 *(26) Suddhi -- Purity*
 
-In the true and worthy sense of the word, it is only Arahatship that can
+[[suddhi]]In the true and worthy sense of the word, it is only Arahatship that can
 be called Purity.
 
 *(27) Mutti -- The Release*
@@ -272,7 +272,7 @@ various states involving Suffering to *some* degree or other. Arahatship
 is wholly and entirely free from Suffering. Hence it is the ultimate
 goal.
 
-FIXME add sectionbreak
+image::sectionbreak.png[]
 
 Apart from the above thirty three descriptions other descriptions for
 Arahatship are to be found, such as not-born (__ajātaṁ__), not-being
@@ -326,7 +326,7 @@ again.
 Of all these descriptions of Arahatship the most common one, however, is
 that it is the destruction of lust, hatred and delusion.
 
-Now, Arahatship as we saw, is the experience of the extinction of
+[[remainder]]Now, Arahatship as we saw, is the experience of the extinction of
 Grasping. The Five Grasping Groups are wholly and entirely extinct and
 what remains is a Not-Grasping residual Five Groups. These residual Five
 Groups are called the "Extinction element with residue" (__saupādisesa
@@ -450,7 +450,7 @@ existence. And it gets this footing as the **behaviour of appearance**.
 In other words, we can only say that the Four Primary Modes *appear to exist as rūpa*
 (i.e. as Form or 'matter') in _nāma-rūpa_
 (Name-and-Form).footnote:[The Buddha states that Form or 'matter' is
-dependent on the Four Primary Modes. (FIXME: page number) See page 20. This statement is
+dependent on the Four Primary Modes. See <<ch-03-name-and-form-and-consciousness.adoc#dependent,Chapter 3: Name-and-Form and Consciousness, "Monk, it is to be seen...">>. This statement is
 better understood at this stage.] Appearance gets a borrowed behaviour
 and behaviour gets a borrowed appearance.
 
@@ -550,7 +550,7 @@ subtle form of Grasping -- "__Nibbāna__ is mine, he conceives"
 (__nibbānaṁ meti maññati__) -- which the Buddha refers to in his
 Discourse on The Fundamentals of All Things.footnote:[https://suttacentral.net/mn1/en/bodhi[MN 1]]
 
-FIXME sectionbreak
+image::sectionbreak.png[]
 
 The Buddha Said: "All _determinations_ are Impermanent, all things are
 Not-self, all _determinations_ are Suffering" (__sabbe saṅkhārā aniccā,
@@ -616,7 +616,7 @@ question of Not-self arises only when the question of 'self' arises.
 _Nibbāna_ is beyond both 'self' and Not-self. The Arahat has no notion
 whatever of 'Self'. Hence the Arahat has no occasion whatever to see
 anything as Not-self. Seeing things as Not-self is only the **path** to
-Purityfootnote:[Purity refers to Arahatship. (FIXME: page number) See page 101.] (or to
+Purityfootnote:[Purity refers to Arahatship. See <<ch-13-nibbana.adoc#suddhi,"Suddhi -- Purity...">>] (or to
 __Nibbāna__). It is **not** Purity. "All things are Not-self. When this is
 seen with wisdom, one wearies oneself of Suffering. This is the path to
 Purity."footnote:[https://suttacentral.net/dhp273-289/en/anandajoti[Dhp 279]]
@@ -695,12 +695,12 @@ that the dhamma (which are __saṅkhatā__. and dependent on __saṅkhārā__)
 are __aniccā__. Further, his Teaching is also one that is 'well said'
 (__svākhāto__). But it is also necessary that we understand it
 well.{empty}footnote:[Note the following statement of the Buddha:
-pass:[<br><br>]
+pass:[<br/><br/>]
 "Dependent on two things, monks, is there the arising of wrong view. What two? Voice from beyond, and improper attention. Dependent on these two things, monks, is there the arising of wrong view."
-pass:[<br><br>]
+pass:[<br/><br/>]
 "Dependent on two things, monks, is there the arising of right view. What two? Voice from beyond, and proper attention. Dependent on these two things, monks, is there the arising of right view." (https://suttacentral.net/an2.118-129/en/sujato[AN 2.125-126])
-pass:[<br><br>]
-'Voice from beyond' (__Parato ghoso__) refers to the voice of an Arahat, the 'beyond' referring to Arahatship. (FIXME: page number) See page 97.]
+pass:[<br/><br/>]
+'Voice from beyond' (__Parato ghoso__) refers to the voice of an Arahat, the 'beyond' referring to Arahatship. See <<ch-13-nibbana.adoc#beyond,"Pāraṁ -- The Beyond...">>]
 
 "What is impermanent, that is Suffering; what is Suffering, that is
 Not-self" (__yad aniccaṁ taṁ dukkhaṁ, yaṁ dukkaṁ tad anattā__).footnote:[https://suttacentral.net/sn22.15/en/bodhi[SN 22.15: What is Impermanent]]

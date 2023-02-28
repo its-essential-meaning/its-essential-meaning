@@ -95,8 +95,7 @@ now no longer self. The thing (__dhamma__) which he had regarded as
 Not-Self" (__sabbe dhammā anattā__).
 
 Therefore, when "All _saṅkhāra_ are impermanent" is seen "All things are
-Not-self" and "All _saṅkhāra_ are Suffering"footnote:[See Chapter 11 on
-Suffering. TODO: link to chapter] are also seen. These three stand
+Not-self" and "All _saṅkhāra_ are Suffering"footnote:[See <<ch-11-suffering.adoc#impermanent,Chapter 11: Suffering, "'Self' always implies permanency...">>] are also seen. These three stand
 together, and fall together. When there is perception of Impermanence
 there is simultaneously perception of Not-self and perception of
 Suffering. When perception of Impermanence is not there, there is also

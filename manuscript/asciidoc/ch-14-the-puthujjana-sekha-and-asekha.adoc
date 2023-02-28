@@ -25,8 +25,7 @@ experiences it.
 
 To the extent the _sekha_ experiences the Teaching, to that extent does
 he see the Teaching better. His seeing is still imperfect and his
-cultivation of the Four Applications of Mindfulnessfootnote:[On the Four
-Applications of Mindfulness see Ch. XVII. (FIXME: ch ref)] is only partial
+cultivation of the Four Applications of Mindfulness{empty}footnote:[See <<ch-16-satipatthana.adoc#start,Chapter 16: On the Four Applications of Mindfulness>>] is only partial
 (__catunnaṁ kho āvuso satipaṭṭhānānaṁ padesaṁ bhāvitattā__)footnote:[https://suttacentral.net/sn47.26/en/bodhi[SN 47.26], Partly]
 as against that of the _asekha_ which is complete (__satipaṭṭhānānaṁ samattaṁ bhāvitattā__).footnote:[https://suttacentral.net/sn47.27/en/bodhi[SN 47.27], Completely]
 He, the __sekha__, can see a part of the

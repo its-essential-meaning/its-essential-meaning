@@ -55,12 +55,10 @@ against the triad __kāyasaṅkhāra__, _vacīsaṅkhāra_ and _cittasaṅkhāra
 that appears in the _paṭiccasamuppāda_ exemplification. The former
 triad, it should be noted, is not the same as the latter.
 
-FIXME: add link to sutta
-
 In the triad __kāyasaṅkhāra__, _vacīsaṅkhāra_ and __manosaṅkhāra__, the
-word _saṅkhāra_ refers to _cetanā_ (intention). This can be seen from
-the __Saṁyutta Nikāya II__, __Abhisamaya Saṁyutta__, __Dasabala Vagga__,
-Sutta No. 5, where __kāyasaṅkhāra__, _vacīsaṅkhāra_ and _manosaṅkhāra_
+word _saṅkhāra_ refers to _cetanā_ (intention). This can be seen from the Sutta
+https://suttacentral.net/sn12.25/en/bodhi[SN 12.25],
+where __kāyasaṅkhāra__, _vacīsaṅkhāra_ and _manosaṅkhāra_
 refer to __kāyasaṅcetanā__, _vacīsaṅcetanā_ and __manosaṅcetanā__, and
 this applies to the use of the triad in the _Kukkuravatiya Sutta_ too.
 
@@ -123,7 +121,7 @@ On a certain occasion (obviously when Ānanda was still a _puthujjana_)
 the Buddha said that if Ānanda dies just at that time, Ānanda would
 be reborn seven times the king of the gods and seven times the king of
 India by reason of the _cittappasāda_ Ānanda had towards the Buddha. Note
-that the word used is _cittappasāda_ and not _saddhā_.footnote:[FIXME footnote ref. See Anguttara Nikāya I, Tika Nipāta, Ānanda Vagga, Sutta N0. I0]
+that the word used is _cittappasāda_ and not _saddhā_.footnote:[https://suttacentral.net/an3.80/en/sujato[AN 3.80]]
 
 _Saddhā_ is born of seeing and understanding the Dhamma, and it exists
 alongside the other four faculties of _sati_, _vīriya_, _paññā_, and _samādhi_.
@@ -248,7 +246,8 @@ Groups) which is what is remaining with regard to the Arahat. But, for
 instance, in the _Satipatthāna Sutta_ (https://suttacentral.net/mn10/en/sujato[MN 10]) it is used to
 refer to that which remains with regard to the _anāgāmi_. In the former
 case it denotes the difference between _sa-upādisesa nibbānadhātu_ and
-_anupādisesa nibbānadhātu_ (FIXME page ref: see page 1O4). In the latter case it denotes
+__anupādisesa nibbānadhātu__.footnote:[See <<ch-13-nibbana.adoc#remainder,Chapter 13: Nibbāna, "Now, Arahatship as we saw...">>]
+In the latter case it denotes
 the difference between the _anāgāmi_ and the Arahat. These two differences
 are by no means the same. Thus, the word _upādisesa_ does not specify *what*
 remains. For this reason Ñāṇavīra Thera considers that _upādisesa_ must be

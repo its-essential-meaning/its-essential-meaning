@@ -38,7 +38,7 @@ Impermanence and Not-self too. The perception of Suffering comes only
 together with the perception of Impermanence and Not-self. And
 developing that perception is by no means an easy task.
 
-'Self' always implies permanency, and hence desirability. The
+[[impermanent]]'Self' always implies permanency, and hence desirability. The
 _puthujjana_ has to see that what he takes to be his 'self' (thereby to
 be permanent and desirable) is really Not-self. This he can only see by
 seeing that what he takes as his 'self' is impermanent. When that which
@@ -279,7 +279,7 @@ mental concomitants. These mental concomitants are _dukkha_. Thus,
 fundamentally, the arising and ceasing of _dukkha_ is to be found in
 these deliberations. Unless this is seen the First Noble Truth is not
 seen.
-pass:[<br><br>]
+pass:[<br/><br/>]
 With the Arahat, of course, no _dukkha_ arises at all, the thought
 `mine' never arising in him. Therefore, with him, there is also no
 _dukkha_ to cease.]
