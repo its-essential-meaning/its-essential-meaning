@@ -24,7 +24,7 @@ that thing round which the discussion revolves. If one is discussing
 __bhava__, then it would be appropriate to describe _Nibbāna_ as the
 extinction or cessation of __bhava__: "The cessation of _bhava_ is
 __Nibbāna__"footnote:[https://suttacentral.net/an10.7/en/bodhi[AN 10.7], Sāriputta]
--- __bhavanirodho nibbānaṃ__. If one is discussing the
+-- __bhavanirodho nibbānaṁ__. If one is discussing the
 'person' (__sakkāya__) then it would be appropriate to say that _Nibbāna_
 is the cessation of the 'person' (__sakkāyanirodho__).footnote:[https://suttacentral.net/sn22.105/en/sujato[SN 22.105], Identity]
 If we reckon the
@@ -58,7 +58,7 @@ applicable the word 'impersonal' in its *fullest* meaning.
 *(2) Antaṁ -- The End*
 
 Arahatship is the *summum bonum* of all life's endeavour. It is the end.
-All that had to be done has been done (__kataṃ karanīyaṁ__). There is
+All that had to be done has been done (__kataṁ karanīyaṁ__). There is
 nothing more to come here from (__nāparaṁ itthattāyāti__). "For the
 Arahat, friend, there is nothing further to be done."footnote:[https://suttacentral.net/sn22.122/en/suddhaso[SN 22.122], The Virtuous One]
 
@@ -388,10 +388,10 @@ infinite space, nor of infinite consciousness, nor of nothingness, nor
 of neither-perception-nor-non-perception, wherein is neither this world
 nor a world beyond, nor both sun and moon. There, monks, there is no
 coming, I declare; no going, no persisting,footnote:[As shown earlier,
-_thitiṃ_ (persistence) is a characteristic of the __saṅkhata__, i.e. of
+_thitiṁ_ (persistence) is a characteristic of the __saṅkhata__, i.e. of
 the Five Grasping Groups. It is not a characteristic of the _asaṅkhata_
 which is Arahatship. Appearance (__uppādo__), disappearance (__vayo__),
-and _thitiṃ_ (persistence) are applicable only to a 'person' or a 'self'
+and _thitiṁ_ (persistence) are applicable only to a 'person' or a 'self'
 or a 'somebody'. With the Arahat the latter are extinct; hence
 appearance, disappearance, and persistence are not applicable.] no
 passing away, no arising. Without support without being, without
@@ -511,11 +511,11 @@ concepts of long and short, large and small, auspicious and
 inauspicious, and Name-and-Form cease without any remainder whatsoever.
 
 Therefore the answer to the question is: "The non-indicative
-Consciousness, the without end;footnote:[Anantaṃ (without end) should
+Consciousness, the without end;footnote:[Anantaṁ (without end) should
 probably be taken to mean "without aim" or "without objective".] the all
-given upfootnote:[Pahaṃ, as a shortened form of pajahaṃ so as to
+given upfootnote:[Pahaṁ, as a shortened form of pajahaṁ so as to
 maintain the metre in the verse, and meaning "given up entire1y", fits
-in here very much better than pabhaṃ.]- there it is where earth, water,
+in here very much better than pabhaṁ.]- there it is where earth, water,
 fire and air get no footing. There it is where long and short, large and
 small, auspicious and inauspicious, and Name-and-Form cease without
 remainder; with the ceasing of Consciousness, these cease."
