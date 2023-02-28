@@ -3,15 +3,17 @@
 :description: Its Essential Meaning
 :author: R.G. de S. Wettimuny
 :creator: {author}
-:version: v0.1.0
+:version: v1.0
 :revdate: 2021-09-18
 :doctype: book
 :lang: en
 :keywords: Wettimuny, Dhamma, Buddhism, RELIGION / Buddhism / Theravada
 :copyright: CC-BY-NC-ND 4.0
+:isbn: 000-0-00000-000-0
+:identifier: isbn:{isbn}
 :imagesdir: assets/photos/92dpi-ebook-sRGB
 :includes: manuscript/asciidoc
-:front-cover-image: image:desktop-cover.png[Front Cover,600,800]
+:front-cover-image: image:desktop-cover.png[Front Cover,800,1200]
 :toc: left
 :toc-title: Contents
 :toclevels: 0

@@ -129,6 +129,9 @@
 \RequirePackage{enumitem}
 \RequirePackage{longtable}
 \RequirePackage{environ}
+\RequirePackage{pageslts}
+\RequirePackage{array}
+\RequirePackage{ragged2e}
 
 \RequirePackage{tikz}
 \usetikzlibrary{positioning}
@@ -246,62 +249,36 @@
 \RequirePackage{hyperxmp}
 \RequirePackage{hyperref}
 
-\ifdesktopversion
+% https://tex.stackexchange.com/questions/32076/incorrect-toc-index-cross-references-when-resetting-memoir-class-counters
+% hypertexnames=true
+
 \hypersetup{
   unicode=true,
-  % Colors: in the desktop version, use colored link text 
-  colorlinks=true,
-  % FIXME: the links don't work, so don't color them blue
-  %linkcolor=link,
-  %citecolor=link,
-  %filecolor=link,
-  %urlcolor=link,
-  linkcolor=textbody,
-  citecolor=textbody,
-  filecolor=textbody,
-  urlcolor=textbody,
-  % Metadata
-  pdftitle={Stillness Flowing},
-  pdfauthor={Ajahn Jayasaro},
-  pdfcopyright={Copyright (C) 2017, Panyaprateep Foundation},
-  pdfsubject={The Life and Teachings of Ajahn Chah},
-  pdfkeywords={buddhism, dhamma, biography, ajahn chah, luang por chah},
-  pdflicenseurl={http://creativecommons.org/licenses/by-nc-nd/4.0/},
-  pdfcontacturl={http://jayasaro.panyaprateep.org},
-  pdflang={en},
-  % Behaviour
   bookmarksopen=true,
   bookmarksopenlevel=3,
-  hypertexnames=false,
+  hypertexnames=true,
   linktocpage=true,
   plainpages=false,
   breaklinks
 }
-\else
+
+\ifdesktopversion
+% Colors: in the desktop version, use colored link text
 \hypersetup{
-  unicode=true,
-  % Colors: in the print version, set link colors to text color, so that it doesn't interfere with printing
+  colorlinks=true,
+  linkcolor=link,
+  citecolor=link,
+  filecolor=link,
+  urlcolor=link,
+}
+\else
+% Colors: in the print version, set link colors to text color, so that it doesn't interfere with printing
+\hypersetup{
   colorlinks=true,
   linkcolor=textbody,
   citecolor=textbody,
   filecolor=textbody,
   urlcolor=textbody,
-  % Metadata
-  pdftitle={Stillness Flowing},
-  pdfauthor={Ajahn Jayasaro},
-  pdfcopyright={Copyright (C) 2017, Panyaprateep Foundation},
-  pdfsubject={The Life and Teachings of Ajahn Chah},
-  pdfkeywords={buddhism, dhamma, biography, ajahn chah, luang por chah},
-  pdflicenseurl={http://creativecommons.org/licenses/by-nc-nd/4.0/},
-  pdfcontacturl={http://jayasaro.panyaprateep.org},
-  pdflang={en},
-  % Behaviour
-  bookmarksopen=true,
-  bookmarksopenlevel=3,
-  hypertexnames=false,
-  linktocpage=true,
-  plainpages=false,
-  breaklinks
 }
 \fi
 
@@ -315,7 +292,31 @@
 % memoir's more allowing penalties
 \midsloppy
 
-\renewcommand\britishhyphenmins{{3}{3}}
+\ifthenelse{\equal{\BOOK@babelLanguage}{british}}{
+  \renewcommand\britishhyphenmins{{3}{3}}
+  % If using babel, captions names have to be renamed like this
+  \addto\captionsbritish{
+    \renewcommand{\contentsname}{Contents}
+    \renewcommand{\bibname}{References}
+  }
+}{}
+\ifthenelse{\equal{\BOOK@babelLanguage}{italian}}{
+  \renewcommand\italianhyphenmins{{3}{3}}
+}{}
+\ifthenelse{\equal{\BOOK@babelLanguage}{hungarian}}{
+  \renewcommand\hungarianhyphenmins{{3}{3}}
+}{}
+\ifthenelse{\equal{\BOOK@babelLanguage}{portuguese}}{
+  \renewcommand\portuguesehyphenmins{{3}{3}}
+  \addto\captionsportuguese{
+    \renewcommand{\contentsname}{Índice}
+    \renewcommand{\bibname}{Referências}
+  }
+  % Portuguese repeats hyphen
+  % http://tex.stackexchange.com/a/247298/831
+  % generates a hyphen that will repeat on a new line
+  \defineshorthand{"-}{\babelhyphen{repeat}}
+}{}
 
 \hyphenpenalty=700
 \exhyphenpenalty=50
@@ -368,6 +369,17 @@ philo-sophical munindo amaravati thai-land}
 
 % === Custom commands and environments ===
 
+% https://tex.stackexchange.com/questions/4839/raggedleft-paragraph-in-a-table
+
+% Use with: \begin{tabular}{L{30mm}R{30mm}}
+
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+
+% Allows hyphenation:
+% \newcolumntype{L}[1]{>{\RaggedRight\hspace{0pt}}p{#1}}
+% \newcolumntype{R}[1]{>{\RaggedLeft\hspace{0pt}}p{#1}}
+
 \newcommand\dividerRule{%
 {\centering\bigskip
 {\color[gray]{0.6}\rule{0.6\linewidth}{0.2pt}}
@@ -385,6 +397,29 @@ philo-sophical munindo amaravati thai-land}
 \newcommand\emptypage{%
   \clearpage
   \thispagestyle{empty}\mbox{}\newpage
+}
+
+\newcommand{\emptyUntilEven}{%
+  \ifodd\thepage%
+  \clearpage\thispagestyle{empty}\null%
+  \fi%
+}
+
+\newcounter{pageRem}
+\newcounter{origPage}
+
+% Add empty pages for a total page count divisible by 8 without remainder.
+\newcommand{\emptyUntilModEight}{%
+  \setcounter{origPage}{\theCurrentPage}%
+  \setcounter{pageRem}{1 + 8 - ( \theCurrentPage - ( ( \theCurrentPage / 8 ) * 8) )}%
+  %\typeout{hey: \theCurrentPage, \theorigPage, \thepageRem}% NOTE only for debugging
+  \loop%
+    \addtocounter{pageRem}{-1}%
+  \ifnum\thepageRem>0%
+    \clearpage%
+    \thispagestyle{empty}\mbox{}%
+    %hey \theorigPage \space \thepageRem% NOTE only for debugging
+  \repeat%
 }
 
 \newcommand*{\subtitle}[1]{\def\@thesubtitle{#1}}
@@ -776,6 +811,38 @@ philo-sophical munindo amaravati thai-land}
 
 % === Renewing package macros ===
 
+% NOTE: Uncomment below if you need a \mainmatter which doesn't add blank pages.
+% Useful to insert a picture before the first chapter, which otherwise would
+% have a double blank page before it.
+
+% \renewcommand*{\@smemmain}{%
+%   \@mainmattertrue
+%   \setcounter{secnumdepth}{\value{maxsecnumdepth}}
+%   \ifartopt\relax
+%   \else
+%     \@memmain@floats
+%   \fi}
+
+\ifthenelse{\equal{\BOOK@babelLanguage}{hungarian}}{
+  % Turning off acute shorhand for hungarian. Turning off all shorhands with the
+  % shorhands=off package option causes unknown command error for the opening
+  % double quote (double acute).
+  %
+  % The hungarian babel option loads the acute (backtick) as a shorthand, and
+  % interferes with opening single quotes. On certain letters such as `T `t `N
+  % `n, the quote mark disappears. It could also be a ligature problem in the
+  % Crimson Roman font.
+  %
+  % The shorhands are only activated after \begin{document}, turning it off in
+  % the preamble has no effect.
+  %
+  % Hungarian typesetting often uses lower quote marks for opening the quote.
+  % Turning it off produces upper quote marks, as in English typesetting.
+  \addtodef{\frontmatter}{}{%
+    \shorthandoff{`}
+  }
+}{}
+
 \addtodef{\mainmatter}{}{%
   \addtocontents{toc}{\addvspace{15pt}}%
   \setcounter{chapter}{0}%
@@ -789,18 +856,6 @@ philo-sophical munindo amaravati thai-land}
 
 \addtodef{\backmatter}{}{%
   \bookmarksetup{startatroot}%
-}
-
-\renewenvironment{quote}%
-{\small
-\list{}{\rightmargin\leftmargin}%
-\item[]}%
-{\endlist}
-
-\newcommand\quoteref[1]{%
-\par
-{\footnotesize #1}
-\par
 }
 
 % adapted from base/latex.ltx
@@ -1065,8 +1120,8 @@ philo-sophical munindo amaravati thai-land}
   \itshape #1%
 }
 
-\newcommand*{\theChapterNote}{}
-\newcommand*{\chapterNote}[1]{%
+\newcommand{\theChapterNote}{}
+\newcommand{\chapterNote}[1]{%
   \chapternotetrue%
   \renewcommand*\theChapterNote{#1}%
 }
@@ -1259,7 +1314,7 @@ philo-sophical munindo amaravati thai-land}
 
 \makechapterstyle{shedir}{
   \chapterstyle{default}
-  \setlength{\beforechapskip}{30mm}
+  \setlength{\beforechapskip}{20mm}
   \setlength{\chapterTitleLeftSkip}{0pt}
   \renewcommand\printchaptername{}
   \renewcommand\chapternamenum{}
@@ -1557,8 +1612,6 @@ philo-sophical munindo amaravati thai-land}
 \def\BOOK@fontSizePt{}
 \def\BOOK@lineHeightPt{}
 
-% Based on 'largepage', with font sizes from 'largevolume' (i.e. Collected Teachings)
-
 % === normalsize ===
 
 \def\BOOK@fontSizePt{10.5}
@@ -1614,10 +1667,16 @@ philo-sophical munindo amaravati thai-land}
 \setulmargins{42pt}{*}{*}% Based on Tall Pentagon, 1.701
 \setlength{\footskip}{30pt}
 
-% Fixes these warnings:
-%
-% Overfull \vbox (1.4pt too high) has occurred while \output is active
+% Adjust spacing to avoid warning
+% Class memoir Warning: The material used in the headers is too large (18.0pt) for the given head height (15.6pt),
 \addtolength{\headheight}{2pt}
+
+% Increase overfull and underfull tolerance to avoid too many warnings such as
+% Overfull \vbox (1.4pt too high) has occurred while \output is active
+% Underfull \hbox (badness 10000) in paragraph at lines 150--151
+\vfuzz=5pt
+\hfuzz=5pt
+\hbadness=10000
 
 % This will also typeout values in pt (default)
 \checkandfixthelayout
@@ -1664,6 +1723,34 @@ philo-sophical munindo amaravati thai-land}
 % Sidefootvsep and sidefootheight: 4.77979mm and 189.75801mm
 % ******************************************************
 
+% NOTE: Uncomment below and adapt if you need some pages with different margins.
+
+% \newcommand\normalpagelayout{%
+%   \makeatletter
+%   \settypeblocksize{157mm}{80mm}{*}
+%   \setmarginnotes{5mm}{20mm}{0pt}
+%   \setlrmargins{18mm}{*}{*}
+%   \setulmargins{20mm}{*}{*}
+%   \setheaderspaces{*}{8mm}{*}
+%   \setlength{\footskip}{27pt}
+%   \checkandfixthelayout
+%   \ch@ngetext
+%   \makeatother
+% }
+%
+% \newcommand\figurepagelayout{%
+%   \makeatletter
+%   \settypeblocksize{175mm}{115mm}{*}
+%   \setmarginnotes{0pt}{0pt}{0pt}
+%   \setlrmargins{10mm}{*}{*}
+%   \setulmargins{20mm}{*}{*}
+%   \setheaderspaces{*}{8mm}{*}
+%   \setlength{\footskip}{0pt}
+%   \checkandfixthelayout
+%   \ch@ngetext
+%   \makeatother
+% }
+
 % Math sizes for superscript sizes
 \DeclareMathSizes{12.5}{12.5}{7}{7}
 
@@ -1676,6 +1763,8 @@ philo-sophical munindo amaravati thai-land}
 % NOTE if you have a quote margin, the \footnotemargin can be set equal to that
 % in your local.sty
 \setlength{\footnotemargin}{2em}
+
+% NOTE: add \raggedright to \footnotelayout if you need to disable justified footnote paragraphs.
 
 \renewcommand{\footnotelayout}{\hangpara{\footnotemargin}{1}}
 
