@@ -41,7 +41,7 @@ of delusion." It means that the Arahat experiences all this
 destructions. He experiences the extinction of lust, hatred and
 delusion. Thus he experiences __Nibbāna__.
 
-In the Saṁyutta Nikāya IV, there are 33 descriptive words given for the
+In the _Saṁyutta Nikāya IV_, there are 33 descriptive words given for the
 Not-__Determined__ (__asaṅkhata__) or for the destruction of lust,
 hatred and delusion. As terms for the destruction of lust, hatred and
 delusion, they also become terms for Arahatship, and so for _Nibbāna_ as
@@ -160,7 +160,7 @@ progress. The Arahat has cut out all such impediments
 
 *(13) Santaṁ -- The Peace*
 
-In the _puthujjana_ there is no real peace, no real tranquility. So long
+In the _puthujjana_ there is no real peace, no real tranquillity. So long
 as thoughts of 'I' and 'mine' are present there *cannot* be utter peace.
 These being absent in the Arahat he is really and truly at peace.
 Arahatship is the highest peace it is possible to experience.
@@ -407,8 +407,8 @@ one must understand what is meant by the Four Primary Modes -- earth,
 water, fire and air -- 'getting no footing'.
 
 In the __Kevaḍḍha Sutta__footnote:[https://suttacentral.net/dn11/en/sujato[DN 11]] we have Kevaḍḍha
-asking the question: "Where do the Four Primary Modes - earth, water,
-fire and air - cease without remainder?"
+asking the question: "Where do the Four Primary Modes -- earth, water,
+fire and air -- cease without remainder?"
 
 The Buddha points out to Kevaḍḍha that it is not a proper question, and
 that the proper question should be: "Where do (the Modes) earth, water,
@@ -505,17 +505,17 @@ Primary Modes get a footing, and there is the presence of the concepts
 of long and short, etc. But these have nothing whatever to do with
 Grasping; and as a result the Arahat's Consciousness being neither
 devoted to them nor obstructed by them, they bear no significance
-whatever. When the Arahat's Consiousness ceases with the laying down of
+whatever. When the Arahat's Consciousness ceases with the laying down of
 life the Four Primary Modes get no footing whatsoever, and likewise the
 concepts of long and short, large and small, auspicious and
 inauspicious, and Name-and-Form cease without any remainder whatsoever.
 
 Therefore the answer to the question is: "The non-indicative
-Consciousness, the without end;footnote:[Anantaṁ (without end) should
+Consciousness, the without end;footnote:[__Anantaṁ__ (without end) should
 probably be taken to mean "without aim" or "without objective".] the all
-given upfootnote:[Pahaṁ, as a shortened form of pajahaṁ so as to
-maintain the metre in the verse, and meaning "given up entire1y", fits
-in here very much better than pabhaṁ.]- there it is where earth, water,
+given up{empty}footnote:[__Pahaṁ__, as a shortened form of _pajahaṁ_ so as to
+maintain the metre in the verse, and meaning "given up entirely", fits
+in here very much better than _pabhaṁ_.]- there it is where earth, water,
 fire and air get no footing. There it is where long and short, large and
 small, auspicious and inauspicious, and Name-and-Form cease without
 remainder; with the ceasing of Consciousness, these cease."
@@ -548,7 +548,7 @@ to do with the Five Groups, yet, that it is an eternal existence of some
 sort or other. Such a view can arise owing to the presence of that very
 subtle form of Grasping -- "__Nibbāna__ is mine, he conceives"
 (__nibbānaṁ meti maññati__) -- which the Buddha refers to in his
-Discourse on The Fundamentals 0f All Things.footnote:[https://suttacentral.net/mn1/en/bodhi[MN 1]]
+Discourse on The Fundamentals of All Things.footnote:[https://suttacentral.net/mn1/en/bodhi[MN 1]]
 
 FIXME sectionbreak
 

@@ -1,7 +1,7 @@
 [[ch-10-birth-decay-and-death]]
 = 10. Birth, Decay and Death
 
-Prince Siddharta left his palace for no other reason than to find the
+Prince Siddhartha left his palace for no other reason than to find the
 solution to the problem of birth, decay and death, to determine whether
 he could get beyond these phenomena. All these were nothing but
 Suffering. And as Gotama the Buddha he claimed he had won the not-born,
@@ -17,11 +17,11 @@ decay because of 'self' ... won the not-decaying, the uttermost security
 from the bonds -- Nibbāna. Being liable to disease because of 'self'
 ... won the not-diseasing, the uttermost security from the bonds --
 Nibbāna. Being liable to death because of 'self' ... won the
-not-dying, the uttermost security from the bonds - Nibbāna. Being
+not-dying, the uttermost security from the bonds -- Nibbāna. Being
 liable to sorrow because of 'self' ... won the not-sorrowing, the
-uttermost security from the bonds - Nibbāna. Being liable to stain
+uttermost security from the bonds -- Nibbāna. Being liable to stain
 because of 'self' ... won the stainless, the uttermost security from the
-bonds - Nibbāna. Knowledge and vision arose in me: 'Unshakeable is
+bonds -- Nibbāna. Knowledge and vision arose in me: 'Unshakeable is
 my Deliverance; this is the end of birth; there is no _bhava_ again now.'"
 
 -- https://suttacentral.net/mn26/en/bodhi[MN 26], The Noble Search
@@ -74,7 +74,7 @@ ____
 "'Being! being! (__satta__)' it is said. To what extent, Lord, is one
 called a being?"
 
-"That desire, Radha, that attachment, that de1ight, that _taṇhā_ which
+"That desire, Radha, that attachment, that delight, that _taṇhā_ which
 is concerned with Form ... Feeling ... Perception ... Determinations ...
 Consciousness -- entangled thereby, fast entangled thereby, *therefore* is
 one called a 'being'."
@@ -148,7 +148,7 @@ called the __Majjhima Nikāya__.]
 -- https://suttacentral.net/dhp1-20/en/anandajoti[Dhp 1]
 ____
 
-What drove Prince Siddharta out of his
+What drove Prince Siddhartha out of his
 palace at the age of twenty-nine was not the actual event of his birth
 or of a death, but the *thought* of his past birth and a death to come.
 
@@ -241,7 +241,7 @@ a very difficult Teaching to See.
 In the __Upasena Sutta__ we have the case of a serpent
 having fallen on the body of Arahat Upasena. Upasena then requests the
 monks to lift his body on to a couch and take it outside so that it may
-break upfootnote:[The body 'breaking up' refers to life ending.] there.
+break up{empty}footnote:[The body 'breaking up' refers to life ending.] there.
 Arahat Upasena was then told that no change for the worse in his
 faculties necessitating such action was evident. The reply the Arahat
 gave is very illuminating. He said:
@@ -426,7 +426,7 @@ palm-tree stump that can come to no further existence and is not liable
 to rise again in the future. Freed from reckoning as Consciousness is
 the Tathagata, great king. He is deep, immeasurable, unfathomable as is
 the great ocean. To say, 'The Tathagata exists after death', does not
-app1y. To say, 'The Tathagata does not exist after death', does not
+apply. To say, 'The Tathagata does not exist after death', does not
 apply. To say, 'The Tathagata does exist and does not exist after
 death', does not apply. To say, 'The Tathagata neither exists nor does
 not exist after death', does not apply".
