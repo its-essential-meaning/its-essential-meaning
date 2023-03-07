@@ -1,7 +1,7 @@
 \documentclass[
   final,
   babelLanguage=british,
-  %desktopVersion,
+  desktopVersion,
   %showtrims,
   %overleaf,
 ]{anecdote}
@@ -9,8 +9,7 @@
 %\graphicspath{{./assets/photos/300dpi/}}
 \graphicspath{{./assets/photos/92dpi-ebook-sRGB/}}
 
-% Page size: 6x9 inch
-% Body text: 10.5 / 15 pt
+% Page size: 5x8 inch (12.70 x 20.32 cm)
 
 \usepackage{local}
 
@@ -58,7 +57,7 @@
 \frontmatter
 
 \ifdesktopversion
-\desktopCover{\includegraphics[height=\paperheight]{./desktop-cover.png}}
+\desktopCover{\includegraphics[height=\paperheight]{./desktop-cover.jpg}}
 \fi
 
 \input{./manuscript/tex/titlepage.tex}

@@ -1638,8 +1638,8 @@ philo-sophical munindo amaravati thai-land}
 
 % === setup page layout ===
 
-\setlength{\BOOK@paperHeight}{9in}
-\setlength{\BOOK@paperWidth}{6in}
+\setlength{\BOOK@paperHeight}{8in}
+\setlength{\BOOK@paperWidth}{5in}
 
 \ifshowtrims
   \stockaiv% use A4 paper size to show trims
@@ -1658,11 +1658,11 @@ philo-sophical munindo amaravati thai-land}
 
 % Text block for 10.5 / 15pt:
 %%\settypeblocksize{521pt}{*}{0.599}% 1/1.667, 3:5, major 6th (183.79mm x 110mm)
-%\settypeblocksize{34\baselineskip + \topskip}{*}{0.599}% 1/1.667, 3:5, major 6th
-%\setlrmargins{*}{20mm}{*}% 22.71669mm and 19.99976mm
+\settypeblocksize{31\baselineskip + \topskip}{*}{0.599}% 1/1.667, 3:5, major 6th
+\setlrmargins{*}{20mm}{*}% 22.71669mm and 19.99976mm
 
-\settypeblocksize{190mm}{110mm}{*}
-\setlrmargins{*}{20mm}{*}
+% \settypeblocksize{190mm}{110mm}{*}
+% \setlrmargins{*}{20mm}{*}
 
 \setulmargins{42pt}{*}{*}% Based on Tall Pentagon, 1.701
 \setlength{\footskip}{30pt}
@@ -1683,45 +1683,6 @@ philo-sophical munindo amaravati thai-land}
 % It is useful to see layout values in mm too.
 \settypeoutlayoutunit{mm}
 \typeoutlayout
-
-% ******************************************************
-% Stock height and width: 650.43pt by 433.62pt
-% Top and edge trims: 0pt and 0pt
-% Page height and width: 650.43pt by 433.62pt
-% Text height and width: 551pt by 312pt
-% Spine and edge margins: 63.73419pt and 56.9055pt
-% Upper and lower margins: 42pt and 57.43pt
-% Headheight and headsep: 15.6pt and 19.8738pt
-% Footskip: 30pt
-% Columnsep and columnseprule: 10pt and 0pt
-% Marginparsep and marginparwidth: 7pt and 42.9055pt
-% Sidecapsep and sidecapwidth: 7pt and 111pt
-% Sidebarhsep and sidebarwidth: 7pt and 111pt
-% Sidebarvsep and sidebartopsep: 13.6pt and 0pt
-% Sidebarheight: 539.9202pt
-% Sidefoothsep and sidefootwidth: 7pt and 111pt
-% Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
-% ******************************************************
-% 
-% 
-% ******************************************************
-% Stock height and width: 228.59732mm by 152.39821mm
-% Top and edge trims: 0mm and 0mm
-% Page height and width: 228.59732mm by 152.39821mm
-% Text height and width: 193.65208mm by 109.65417mm
-% Spine and edge margins: 22.39973mm and 19.99976mm
-% Upper and lower margins: 14.76114mm and 20.1841mm
-% Headheight and headsep: 5.4827mm and 6.98476mm
-% Footskip: 10.54367mm
-% Columnsep and columnseprule: 3.51456mm and 0mm
-% Marginparsep and marginparwidth: 2.46019mm and 15.07938mm
-% Sidecapsep and sidecapwidth: 2.46019mm and 39.01158mm
-% Sidebarhsep and sidebarwidth: 2.46019mm and 39.01158mm
-% Sidebarvsep and sidebartopsep: 4.77979mm and 0mm
-% Sidebarheight: 189.75801mm
-% Sidefoothsep and sidefootwidth: 2.46019mm and 39.01158mm
-% Sidefootvsep and sidefootheight: 4.77979mm and 189.75801mm
-% ******************************************************
 
 % NOTE: Uncomment below and adapt if you need some pages with different margins.
 

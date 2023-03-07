@@ -13,7 +13,7 @@
 :identifier: isbn:{isbn}
 :imagesdir: assets/photos/92dpi-ebook-sRGB
 :includes: manuscript/asciidoc
-:front-cover-image: image:desktop-cover.png[Front Cover,800,1200]
+:front-cover-image: image:desktop-cover.jpg[Front Cover,750,1200]
 :toc: left
 :toc-title: Contents
 :toclevels: 0
