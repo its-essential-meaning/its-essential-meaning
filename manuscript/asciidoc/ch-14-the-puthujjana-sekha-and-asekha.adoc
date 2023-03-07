@@ -6,13 +6,13 @@ Teaching brings out, i.e. the __puthujjana__, the _sekha_ (Learner), and
 the _asekha_ (Learning-ender). The fundamental differences between them
 are as follows:
 
-1.  The _puthujjana_ regards things as 'mine'.
-2.  The _sekha_ (learner) knows and sees that the notion 'mine' is wrong
-but the notion 'mine' still arises in him. Therefore he regards things
-as 'not mine'.
+1.  The _puthujjana_ regards things as ‘mine’.
+2.  The _sekha_ (learner) knows and sees that the notion ‘mine’ is wrong
+but the notion ‘mine’ still arises in him. Therefore he regards things
+as ‘not mine’.
 3.  The _asekha_ (Learning-ender) not only knows and sees fully that the
-notion 'mine' is wrong, but also no thoughts of 'mine' whatsoever arise
-in him. Thus he neither regards things as 'mine' nor as 'not mine'. The
+notion ‘mine’ is wrong, but also no thoughts of ‘mine’ whatsoever arise
+in him. Thus he neither regards things as ‘mine’ nor as ‘not mine’. The
 _asekha_ is the Arahat.
 
 From these fundamental differences follow all other differences that lie
@@ -52,8 +52,8 @@ end.
 ____
 
 The _sekha_ has faith in the fact that deathlessness can be attained by
-developing the five controlling faculties. He 'stands knocking at the
-door of deathlessness' -- __amara dvāraṁ āhacca tiṭṭhati.__footnote:[https://suttacentral.net/sn12.49/en/bodhi[SN 12.49], The Noble Disciple (1)]
+developing the five controlling faculties. He ‘stands knocking at the
+door of deathlessness’ -- __amara dvāraṁ āhacca tiṭṭhati.__footnote:[https://suttacentral.net/sn12.49/en/bodhi[SN 12.49], The Noble Disciple (1)]
 But the _asekha_ having developed these faculties
 fully has achieved deathlessness and lives experiencing deathlessness.
 Arahat Sāriputta said that the latter was the case with him.
@@ -68,11 +68,11 @@ ____
 Though, friends, I discern in the Five Grasping Groups no self
 nor aught pertaining to self, yet I am not Arahat, nor one in whom the
 taints are destroyed. Though, friend, in the Five Grasping groups is
-found 'I am', yet I do not discern that I am this 'I am'.
+found ‘I am’, yet I do not discern that I am this ‘I am’.
 
 ... Friends, though an Ariyan disciple has put away the five lower fetters,
-yet there remains in his Five Grasping Groups the conceit 'I am', the
-desire 'I am', the tendency 'I am', still not removed from him.
+yet there remains in his Five Grasping Groups the conceit ‘I am’, the
+desire ‘I am’, the tendency ‘I am’, still not removed from him.
 
 -- https://suttacentral.net/sn22.89/en/bodhi[SN 22.89], Khemaka
 ____
@@ -167,7 +167,7 @@ path-attainer or a fruit-attainer progresses towards the goal.
 The Buddha teaches that there are ten fetters which bind beings to
 __bhava__, and the _sekhas_ who are fruit-attainers are generally
 described in terms of the various fetters they have broken. These
-fetters are (1) 'person'-view (__sakkāyadiṭṭhi__), (2) Doubt
+fetters are (1) ‘person’-view (__sakkāyadiṭṭhi__), (2) Doubt
 (__vicikicchā__), (3) Practice of rites and ritual
 (__sīlabbata-parāmāso__), (4) Desire for sense-pleasure
 (__kāmacchando__), (5) Ill-will (__vyāpāda__), (6) Attachment to Form
@@ -178,7 +178,7 @@ fetters are (1) 'person'-view (__sakkāyadiṭṭhi__), (2) Doubt
 higher fetters (__uddhambhāgiyāni saññojanāni__).footnote:[https://suttacentral.net/an10.13/en/bodhi[AN 10.13], Fetters]
 
 The first fruit-attainer is called _sotāpanno_ (Stream-entrant). He has
-destroyed the first three fetters of 'person'-view, doubt, and practice
+destroyed the first three fetters of ‘person’-view, doubt, and practice
 of rites and ritual. Entered the Stream (i.e. entered the __sota__)
 means got on to the Noble Eightfold Path, the Stream (__sota__) being
 defined as this path:
@@ -235,4 +235,4 @@ is foul smelling, even so do I not praise __bhava__, not even for so
 brief a time as is needed for a finger snap.
 
 -- https://suttacentral.net/an1.316-332/en/sujato[AN 1.328]
-----
+____

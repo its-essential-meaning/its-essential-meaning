@@ -8,18 +8,18 @@ Consciousness, and its ceasing?
 To this, the Buddha gives the answer: Name-and-Form (__nāma-rūpa__) is
 the basis, the genesis, the condition for Consciousness.
 
-'What being present is Consciousness present? Dependent on what does
-Consciousness exist?' The answer is: 'Name-and-Form being present, there
+‘What being present is Consciousness present? Dependent on what does
+Consciousness exist?’ The answer is: ‘Name-and-Form being present, there
 is Consciousness. Dependent on Name-and-Form, Consciousness
-exists.' (https://suttacentral.net/dn14/en/sujato[DN 14])
+exists.’ (https://suttacentral.net/dn14/en/sujato[DN 14])
 
 Thus the condition necessary for the arising of Consciousness is
 Name-and-Form.
 
-Again, 'What being present is Name-and-Form present? Dependent on what
-does Name-and-Form exist?' The answer is: 'Consciousness being present,
+Again, ‘What being present is Name-and-Form present? Dependent on what
+does Name-and-Form exist?’ The answer is: ‘Consciousness being present,
 there is Name-and-Form. Dependent on Consciousness, Name-and-Form
-exists.' (https://suttacentral.net/dn14/en/sujato[DN 14])
+exists.’ (https://suttacentral.net/dn14/en/sujato[DN 14])
 
 Thus the condition for Consciousness is Name-and-Form, and the condition
 for Name-and-Form is Consciousness.
@@ -36,22 +36,22 @@ All this needs explaining.
 To start with, there must be a clear understanding of what is referred
 to as Name-and-Form (__nāma-rūpa__). It is where there is no such
 understanding that one find this phenomenon called _nāma-rūpa_ referred
-to as 'mind-and-matter'. _Rūpa_ is certainly 'matter', but as we shall
-see _nāma_ is not 'mind'.
+to as ‘mind-and-matter’. _Rūpa_ is certainly ‘matter’, but as we shall
+see _nāma_ is not ‘mind’.
 
 Firstly, what is __rūpa__, which has been translated as Form?
 
-Form, as just stated, refers to 'matter'.
+Form, as just stated, refers to ‘matter’.
 
-Now, any Form or lump of 'matter' can be regarded as a particular
-*group of behaviours*. Since a particular lump of 'matter' or a
+Now, any Form or lump of ‘matter’ can be regarded as a particular
+*group of behaviours*. Since a particular lump of ‘matter’ or a
 particular group of behaviours is always *present* in the same fashion,
-I come to the *conclusion* that that 'matter' exists independent of my
-senses. Since I always note with regard to that 'matter' the same
-sights, sounds, smells, etc. I conclude that that 'matter' exists
-independent of myself. Further, since the same 'matter' exhibits almost
+I come to the *conclusion* that that ‘matter’ exists independent of my
+senses. Since I always note with regard to that ‘matter’ the same
+sights, sounds, smells, etc. I conclude that that ‘matter’ exists
+independent of myself. Further, since the same ‘matter’ exhibits almost
 the very same sights, sounds, smells, etc. to every individual, we
-conclude that there is a 'material world' existing quite independent of
+conclude that there is a ‘material world’ existing quite independent of
 us individuals.
 
 The various modes of behaviour are not dependent on Consciousness. But
@@ -59,16 +59,16 @@ to distinguish one mode of behaviour from another they have to be
 *cognized* or they must be made *present*. When so cognized these
 behaviours *appear* in a certain fashion, or, when they are made to be
 present they are then present in a certain fashion. That means, there is
-an *appearance* of these behaviours (the word 'appearance' being taken
+an *appearance* of these behaviours (the word ‘appearance’ being taken
 in a rather wide sense) -- an appearance which takes the form of sights,
 sounds, smells, etc. Further, this appearance behaves in a certain
 fashion. Thus there is both an *appearance of behaviour* and a
 *behaviour of appearance*. And the set of behaviours defining the
-particular lump of 'matter' or object is *inferred* from the behaviour
+particular lump of ‘matter’ or object is *inferred* from the behaviour
 of its *appearance*.footnote:[See <<ch-13-nibbana.adoc#the-four-primary,Chapter 13, Nibbāna>>:
-'But their [the Four Primary Modes] *appearance* is a matter for
-Consciousness, and their 'existence' is *inferred* through the
-behaviour of this **appearance**.']
+‘But their [the Four Primary Modes] *appearance* is a matter for
+Consciousness, and their ‘existence’ is *inferred* through the
+behaviour of this **appearance**.’]
 
 All modes of behaviour can be categorized under four main modes called
 the Four Primary Modes (__catunnaṁ mahābhūtānaṁ__). They are Earth-Mode,
@@ -121,22 +121,22 @@ just these are the Air-Mode …
 ____
 
 In the above definitions the Buddha refers to the Four Primary Modes as
-'grasped by oneself' (__paccattaṁ upādinnaṁ__). In other words, he is
+‘grasped by oneself’ (__paccattaṁ upādinnaṁ__). In other words, he is
 referring to the *Grasping* Group of Form (to __rūpa-upādāna-kkhandha__).
 
 Beyond the above there is only one important thing (according to
 the Suttas) the Buddha has thought about Form: that is, the question of
-the Four Primary Modes 'getting no footing' (__na gādhati__). We shall
+the Four Primary Modes ‘getting no footing’ (__na gādhati__). We shall
 come to this later on. One might therefore wonder why the Buddha has
-taught so little about Form or 'matter'. But the Buddha has a distinct
+taught so little about Form or ‘matter’. But the Buddha has a distinct
 purpose in his Teaching. And elucidations are made by him only in as far
 as such are necessary for that purpose. He seeks no intellectual
 approval of what he teaches. His Teaching is designed for a purpose. It
 is designed to lead one on (__opanayika__) towards a particular goal.
 
-The analysis of Form or 'matter' given above is sufficient. No further
+The analysis of Form or ‘matter’ given above is sufficient. No further
 analysis of it are essential, as they would not help me to solve the
-problem of the Five Grasping Groups, the problem of 'my world'. What is
+problem of the Five Grasping Groups, the problem of ‘my world’. What is
 essential is to realise that the analysis given by the Buddha is
 *sufficient*.
 
@@ -151,12 +151,12 @@ objects from one another. If the table does not remain the table and the
 book does not remain the book when I am continuing to be conscious of
 them I cannot then distinguish them from each other.
 
-There is a material object.footnote:['Material object' is not quite the
-same as 'matter'. The former is a particular 'lump of "matter"'.] This
+There is a material object.footnote:[‘Material object’ is not quite the
+same as ‘matter’. The former is a particular ‘lump of “matter“’.] This
 object is *not* dependent on Consciousness. But this object can be
 *present* or *not present*. Its presence is a matter of Consciousness.
 The object being present to the individual means that he is conscious of
-it. It has been 'discovered' by his Consciousness as it were. Though the
+it. It has been ‘discovered’ by his Consciousness as it were. Though the
 object does not depend on Consciousness there is no *presence* of the
 object if there is no Consciousness. Consciousness means this
 *presence*. *I am conscious* of an object means that that object is
@@ -166,30 +166,30 @@ Now, an object is always present in *some fashion*. It is present *as*
 shape, colour, smell, sound, etc. Its presence is therefore known by
 these. Or it is present in terms of these. Those things called shape,
 colour, sound, smell, etc., which are brought about when Consciousness
-'discovers' the object are called Name (__nāma__). It is as if the
+‘discovers’ the object are called Name (__nāma__). It is as if the
 particular Name is *how* the particular object is present
 (Consciousness). It is the *appearance* of the object (the word
-'appearance' being again taken in a rather wide sense). Therefore, we
-can define Name (__nāma__) as 'how Form (__rūpa__) is present
-(__viññāna__)'. The *how* or the *manner* is Name, and the presence is
+‘appearance’ being again taken in a rather wide sense). Therefore, we
+can define Name (__nāma__) as ‘how Form (__rūpa__) is present
+(__viññāna__)’. The *how* or the *manner* is Name, and the presence is
 Consciousness.
 
-This appearance or 'how it is present' is always given a designation
+This appearance or ‘how it is present’ is always given a designation
 (__adhivacana__). This designation therefore actually belongs to
 __nāma__. But we refer to the object by this designation.
 
-It must be noted that this 'how it is present' includes a number of
+It must be noted that this ‘how it is present’ includes a number of
 things. The shape, colour, smell, sound, etc., are the perceptions. Then
 there are certain feelings which are either pleasant, unpleasant or
 neutral. Further, there is Intention, Attention and Contact in relation
-to the object. All these go to make up Name (__nāma__). 'Feeling,
+to the object. All these go to make up Name (__nāma__). ‘Feeling,
 Perception, Intention, Contact, Attention -- this is called
-Name.' (https://suttacentral.net/sn12.2/en/bodhi[SN 12.2])
+Name.’ (https://suttacentral.net/sn12.2/en/bodhi[SN 12.2])
 
-It should be quite clear from the above that _nāma_ is not 'mind'.
-_Rūpa_ is 'matter', but _nāma_ is not 'mind'. 'Mind', as a sense-base,
+It should be quite clear from the above that _nāma_ is not ‘mind’.
+_Rūpa_ is ‘matter’, but _nāma_ is not ‘mind’. ‘Mind’, as a sense-base,
 is __mano__; as mentality, it is __citta__. Thus it is wrong to
-translate _nāma-rūpa_ as 'mind-and-matter'.
+translate _nāma-rūpa_ as ‘mind-and-matter’.
 
 It is not an uncommon thing to find Name (__nāma__) being taken to
 include Consciousness (__viññāna__). This is wrong. Name does *not*
@@ -197,13 +197,13 @@ include Consciousness. It only entails Consciousness.
 
 If we examine this further we shall find that:
 
-*(1.)* Since 'matter' has the characteristic of inertia or persistence, its
+*(1.)* Since ‘matter’ has the characteristic of inertia or persistence, its
 appearance is seen to persist or remain the same. That is since Form
 (__rūpa__) has the characteristic of persistence (__paṭigha__), we
 discern in Name (__nāma__) a persistence.
 
-*(2.)* Since appearance has some particular designation, its 'substance'
-(i.e. the 'matter' which gives this appearance) is seen to have a
+*(2.)* Since appearance has some particular designation, its ‘substance’
+(i.e. the ‘matter’ which gives this appearance) is seen to have a
 designation. That is, since Name (__nāma__) has designation --
 (__adhivacana__), we discern in Form (__rūpa__) a designation.
 
@@ -246,8 +246,8 @@ involved in the change from sitting to standing is the *exercise of
 choice*. All other positions are sacrificed and this one position is
 consciously held to. This action, or this exercise of choice, is called
 *Intentional Action*. From the intentional action there comes to be
-*present* the new position. 'Thus, Ānanda, intentional action is the
-field, Consciousness is the seed.'footnote:[https://suttacentral.net/an3.76/en/thanissaro[AN 3.76], Continued Existence]
+*present* the new position. ‘Thus, Ānanda, intentional action is the
+field, Consciousness is the seed.’footnote:[https://suttacentral.net/an3.76/en/thanissaro[AN 3.76], Continued Existence]
 Just as the seed springs up out of
 the field the new position becomes present (Consciousness) resulting
 from the intentional action (__kamma__).
@@ -288,8 +288,8 @@ particular sense-consciousness. But with regard to the _puthujjana_
 (commoner)footnote:[_Puthujjana_ refers to the common or ordinary person, to the commoner.]
 what arises is Grasping-Consciousness
 (__upādāna-viññāna__). Therefore, with the _puthujjana_, Contact is
-*inclusive* of thoughts of 'I' and 'mine'. That is, there is contact
-between a subject who says 'I' and 'mine' and the object.
+*inclusive* of thoughts of ‘I’ and ‘mine’. That is, there is contact
+between a subject who says ‘I’ and ‘mine’ and the object.
 
 Contact (__phasso__) is a particular form of coming together. It is a
 particular form of *union*. Perception, Feeling and Determinations
@@ -302,7 +302,7 @@ Primary Modes.
 
 [quote, role=quote]
 ____
-[[dependent]]Monk, it is to be seen that the Group of Form (or 'matter') is
+[[dependent]]Monk, it is to be seen that the Group of Form (or ‘matter’) is
 dependent on the Four Primary Modes, is conditioned by the Four Primary
 Modes. The Group of Feeling is dependent on, is conditioned by Contact.
 The Group of Perception is dependent on, is conditioned by Contact. The
@@ -317,43 +317,43 @@ should be understood thus:
 
 [quote, role=quote]
 ____
-"Ānanda, those modes, features, characteristics, exponents, by which
+“Ānanda, those modes, features, characteristics, exponents, by which
 Name-body is to be seen -- if all those modes, features, characteristics
 exponents, were absent would a coming together of designation be evident
-in the Form-body (__rūpakāye adhivacanasamphasso__)?"
+in the Form-body (__rūpakāye adhivacanasamphasso__)?”
 
-"It would not, Lord."
+“It would not, Lord.”
 
-"Ānanda, those modes, features, characteristics, exponents, by which
+“Ānanda, those modes, features, characteristics, exponents, by which
 Form-body is to be seen -- if all those modes, features, characteristics,
 exponents, were absent, would a coming together of inertia be evident in
-the Name-body (__nāmakāye paṭighasamphasso__)?"
+the Name-body (__nāmakāye paṭighasamphasso__)?”
 
-"It would not, Lord."
+“It would not, Lord.”
 
-"Ānanda, those modes, features, characteristics, exponents, by which
+“Ānanda, those modes, features, characteristics, exponents, by which
 Form-body and Name-body are to be seen -- if all those modes, features,
 characteristics, exponents, were absent, would a coming together of
-designation and a coming together of inertia be evident?"
+designation and a coming together of inertia be evident?”
 
-"They would not, Lord."
+“They would not, Lord.”
 
-"Ānanda, those modes, features, characteristics, exponents, by which
+“Ānanda, those modes, features, characteristics, exponents, by which
 Name-and-Form is to be seen -- if all those modes, features,
 characteristics, exponents, were absent, would there be Contact (that
-particular coming together)?"
+particular coming together)?”
 
-"There would not, Lord."
+“There would not, Lord.”
 
-"Ānanda, those modes, features, characteristics, exponents, by which
+“Ānanda, those modes, features, characteristics, exponents, by which
 Name-and-Form is to be seen -- if all those modes, features,
 characteristics, exponents, were absent, would there be Contact (that
-particular coming together)?"
+particular coming together)?”
 
-"There would not, Lord."
+“There would not, Lord.”
 
-"Wherefore, Ānanda, just that is the reason, the ground the arising, the
-condition for Contact, to wit, Name-and-Form."
+“Wherefore, Ānanda, just that is the reason, the ground the arising, the
+condition for Contact, to wit, Name-and-Form.”
 
 -- https://suttacentral.net/dn15/en/bodhi[DN 15], The Great Discourse on Causation
 ____
@@ -364,35 +364,35 @@ us analyse a particular experience to make it clear.
 There is a bottle of ink, or I am conscious of a bottle of ink. That is
 the experience.
 
-This means that a Form (__rūpa__) which appears as a 'bottle of ink'
+This means that a Form (__rūpa__) which appears as a ‘bottle of ink’
 (Name, __nāma__) is present (Consciousness, __viññāna__).
 
 Now, if Feeling, Perception, etc., were absent would there be present a
-'bottle of ink'?
+‘bottle of ink’?
 
 This question expanded would run thus: If the black colour, the shape,
 the smell, the neutral feeling, the intention to dip the pen in it,
-etc., were absent would a designation 'bottle of ink' pertain to that
-Form (to that lump of 'matter')?
+etc., were absent would a designation ‘bottle of ink’ pertain to that
+Form (to that lump of ‘matter’)?
 
-The shape, smell, etc., are the features of the Name-body, and 'bottle
-of ink' is the *designation*. Therefore, generalizing, the question
+The shape, smell, etc., are the features of the Name-body, and ‘bottle
+of ink’ is the *designation*. Therefore, generalizing, the question
 would run thus: If those features, modes, characteristics exponents, by
 which the Name-body is discerned were absent, would there be a coming
-together of a designation in the Form-body?footnote:['Designation in
-Form-body' (__rūpakāye adhivacana__) corresponds to 'appearance of
-behaviour'.]
+together of a designation in the Form-body?footnote:[‘Designation in
+Form-body’ (__rūpakāye adhivacana__) corresponds to ‘appearance of
+behaviour’.]
 
 The answer is: No.
 
 Again, if the characteristics (like inertia) of the Form (of that lump
-of 'matter') were absent, would the appearance designated 'bottle of
-ink' remain so, or be inert?
+of ‘matter’) were absent, would the appearance designated ‘bottle of
+ink’ remain so, or be inert?
 
 Generalizing, the question would run thus: If those features, etc., by
 which Form-body is discerned were absent would there be a coming
-together of inertia in the Name-body?footnote:['Inertia in Name-body'
-(__nāmakāye paṭigha__) corresponds to 'behaviour of appearance'.]
+together of inertia in the Name-body?footnote:[‘Inertia in Name-body’
+(__nāmakāye paṭigha__) corresponds to ‘behaviour of appearance’.]
 
 The answer is: No.
 
@@ -425,16 +425,16 @@ a total-either-way-simultaneity.
 
 There are things which, however, do not have a
 total-either-way-simultaneity as Name-and-Form and Consciousness have.
-For example perception and knowledge. 'Perception arises first,
+For example perception and knowledge. ‘Perception arises first,
 knowledge arises thereafter (in dependence on
-Perception)' (https://suttacentral.net/dn9/en/thanissaro[DN 9]) But the case with Name-and-Form
+Perception)’ (https://suttacentral.net/dn9/en/thanissaro[DN 9]) But the case with Name-and-Form
 and Consciousness is different. Since they depend on each other they
 arise together and cease together. One neither precedes nor follows the
 other in time. The relationship that Name-and-Form and Consciousness
-bear towards each other is therefore one that is 'not involving time' or
-'timeless' (__akālika__). As against this type of relationship, the
+bear towards each other is therefore one that is ‘not involving time’ or
+‘timeless’ (__akālika__). As against this type of relationship, the
 relationship between in-breathing and out-breathing is one that is
-'involving time' (__kālika__), since one follows or precedes the other
+‘involving time’ (__kālika__), since one follows or precedes the other
 in time. Incidentally, _akālika_ is to be given no other meaning than the
 one just given, and it is important to note that this is the actual
 meaning of this word. Various other meanings seem to be given to this

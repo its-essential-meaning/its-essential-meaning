@@ -34,21 +34,21 @@ __Cūlavedalla Sutta__  as follows:
 
 [quote, role=quote]
 ____
-"Friend, Visākha, in-breathing and out-breathing are the
+“Friend, Visākha, in-breathing and out-breathing are the
 bodily-__saṅkhāra__. Discursive thinking is the verbal-__saṅkhāra__
-Perception and Feeling are the mental-__saṅkhāra__."
+Perception and Feeling are the mental-__saṅkhāra__.”
 
-"Noble lady, for what reason are in-breathing and out- breathing the
+“Noble lady, for what reason are in-breathing and out- breathing the
 bodily-__saṅkhāra__? For what reason is discursive thinking the
 verbal-__saṅkhāra__? For what reason are Perception and Feeling the
-mental-__saṅkhāra__?"
+mental-__saṅkhāra__?”
 
-"Friend, Visākha, in-breathing and out-breathing are corporeal. These
+“Friend, Visākha, in-breathing and out-breathing are corporeal. These
 are *closely connected with* (__paṭibaddhā__) the body. Therefore they are
 bodily-__saṅkhāra__. Having earlier had discursive thinking, one
 subsequently utters words. Therefore discursive thinking is
 verbal-__saṅkhāra__. Perception and Feeling are mental. These are
-closely connected with the mind. Therefore they are mental-__saṅkhāra__."
+closely connected with the mind. Therefore they are mental-__saṅkhāra__.”
 
 -- https://suttacentral.net/mn44/en/sujato[MN 44], The Shorter Classification
 ____
@@ -148,9 +148,9 @@ thing depends upon this necessary condition, that thing can exist *only if*
 this necessary condition is present. The thing cannot be present
 without the necessary condition being present. If the necessary
 condition is absent, then the thing is also absent. It should not be
-understood as 'once the necessary condition has come and gone the thing
-arises'. Nor must it be understood as 'the necessary condition *becomes*
-the thing'. No. There is no *temporal* succession one after the other. If
+understood as ‘once the necessary condition has come and gone the thing
+arises’. Nor must it be understood as ‘the necessary condition *becomes*
+the thing’. No. There is no *temporal* succession one after the other. If
 the necessary condition is gone, then the thing is also gone. This is a
 *structural principle*.
 
