@@ -86,10 +86,10 @@ that it will never arise again, then one has become Arahat.]
 It is the mind that is freed from the taint of __bhava__, just as it is
 the mind that is freed from the taints of sense-pleasure and
 Ignorance. The Buddha said that his mind was freed from the taint of
-__bhava__: "Thus knowing, thus seeing, my mind was freed from the taint
+__bhava__: 'Thus knowing, thus seeing, my mind was freed from the taint
 of sense-pleasure, freed from the taint of __bhava__, freed from the
-taint of Ignorance." (https://suttacentral.net/mn36/en/bodhi[MN 36]) He described himself
-as "gone to the end of __bhava__" -- __bhavassa
+taint of Ignorance.' (https://suttacentral.net/mn36/en/bodhi[MN 36]) He described himself
+as 'gone to the end of __bhava__' -- __bhavassa
 pāragu__. (https://suttacentral.net/iti100/en/sujato[Iti 100]) He did not say he was *going* to the
 end of __bhava__. He said that he had already *gone* to the end of
 __bhava__; which means he lives free from __bhava__. In him _bhava_ has
@@ -110,9 +110,9 @@ tendency is completely uprooted, never to arise again. When all thoughts
 of 'I' and 'mine' are extinct and do not arise again, 'my existence' or
 'I exist' are also extinct and do not arise again.
 
-The Arahat "has gone beyond all __bhava__" -- __upaccagā
+The Arahat 'has gone beyond all __bhava__' -- __upaccagā
 sabbabhavāni__. (https://suttacentral.net/ud3.10/en/sujato[Uda 3.10]) The Arahat
-Maha Kassapa declared that he had "escaped from __bhava__" --
+Maha Kassapa declared that he had 'escaped from __bhava__' --
 __bhavābhinissato__. (https://suttacentral.net/thag18.1/en/sujato[Thag 1089]) _Bhava_ ceases with the
 attainment of Arahatship. Thereafter the Arahat lives freed from
 __bhava__, delivered from __bhava__. Before the ascetic Gotama attained
@@ -126,7 +126,7 @@ destroyed in the Arahat. He is __parikkhīnabhavasaññojano__. (https://suttace
 If _bhava_ means 'existence' pure and simple, then the living Arahat
 cannot have completely destroyed __bhava__, for as a living Arahat there
 is an 'existence'.footnote:[See <<ch-08-impermanence.adoc#living-experience,Chapter 8, Impermanence>>:
-"The Not-Determined therefore is the *living experience of the Arahat*."]
+'The Not-Determined therefore is the *living experience of the Arahat*.']
 The living Arahat has 'existence', but no __bhava__. He is __bhava__-ceased.
 _Bhava_ refers to the existence of *all* modes of life *other than* that
 of the Arahats, simply because all such modes of life, save the
@@ -168,11 +168,11 @@ existence.
 Since, perhaps, it appears insane to deny existence whilst being
 existent, this tendency to denial is pushed back (__atidhāvati__) to
 'after death', and in the following manner a denial of existence is
-made: "To the extent, revered Sir, that this self is of Form, is made up
+made: 'To the extent, revered Sir, that this self is of Form, is made up
 of the Four Primary Modes, is from the union of the parents, is cut off
 and destroyed on the dissolution of the body, and does not exist after
 death, to that extent is there a complete cutting off of the
-self." (https://suttacentral.net/dn1/en/bodhi[DN 1])
+self.' (https://suttacentral.net/dn1/en/bodhi[DN 1])
 
 This thinking, in the final analysis, only confirms 'self'-existence.
 Thus _vibhava_ -- denial of 'self'-existence -- only confirms __bhava__,
@@ -182,14 +182,14 @@ and on thoughts of 'I' and 'mine'.
 
 [quote, role=quote]
 ____
-"Those worthy recluses and brahmins
+Those worthy recluses and brahmins
 who lay down for beings the cutting off, the destruction, the denial of
 _bhava_ (of 'self'-existence), these, afraid of the 'person'
 (__sakkāya__), loathing the 'person', simply keep running and circling
 round the 'person'. Just as a dog that is tied by a leash to a strong
 post keeps running and circling round the post, so do these worthy
 recluses and brahmins, afraid of the 'person', loathing the 'person',
-simply keep running and circling round the 'person'."
+simply keep running and circling round the 'person'.
 
 -- https://suttacentral.net/mn102/en/sujato[MN 102], The Five and Three
 ____
@@ -206,8 +206,8 @@ four kinds of Grasping, wanting _bhava_ is the most fundamental of the
 three kinds of __taṇhā__.
 
 Thus the __puthujjana__'s intentional action is determined by __taṇhā__.
-"So, Ānanda, action is the field, Consciousness the seed, and _taṇhā_
-the moisture." (https://suttacentral.net/an3.76/en/thanissaro[AN 3.76])
+'So, Ānanda, action is the field, Consciousness the seed, and _taṇhā_
+the moisture.' (https://suttacentral.net/an3.76/en/thanissaro[AN 3.76])
 Just as moisture must be present for the seed to sprout up
 out of the field, so must _taṇhā_ be there for the __puthujjana__'s
 Consciousness to arise from his intentional action. _Taṇhā_ is one of
@@ -219,7 +219,7 @@ progress. Hence the reason for the Buddha laying so much stress on it.
 In the texts the words __taṇhā__, __chanda__, _rāga_ and _nandi_ often
 come together. There seems to be a tendency to consider the words
 __chanda__, _rāga_ and _nandi_ as being almost identical with __taṇhā__.
-They are not "various shades of __taṇhā__". They have their own meaning.
+They are not 'various shades of __taṇhā__'. They have their own meaning.
 
 _Chanda_ means desire, _rāga_ means attachment, and _nandi_ means
 delight. Desire, attachment and delight are things dependent on
@@ -228,24 +228,24 @@ __taṇhā__. Were there no kind of wanting sense-pleasures or
 
 [quote, role=quote]
 ____
-"Thus it is, Ānanda, that _taṇhā_ arises dependent on feeling, pursuit
+Thus it is, Ānanda, that _taṇhā_ arises dependent on feeling, pursuit
 dependent on __taṇhā__, gain dependent on pursuit decision dependent on
 gain, *desire* and *attachment* dependent on decision, tenacity
 dependent on desire and attachment, possession dependent on tenacity,
 avarice dependent on possession, watch and ward dependent on avarice,
 and many a bad and unskilled state of things such as blows and wounds,
 strife, contradiction and retort, quarrelling, slander and lies arise
-from keeping watch and ward."
+from keeping watch and ward.
 
 -- https://suttacentral.net/dn15/en/bodhi[DN 15], The Great Discourse on Causation
 ____
 
 Desire (__chanda__), attachment (__rāga__) and delight (__nandi__) have
-also been referred to as Grasping (__upādāna__). "Friend, Visākha, that
+also been referred to as Grasping (__upādāna__). 'Friend, Visākha, that
 desire and attachment there is in the Five Grasping Groups, that there,
-is the Grasping." (https://suttacentral.net/mn44/en/sujato[MN 44])
-And, "Whatsoever there
-is delight in Feeling, that is Grasping." (https://suttacentral.net/mn38/en/bodhi[MN 38])
+is the Grasping.' (https://suttacentral.net/mn44/en/sujato[MN 44])
+And, 'Whatsoever there
+is delight in Feeling, that is Grasping.' (https://suttacentral.net/mn38/en/bodhi[MN 38])
 This means to say that grasping something also means desiring of it, or
 being attached to it, or delighting in it. This is so because desiring,
 or being attached, or delighting, is *in effect* the same as regarding
@@ -255,16 +255,16 @@ that can desire something or be attached to it or delight in it.
 
 __Taṇhā__, desire, attachment, delight, are all supports for __bhava__.
 '*I* exist' or '*my* existence' stands supported by these. _Bhava_
-hangs on these as its "cord". They are called the "cord of __bhava__"
+hangs on these as its 'cord'. They are called the 'cord of __bhava__'
 (__bhavanetti__).
 
 [quote, role=quote]
 ____
-"Whatever desire, attachment, delight, __taṇhā__,
+Whatever desire, attachment, delight, __taṇhā__,
 whatever tendencies to determinations, attachments, and to the grasping
 of various means there are in the mind, Radha, towards Form … Feeling …
 Perception … Determinations … Consciousness, that is called the cord of
-__bhava__. The cessation of these is the cessation of the cord of __bhava__."
+__bhava__. The cessation of these is the cessation of the cord of __bhava__.
 
 -- https://suttacentral.net/sn23.3/en/sujato[SN 23.3], The Conduit To Rebirth
 ____
@@ -276,10 +276,10 @@ stood freed from __bhava__.
 
 [quote, role=quote]
 ____
-"Just, monks, as when the stalk of a bunch
+Just, monks, as when the stalk of a bunch
 of mangoes has been cut, all the mangoes that were hanging on that stalk
 go with it, just so, monks, the body of the Tathāgata stands with the
-cord that binds it to _bhava_ cut (__ucchinnabhavanettiko__)."
+cord that binds it to _bhava_ cut (__ucchinnabhavanettiko__).
 
 -- https://suttacentral.net/dn1/en/bodhi[DN 1], The All-embracing Net of Views
 ____

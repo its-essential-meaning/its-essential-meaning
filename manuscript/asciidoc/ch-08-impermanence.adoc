@@ -38,34 +38,34 @@ a *temporary persistence*.
 
 Temporary persistence is not rejected by not-permanent. A thing can be
 not-permanent but yet *exist without change for some time*. It lasts
-*for some time* though *not for ever*. Therefore, **"nothing endures
-absolutely for ever, and nothing is absolutely without duration."** In
-other words, it means that "between its appearance and disappearance a
-thing endures."
+*for some time* though *not for ever*. Therefore, **'nothing endures
+absolutely for ever, and nothing is absolutely without duration.'** In
+other words, it means that 'between its appearance and disappearance a
+thing endures.'
 
 Actually changes go on at various levels of generality. A table, for
 instance, remains a table even though its components are changing.
 Though a little part of it may have changed and even disappeared, yet
 the table remains a table. And it will remain a table until changes have
-developed to the point at which the table is no more. "A thing
+developed to the point at which the table is no more. 'A thing
 *remains the same* means it has become the *invariant of a
-transformation*."
+transformation*.'
 
 Now, the Buddha teaches:
 
 [quote, role=quote]
 ____
-"Monks, there are these three
+Monks, there are these three
 Determined-characteristics of the Determined (__saṅkhata__). What
 three? Arising is to be discerned, passing away is to be discerned,
 otherwise-ness in persistence is to be discerned. These are the three
-Determined-characteristics of the __Determined__."
+Determined-characteristics of the __Determined__.
 
-"Monks, there are these three Not-Determined-characteristics
+Monks, there are these three Not-Determined-characteristics
 of the Not-Determined (__asaṅkhata__). What three? Arising is not to
 be discerned, passing away is not to be discerned, otherwise-ness in
 persistence is not to be discerned. These are the three
-Not-Determined-characteristics of the Not-Determined."
+Not-Determined-characteristics of the Not-Determined.
 
 -- https://suttacentral.net/an3.47/en/bodhi[AN 3.47], Conditioned
 ____
@@ -78,13 +78,13 @@ the domain of his Teaching. But it is very dangerous. We must know
 always precisely what he is referring to, and avoid stretching the
 limits in our own imagination. He specifically said that he teaches only
 one thing always, i.e. Suffering and the cessation of Suffering.
-"Formerly, and now also, Anurādha, it is just Suffering and the
-cessation of Suffering that I proclaim." (https://suttacentral.net/sn44.2/en/sujato[SN 44.2])
+'Formerly, and now also, Anurādha, it is just Suffering and the
+cessation of Suffering that I proclaim.' (https://suttacentral.net/sn44.2/en/sujato[SN 44.2])
 He also said that his Teaching has the
-taste of Deliverance right through. "Just as the great ocean, Paharada,
+taste of Deliverance right through. 'Just as the great ocean, Paharada,
 has but one taste, the taste of salt, even so, Paharada, this Dhamma and
 Discipline has but one taste, the taste of
-Deliverance." (https://suttacentral.net/an8.19/en/bodhi[AN 8.19]) The words Determined and Not-Determined are also
+Deliverance.' (https://suttacentral.net/an8.19/en/bodhi[AN 8.19]) The words Determined and Not-Determined are also
 used by him in relation to that *one* thing he teaches -- Suffering and
 the cessation of Suffering.
 
@@ -100,7 +100,7 @@ other than about this problem either.
 
 Let us now see how the three characteristics of the Determined as
 taught by the Buddha apply to the Determined, particularly the
-characteristic which he refers to as "otherwise-ness in persistence"
+characteristic which he refers to as 'otherwise-ness in persistence'
 (__ṭhitassa aññathattaṁ__).
 
 _Ṭhitassa aññathattaṁ_ means otherwise-ness (__aññathattaṁ__) in
@@ -131,7 +131,7 @@ is taken as this 'self' is becoming otherwise, is under-going
 transformation or change all the time.
 
 The persisting 'self' is equated to the Grasping Groups which are
-becoming otherwise. Thus we get an "otherwise-ness in persistence", a
+becoming otherwise. Thus we get an 'otherwise-ness in persistence', a
 characteristic which is discernible from the time of appearance up to
 the time of disappearance. And for the Five Grasping Groups appearance
 is synonymous with birth whilst disappearance is synonymous with death.
@@ -152,8 +152,8 @@ The Not-Determined is defined as follows:
 
 [quote, role=quote]
 ____
-"The destruction of lust, the destruction of hatred, the destruction of
-delusion -- this, monks, is called the Not-Determined (__asaṅkhata__)."
+The destruction of lust, the destruction of hatred, the destruction of
+delusion -- this, monks, is called the Not-Determined (__asaṅkhata__).
 
 -- https://suttacentral.net/sn43.12/en/bodhi[SN 43.12], The Unconditioned
 ____
@@ -166,8 +166,8 @@ hatred and of delusion:
 
 [quote, role=quote]
 ____
-"The destruction of lust, the destruction of hatred, the destruction of
-delusion -- this, friend, is called Arahatship."
+The destruction of lust, the destruction of hatred, the destruction of
+delusion -- this, friend, is called Arahatship.
 
 -- https://suttacentral.net/sn38.2/en/sujato[SN 38.2], A Question About Perfection
 ____
@@ -181,10 +181,10 @@ Now, actually and in truth, there is no 'Arahat' to be found.
 
 [quote, role=quote]
 ____
-"Anurādha, the __Tathāgata__,footnote:[Tathāgata refers to the Buddha.] actually
-and in truth, is here not to be found."
+Anurādha, the __Tathāgata__,footnote:[Tathāgata refers to the Buddha.] actually
+and in truth, is here not to be found.
 
-"__Anurādha, diṭṭheva dhamme saccato thetato Tathāgate anupalabbhyamāne.__"
+__Anurādha, diṭṭheva dhamme saccato thetato Tathāgate anupalabbhyamāne.__
 
 -- https://suttacentral.net/sn44.2/en/sujato[SN 44.2], Anurādha Sutta
 ____
@@ -198,14 +198,18 @@ distinguish an Arahat from another Arahat as two different individuals.
 But with regard to the Arahat there is no 'person' or 'somebody' or
 'self' who says 'I' and 'mine'.
 
-"The Arahat intentionally acts, but the
+____
+The Arahat intentionally acts, but the
 acting is quite unaccompanied by any thought of a subject who is acting.
 For all non-Arahats such thoughts (in varying degrees, of course) do
 arise. The Arahat remains an individual (i.e., distinct from other
 individuals), but is no longer a *person* (i.e. a somebody, a 'self', a
 subject). This is not, as one might perhaps be tempted to think, a
 distinction without a difference. It is a genuine distinction, a very
-difficult distinction, but a distinction that *must* be made."footnote:[Ñāṇavīra Thera, in a letter to the author]
+difficult distinction, but a distinction that *must* be made.
+
+-- Ñāṇavīra Thera, in a letter to the author
+____
 
 It is *the* distinction that has to be seen.footnote:[The ordinary man cannot
 distinguish between individuality and 'person'-ality. T0 him, there is
@@ -295,20 +299,20 @@ spot it he fails. The deer thinks there is water when the sun shines on
 the sand and produces the *mirage* of water. But when the deer runs
 after the 'water' the water eludes him.
 
-If the deer is told, "There is
-water", it will reply, "But I cannot find water however much I run after
-it." If on the other hand the deer is told. "There is no water", it will
-reply, "But I see water however much you say no." The _puthujjana_ is in
-the same dilemma with regard to his 'self'. If he is told, "There is no
-self for you", he will say, "But I see a self". On the other hand if he
-is told, "There is a self for you", he will say, "But I cannot find
-precisely where or what it is". And that would have been just the
+If the deer is told, 'There is
+water', it will reply, 'But I cannot find water however much I run after
+it.' If on the other hand the deer is told. 'There is no water', it will
+reply, 'But I see water however much you say no.' The _puthujjana_ is in
+the same dilemma with regard to his 'self'. If he is told, 'There is no
+self for you', he will say, 'But I see a self'. On the other hand if he
+is told, 'There is a self for you', he will say, 'But I cannot find
+precisely where or what it is'. And that would have been just the
 position Vacchagotta would have fallen into had the Buddha given him
 direct answers to his questions either in the affirmative or in the
 negative. To the _puthujjana_ a 'self' always **appears**, but never
 does he find it when he tries to.
 
-What the Buddha said was: "All things are Not-self" (__sabbe dhammā
+What the Buddha said was: 'All things are Not-self' (__sabbe dhammā
 anattā__, https://suttacentral.net/mn35/en/sujato[MN 35]). It simply means that no thing
 is self, or that if you look for a self you will not find one. 'Self' is
 a deception, like a mirage. It does not mean that the mirage, as such,

@@ -21,10 +21,10 @@ mental-__saṅkhāra__ thus:
 
 [quote, role=quote]
 ____
-"What, monks, are the __saṅkhāra__? They are
+What, monks, are the __saṅkhāra__? They are
 the three __saṅkhāra__, namely, bodily-__saṅkhāra__, verbal-__saṅkhāra__
 and mental-__saṅkhāra__. These, monks, are called the
-__saṅkhāra__."
+__saṅkhāra__.
 
 -- https://suttacentral.net/sn12.2/en/bodhi[SN 12.2], Analysis of Dependent Origination
 ____
@@ -59,11 +59,11 @@ context thus:
 
 [quote, role=quote]
 ____
-"Here, Punna, someone determines a
+Here, Punna, someone determines a
 bodily-__saṅkhāra__ that is harmful, determines a verbal-__saṅkhāra__
 that is harmfu1, determines a mental-__saṅkhāra__ that is harmful. He
 having determined a bodily-__saṅkhāra__ … a verbal-__saṅkhāra__ … a
-mental-__saṅkhāra__ that is harmful, upbrings a world that is harmful."
+mental-__saṅkhāra__ that is harmful, upbrings a world that is harmful.
 
 -- https://suttacentral.net/mn57/en/bodhi[MN 57], The Dog-Duty Ascetic
 ____
@@ -75,7 +75,7 @@ imperturbable-__saṅkhāra__, thus:
 
 [quote, role=quote]
 ____
-"Were, monks, an ignorant individual
+Were, monks, an ignorant individual
 to determine a meritorious-__saṅkhāra__ his consciousness would go
 towards merit. Were he to determine a demeritorious-__saṅkhāra__ his
 consciousness would go towards demerit. Were he to determine an
@@ -85,7 +85,7 @@ to Knowledge, monks, through such non-attachment to Ignorance and the
 arising of Knowledge does not determine meritorious-__saṅkhāra__, does
 not determine demeritorious-__saṅkhāra__, does not determine
 imperturbable-__saṅkhāra__. Not determining, not intending, he grasps at
-nothing in the world."
+nothing in the world.
 
 -- https://suttacentral.net/sn12.51/en/sujato[SN 12.51], Thorough Investigation
 ____
@@ -94,7 +94,7 @@ Fifthly, the __Khajjaniya Sutta__ identifies _saṅkhāra_ as the fourth Group t
 
 [quote, role=quote]
 ____
-"Why, monks, do ye say __sahkhāra__? They determine (__abhisaṅkaronti__)
+Why, monks, do ye say __sahkhāra__? They determine (__abhisaṅkaronti__)
 the determined. That is why they are called __saṅkhāra__. What is the
 determined that they determine? Determined Form do they determine in
 accordance with the nature of Form. Determined Feeling do they determine
@@ -103,7 +103,7 @@ determine in accordance with the nature of Perception. Determined
 Determinations do they determine in accordance with the nature of
 Determinations. Determined Consciousness do they determine in accordance
 with the nature of Consciousness. They determine the determined. That is
-why they are called __saṅkhāra__."
+why they are called __saṅkhāra__.
 
 -- https://suttacentral.net/sn22.79/en/bodhi[SN 22.79], Being Devoured
 ____

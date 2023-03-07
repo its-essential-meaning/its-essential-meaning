@@ -6,8 +6,8 @@ again.
 
 [quote, role=quote]
 ____
-"Intention, monks, I declare is __kamma__. Having intended, one does
-_kamma_ through body, speech, and mind."
+Intention, monks, I declare is __kamma__. Having intended, one does
+_kamma_ through body, speech, and mind.
 
 -- https://suttacentral.net/an6.63/en/thanissaro[AN 6.63], A Penetrative Discourse
 ____
@@ -26,8 +26,8 @@ Intentional action *unaccompanied* by thoughts of 'I' or 'mine' is *not
 kamma*. The Arahat has no thoughts of 'I' and 'mine'. Therefore the
 Arahat's intentional action is not __kamma__. The Arahat has intentional
 action, but no __kamma__. *Kamma is the non-Arahat's intentional
-action.* Of the Arahat the Buddha says: "He does not commit new
-__kamma__."footnote:[Of all the many things about _kamma_ the Buddha has
+action.* Of the Arahat the Buddha says: 'He does not commit new
+__kamma__.'footnote:[Of all the many things about _kamma_ the Buddha has
 taught, such as the various types of _kamma_ and their various fruits
 (__vipāka__), this is the most important. It is also the most
 fundamental thing about it.]
@@ -56,7 +56,7 @@ The Buddha teaches the arising and ceasing of _kamma_ thus:
 
 [quote, role=quote]
 ____
-"Monks, were there _kamma_ performed in lust, born of lust, conditioned
+Monks, were there _kamma_ performed in lust, born of lust, conditioned
 by lust, arising from lust -- that _kamma_ is unskilful (__akusala__),
 that _kamma_ is blameworthy, that _kamma_ has pain as fruit, that
 _kamma_ leads to the arising of (further) __kamma__. That _kamma_ does
@@ -67,7 +67,7 @@ _kamma_ leads to the arising of __kamma__. That _kamma_ does not lead to
 the ceasing of __kamma__. These, monks, are the three conditions for the
 arising of __kamma__.
 
-"Monks, were there _kamma_ performed with non-lust, conditioned by
+Monks, were there _kamma_ performed with non-lust, conditioned by
 non-lust, arising from non-lust -- that _kamma_ is skilful (__kusala__),
 that _kamma_ is praiseworthy, that _kamma_ has happiness as fruit, that
 _kamma_ leads to the ceasing of __kamma__. That _kamma_ does not lead to
@@ -76,7 +76,7 @@ non-hatred … performed with non-delusion … that _kamma_ is skilful, that
 _kamma_ is praiseworthy, that _kamma_ has happiness as fruit, that
 _kamma_ leads to the ceasing of __kamma__. That _kamma_ does not lead to
 the arising of __kamma__. These, monks, are the three conditions for the
-ceasing of __kamma__."
+ceasing of __kamma__.
 
 -- https://suttacentral.net/an3.111/en/sujato[AN 3.111], Sources (1st)
 ____
@@ -96,12 +96,12 @@ delusion leads to further _kamma_ whilst _kamma_ rooted in non-lust,
 non-hatred and non-delusion leads to the cessation of __kamma__, thus:
 
 ____
-"Monks, there are these three conditions for the arising of __kamma__.
+Monks, there are these three conditions for the arising of __kamma__.
 What three? Monks, for things which in the past were based on desire and
 attachment … in the future will be based on desire and attachment … in
 the present are based on desire and attachment, desire is born.
 
-"How, monks, is desire born for things which in the past were based on
+How, monks, is desire born for things which in the past were based on
 desire and attachment … in the future will be based on desire and
 attachment … in the present are based on desire and attachment? Monks,
 things which in the past … in the future … in the present are based on
@@ -110,14 +110,14 @@ his mind things which in the present are based on desire, desire is
 born. Desire being born, he is fettered by those things. I call it a
 fetter, monks -- that mind full of attachment. Thus, monks, is desire
 born for things which in the present are based on desire and attachment.
-These are the three conditions, monks, for the arising of __kamma__."
+These are the three conditions, monks, for the arising of __kamma__.
 ____
 
 On the other hand:
 
 [quote, role=quote]
 ____
-"How, monks, is desire not born for things which in
+How, monks, is desire not born for things which in
 the past were based on desire and attachment … in the future will be
 based on desire and attachment … in the present are based on desire and
 attachment? Monks, one understands the future result of things which in
@@ -125,7 +125,7 @@ the present are based on desire. Seeing this result one turns away from
 them. Turning away from them, the mind getting detached from them, one
 penetrates them with wisdom and sees them plain. Thus, monks, is desire
 not born for those things which in the present are based on
-desire."
+desire.
 
 -- https://suttacentral.net/an3.112/en/sujato[AN 3.112], Sources (2nd)
 ____

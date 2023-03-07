@@ -11,8 +11,8 @@ _upādāna_ must necessarily have a great deal to do with the most
 fundamental of __upādāna__, viz., __attavādupādāna__. The Buddha's
 Teaching sets out to destroy Suffering, and this, as we shall see later
 on, is to destroy and uproot beliefs in 'self' and thoughts of 'I' and
-'mine', which again is to uproot __upādāna__. "Uproot false view of
-seIf."footnote:[https://suttacentral.net/snp5.15/en/sujato[Snp 5.15], The Question of Posāla]
+'mine', which again is to uproot __upādāna__. 'Uproot false view of
+seIf.'footnote:[https://suttacentral.net/snp5.15/en/sujato[Snp 5.15], The Question of Posāla]
 With the uprooting and destruction of these false views other things follow.
 
 The notion of 'self-hood' is fundamentally a notion of
@@ -40,25 +40,25 @@ hood' at all. 'Self-hood' is therefore a *deception*.
 
 I really do not wield power or possess mastery over the Five Grasping
 Groups which I regard as *my own*. I cannot say to my Consciousness:
-"Let my Consciousness be thus, let my Consciousness be not thus." I
-cannot say to my body which is suffering from an ulcer, "Let my body be
-relieved of the ulcer" and so have my body relieved of the ulcer. I
+'Let my Consciousness be thus, let my Consciousness be not thus.' I
+cannot say to my body which is suffering from an ulcer, 'Let my body be
+relieved of the ulcer' and so have my body relieved of the ulcer. I
 certainly wish that from this body which I regard as my own the ulcer
 would vanish. In fact I think that it should never have come at all. But
 however much I wish the ulcer to vanish it does not. Nor can I wield any
 such power over the other Groups which I regard as 'mine'. I cannot say
-to the feelings which I regard as 'mine', "Let my feelings be thus, let
-my feelings be not thus", and so have my feelings as I want them to be.
+to the feelings which I regard as 'mine', 'Let my feelings be thus, let
+my feelings be not thus', and so have my feelings as I want them to be.
 Thus this 'self-hood' which is adhered to is a deception, ever and again
 leading to betrayal, to disappointment. Betrayal and disappointment are
 the inevitable outcome of adhering to a deception.
 
 Now, the _puthujjana_ has __attavādupādāna__. That is to say, the
 _puthujjana_ holds (__upādāna__) to belief (__vāda__) in 'self'
-(__attā__).footnote:["Holding to belief in 'self'" essentially means
+(__attā__).footnote:['Holding to belief in "self"' essentially means
 holding to belief in a master.] Because he holds to this belief in
 'self' he keeps looking for something which he can *identify* as this
-his 'self'.footnote:[To "identify something as his 'self'" essentially
+his 'self'.footnote:[To 'identify something as his "self"' essentially
 means to identify something as that thing over which he is master.] If
 he is to keep believing there is a 'self' then he *must* at the same
 time regard something or other as this 'self'. And if there is anything
@@ -158,8 +158,8 @@ __satta__. _Satta_ or _sakkāya_ refers to the sentient being regarded in
 some way or other as 'self'. That is, it refers to the Five Grasping
 Groups taken to be 'self'. It is the __puthujjana__'s concept of the
 sentient being. It is his concept of himself. That is why the Five
-Grasping Groups are called __sakkāya__.footnote:["What, monks, is the
-__sakkāya__? The Five Grasping Groups are to be so called." (https://suttacentral.net/sn22.105/en/sujato[SN 22.105])]
+Grasping Groups are called __sakkāya__.footnote:['What, monks, is the
+__sakkāya__? The Five Grasping Groups are to be so called.' (https://suttacentral.net/sn22.105/en/sujato[SN 22.105])]
 To have this concept means to be gone to 'person'-view.
 
 Again, the Five Grasping Groups looks upon itself as 'self' so long as
@@ -172,21 +172,21 @@ they are still __sakkāya__. But they know that regarding anything as 'I
 am' or as 'mine' or as 'self' is wrong. Therefore they do not hold to
 any belief in 'self'. Thus they have no __attavādupādāna__, and to that
 extent have no _sakkāyadiṭṭhi_ also. See also <<ch-16-satipatthana.adoc#truth-for-him,Chapter 16, Four Applications of Mindfulness>>:
-"The _Satipatthānā Sutta_ assumes a prior understanding of the Buddha's Teaching. [...]
+'The _Satipatthānā Sutta_ assumes a prior understanding of the Buddha's Teaching. [...]
 though these fundamentals and their resultant implications are very difficult to **see**,
-they edify him who sees them. They are truth **for him**."]
+they edify him who sees them. They are truth **for him**.']
 It should be noted that _sakkāyadiṭṭhi_ is not a question of
 just passively viewing oneself as a _sakkāya_ in a rather detached
 manner. It is much more dynamic and intense a matter, deeply rooted.
 Hence the difficulty in getting rid of it.
 
-_Sakkāyadiṭṭhi_ should not be identified purely and simply with "the
-view that *in* the Five Grasping Groups there is a self" or with "the
-belief in a self or soul". Regarding one or more of the Five Grasping
+_Sakkāyadiṭṭhi_ should not be identified purely and simply with 'the
+view that *in* the Five Grasping Groups there is a self' or with 'the
+belief in a self or soul'. Regarding one or more of the Five Grasping
 Groups as 'self' in some way or other is different to purely and simply
 regarding the Five Grasping Groups as having a 'self' *in* them somewhere
 or other. The person who mistakes _sakkāyadiṭṭhi_ to mean purely and
-simply "the view that in the Five Grasping Groups there is a self" can
+simply 'the view that in the Five Grasping Groups there is a self' can
 very effectively impede his own progress and even think he is an _ariya_
 (Noble One) whilst he is not.
 
@@ -236,9 +236,9 @@ Further, in the __Ānanda Sutta__ we have the following:
 
 [quote, role=quote]
 ____
-"By grasping Form is there 'I am', not by not-grasping (__rūpam upādāya
+By grasping Form is there 'I am', not by not-grasping (__rūpam upādāya
 asmīti hoti no anupādāya__). By grasping Feeling … Perception …
-Determinations … Consciousness is there 'I am', not by not-grasping."
+Determinations … Consciousness is there 'I am', not by not-grasping.
 
 -- https://suttacentral.net/sn22.83/en/bodhi[SN 22.83], Ānanda
 ____
@@ -259,7 +259,7 @@ consideration 'mine' that leads the _puthujjana_ on.
 
 The __puthujjana__, however, works with the assumption that the
 fundamental is 'I' and not 'mine'. Since *he* exists, he thinks things
-are *his*. "*Since 'I'* exist, things are *mine*." But the
+are *his*. '*Since 'I'* exist, things are *mine*.' But the
 fundamental condition, the Buddha points out, is 'mine'. The
 _puthujjana_ having Grasping Consciousness, things *present* themselves
 to him as *'mine'*. And this state of affairs further *points* to a

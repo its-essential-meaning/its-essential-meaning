@@ -9,7 +9,7 @@ the not-decaying and the not-dying.
 
 [quote, role=quote]
 ____
-"So I, monks, being liable to birth because of 'self' (__attanā__),
+So I, monks, being liable to birth because of 'self' (__attanā__),
 having known the peril in what is liable to birth, seeking the non-born,
 the uttermost security from the bonds -- Nibbāna -- won the not-born,
 the uttermost security from the bonds -- Nibbāna. Being liable to
@@ -22,7 +22,7 @@ liable to sorrow because of 'self' ... won the not-sorrowing, the
 uttermost security from the bonds -- Nibbāna. Being liable to stain
 because of 'self' ... won the stainless, the uttermost security from the
 bonds -- Nibbāna. Knowledge and vision arose in me: 'Unshakeable is
-my Deliverance; this is the end of birth; there is no _bhava_ again now.'"
+my Deliverance; this is the end of birth; there is no _bhava_ again now.'
 
 -- https://suttacentral.net/mn26/en/bodhi[MN 26], The Noble Search
 ____
@@ -44,23 +44,23 @@ as follows:
 
 [quote, role=quote]
 ____
-"And what monks, is birth?"
+And what monks, is birth?
 
-"That which, of this and that *being* in this and that group of
+That which, of this and that *being* in this and that group of
 **beings**, is birth, production, descent, arising coming forth, the
 appearance of the Groups, acquiring of the sense-bases -- this is called
-birth."
+birth.
 
-"And what, monks is decay and death?"
+And what, monks is decay and death?
 
-"That which, of this and that being in this and that group of beings, is
+That which, of this and that being in this and that group of beings, is
 decay, decrepitude, breaking up, hoariness, wrinkling of the skin,
 shrinkage of life-span, over-ripeness of faculties -- this is called
 decay. That which, of this and that being in this and that group of
 beings, is falling, separation, breaking up, disappearance, mortality,
 death, completion of time, breaking up of the Groups, laying down of the
 body, cutting off of the living senses -- this is called death. Thus it
-is, this decay and this dying that is called decay and death."
+is, this decay and this dying that is called decay and death.
 
 -- https://suttacentral.net/sn12.2/en/bodhi[SN 12.2], Analysis of Dependent Origination
 ____
@@ -136,7 +136,7 @@ that exists for him.
 
 [quote, role=quote]
 ____
-"Things have mind as forerunner, mind as chief, are mind made."
+Things have mind as forerunner, mind as chief, are mind made.
 
 __manopubbaṅgamā dhammā manoseṭṭhā manomayā__.footnote:[This verse in the _Dhammapada_
 embraces in its orbit a far wider range than it is generally reckoned
@@ -155,18 +155,18 @@ or of a death, but the *thought* of his past birth and a death to come.
 __Jāti__, it must be noted, is *not* rebirth. In the Pali, rebirth is
 __punabbavābhinibbatti__, which means, **the coming to be of a renewed
 bhava.**footnote:[For example: _katam panāvuso āyatim
-punabbhavābhinibbatti_ -- "How, friend, is there the coming to be of a
-renewed __bhava__? (https://suttacentral.net/mn43/en/sujato[MN 43]). In the following Sutta
+punabbhavābhinibbatti_ -- 'How, friend, is there the coming to be of a
+renewed __bhava__?' (https://suttacentral.net/mn43/en/sujato[MN 43]). In the following Sutta
 passage both _jāti_ and _punabbhavābhinibbatti_ appear: _āyatim
 punabhhavābhinibbattiyā sati āyatiṁ jāti jarāmaranaṁ sokaparideve dukkha
-domanassupāyāsā sambhavanti_ -- "There being in the future a coming to
+domanassupāyāsā sambhavanti_ -- 'There being in the future a coming to
 be of a renewed __bhava__, there is in the future birth, decay, death,
-sorrow, grief, suffering, lamentation and woe produced" (https://suttacentral.net/sn12.38/en/bodhi[SN 12.38]).]
+sorrow, grief, suffering, lamentation and woe produced.' (https://suttacentral.net/sn12.38/en/bodhi[SN 12.38])]
 
 Another form of _bhava_ springs up. This new springing up in the future is
 re-birth. And if one is free from birth (as the Arahat is), then one is
-also free from any possibility of rebirth. "He having realised the
-destruction of birth does not come to rebirth." (https://suttacentral.net/iti104/en/sujato[Iti 104])
+also free from any possibility of rebirth. 'He having realised the
+destruction of birth does not come to rebirth.' (https://suttacentral.net/iti104/en/sujato[Iti 104])
 
 As the body with all its sense organs changes from youth to old age, it
 is to the _puthujjana_ that this change is **decay**. 'Decay' is the
@@ -192,7 +192,7 @@ Determinations and Consciousness. It is very important that this is seen.]
 
 [quote, ]
 ____
-* "'I am' -- monk, this is a supposition (__maññitaṁ__).
+* 'I am' -- monk, this is a supposition (__maññitaṁ__).
 * 'This am I' -- this is a supposition.
 * 'I will exist' -- this is a supposition.
 * 'I will not exist' -- this is a supposition.
@@ -209,7 +209,7 @@ at peace is not born, does not decay, is not agitated, does not envy.
 **As there stands nothing of which can be said 'was born'**, not being
 so born, how, monk, could he decay (__tam pi'ssa bhikkhu na'tthi yena
 jāyetha, ajāyamāno kiṁ jiyyissati__)? Not decaying, how could he die?
-Not dying how could he be agitated? Not being agitated, how could he envy?"
+Not dying how could he be agitated? Not being agitated, how could he envy?
 
 -- https://suttacentral.net/mn140/en/bodhi[MN 140], The Exposition of the Elements
 ____
@@ -219,16 +219,16 @@ completely free from 'self' and 'I'. He has no thoughts of 'self or of
 'I' and 'mine' whatever. Therefore he has no thoughts of a 'was born' or
 a 'decaying' or a 'will decay' or a 'will die'. With him there is no
 'self' or 'I' to which *only* these things apply.footnote:[It is not impossible
-to use the words `'decay'` and `'death'` for the Arahat
+to use the words 'decay' and 'death' for the Arahat
 provided the implications are very clearly kept in mind. The change that happens
 to the body of the non-Arahat is the same as that which happens to the body of
 the Arahat. In the former case it is a decay, and this implies that the change
 is unwelcome and is a Suffering. But in the latter case the change is not
 unwelcome (in fact, it is neither welcome nor unwelcome) and is not a Suffering.
-If in this latter case we call the change `'decay'`, then we will have to use
+If in this latter case we call the change 'decay', then we will have to use
 the word *purely* as a *designation* for the change but having no other
-significance whatsoever. The same applies to the use of the word `'death'`.
-Ordinary usage of the words `'decay'` and `'death'`, however, always imply
+significance whatsoever. The same applies to the use of the word 'death'.
+Ordinary usage of the words 'decay' and 'death', however, always imply
 definite significances such as unwelcome-ness and Suffering. These significances
 being wholly and entirely absent for the Arahat, the change that goes on in the
 Arahat's body is not called decay and the laying down of life in the Arahat is
@@ -248,7 +248,7 @@ gave is very illuminating. He said:
 
 [quote, role=quote]
 ____
-"Friend Sāriputta, he who should think 'I am the eye', 'the eye is
+Friend Sāriputta, he who should think 'I am the eye', 'the eye is
 mine', or 'I am the tongue', 'the tongue is mine', or 'I am the mind',
 'the mind is mine' -- in him there would be an otherwise-ness in his
 body, there would be a change for the worse (__viparināmo__) in his
@@ -256,7 +256,7 @@ faculties. But in me, friend Sāriputta, there are no such thoughts as 'I
 am the eye', 'the eye is mine', or 'I am the tongue', 'the tongue is
 mine', or 'I am the mind', 'the mind is mine'. How then, friend
 Sāriputta, could there be to me the existence of an otherwise-ness in
-the body, or a change for the worse in the faculties?"
+the body, or a change for the worse in the faculties?
 
 -- https://suttacentral.net/sn35.69/en/sujato[SN 35.69], Upasena and the Viper
 ____
@@ -266,8 +266,8 @@ outside, and the body broke up then and there.
 
 In the Sutta passage, the translation of which has been just given, we
 get the word __viparināmo__. The literal meaning of this word is
-"transformation". To the non-Arahat this transformation is either a
-"change for the better" or a "change for the worse". But to the Arahat
+'transformation'. To the non-Arahat this transformation is either a
+'change for the better' or a 'change for the worse'. But to the Arahat
 there is no such thing. For him there is purely and simply a change
 which bears *no* significance of either being for the better or for the
 worse. This is the basic meaning of Arahat Upasena's reply.
@@ -280,37 +280,37 @@ thus:
 
 [quote, role=quote]
 ____
-"The Tathāgata, monks, is Arahat, is All Enlightened. Give ear,
+The Tathāgata, monks, is Arahat, is All Enlightened. Give ear,
 monks. Deathlessness has been reached (__amatamadhigataṁ__). I will
-intruct you."
+intruct you.
 
 -- https://suttacentral.net/pli-tv-kd1/en/brahmali[Vin I. 5-8], Mahāvagga
 ____
 
-_Amatamadhigataṁ_ means "**gone** to deathlessness" and *not* "going to
-deathlessness." It is something that *has happened* or *has been achieved*
-"Having attained it and realised it" (__sacchikatvā upasampajja__) the Arahat
-"lives experiencing it in the body" (__kāyena ca phusitvā viharati__).
+_Amatamadhigataṁ_ means '**gone** to deathlessness' and *not* 'going to
+deathlessness.' It is something that *has happened* or *has been achieved*
+'Having attained it and realised it' (__sacchikatvā upasampajja__) the Arahat
+'lives experiencing it in the body' (__kāyena ca phusitvā viharati__).
 
 The Arahat has come to the cessation of birth, decay and death. He is
-"entirely freed from birth, decay and death" -- __parimutto jātiyā jarā
+'entirely freed from birth, decay and death' -- __parimutto jātiyā jarā
 maranena__. (https://suttacentral.net/an3.38/en/bodhi[AN 3.38])
 
-He "has done away with birth and death" -- __pahīnajātimarano__. (https://suttacentral.net/an3.57/en/bodhi[AN 3.57])
+He 'has done away with birth and death' -- __pahīnajātimarano__. (https://suttacentral.net/an3.57/en/bodhi[AN 3.57])
 
-He "has gone beyond birth and death" -- __jāti marana maccagā__. (https://suttacentral.net/iti77/en/sujato[Iti 77])
+He 'has gone beyond birth and death' -- __jāti marana maccagā__. (https://suttacentral.net/iti77/en/sujato[Iti 77])
 
-He is one who "has arrived at the destruction of birth" --
+He is one who 'has arrived at the destruction of birth' --
 __jātikkhayaṁ patto__. (https://suttacentral.net/iti99/en/sujato[Iti 99])
 
-He "has conquered death" -- __maranābhibhū__. (https://suttacentral.net/thag20.1/en/sujato[Thag 1180])
+He 'has conquered death' -- __maranābhibhū__. (https://suttacentral.net/thag20.1/en/sujato[Thag 1180])
 
-To him applies: "Calm and unclouded, peaceful, freed of longing, he hath crossed
-over birth and decay, I say" -- __santo vidhūmo anīgho nirāso atāri so
+To him applies: 'Calm and unclouded, peaceful, freed of longing, he hath crossed
+over birth and decay, I say' -- __santo vidhūmo anīgho nirāso atāri so
 jātijaranti brūmī'ti__. (https://suttacentral.net/an3.32/en/bodhi[AN 3.32])
 
-When Ānanda attained at Arahatship he said of himself, "Gone to the end of birth
-and death he bears the final frame" -- __dhāreti antimaṁ dehaṁ
+When Ānanda attained at Arahatship he said of himself, 'Gone to the end of birth
+and death he bears the final frame' -- __dhāreti antimaṁ dehaṁ
 jātimaranapāragu__. (https://suttacentral.net/thag17.3/en/sujato[Thag 1022])
 
 Again, the Buddha is the first human being in the world who overcame
@@ -366,9 +366,9 @@ to be at a loss in understanding the Buddha's Teaching.
 
 [quote, role=quote]
 ____
-"You ought to be at a loss, Vaccha, you ought to be bewildered. For,
+You ought to be at a loss, Vaccha, you ought to be bewildered. For,
 Vaccha, this Dhamma is deep, difficult to see, difficult to understand,
-peaceful, excellent, beyond dialectic, subtle, intelligible to the wise."
+peaceful, excellent, beyond dialectic, subtle, intelligible to the wise.
 
 -- https://suttacentral.net/mn72/en/thanissaro[MN 72], To Vacchagotta on Fire
 ____
@@ -391,13 +391,13 @@ Thus viewing he puts these questions. The _puthujjana_ being a Five
 *Grasping* Groups (which essentially means having thoughts of
 subjectivity, of 'I' and 'mine') thinks that the Arahat is also a Five
 *Grasping* Groups. He does not know that *all* Grasping is extinct in
-the Arahat, that the Arahat "has laid down all Grasping" --
-__sabbupādānapariyādāna__, (https://suttacentral.net/sn35.62/en/bodhi[SN 35.62]) that the Arahat "has destroyed
-all Grasping" -- __sabbupādānakkhayaṁ__. (https://suttacentral.net/ud3.10/en/anandajoti[Uda 3.10])
-He does not see that the Arahat "by the destruction,
+the Arahat, that the Arahat 'has laid down all Grasping' --
+__sabbupādānapariyādāna__, (https://suttacentral.net/sn35.62/en/bodhi[SN 35.62]) that the Arahat 'has destroyed
+all Grasping' -- __sabbupādānakkhayaṁ__. (https://suttacentral.net/ud3.10/en/anandajoti[Uda 3.10])
+He does not see that the Arahat 'by the destruction,
 dispassion, cessation, giving up, casting out all suppositions, all
 standpoints, all latent conceits of 'I' and 'mine', is freed without
-Grasping". (https://suttacentral.net/mn72/en/thanissaro[MN 72])
+Grasping'. (https://suttacentral.net/mn72/en/thanissaro[MN 72])
 
 When the Arahat is asked questions about himself on the basis of things not
 applicable to him, what other reply can he give than saying that those questions
@@ -405,7 +405,7 @@ about him do not apply to him?
 
 [quote, role=quote]
 ____
-"Even so, great king,
+Even so, great king,
 
 * *that* Form ...
 * *that* Feeling ...
@@ -429,7 +429,7 @@ the great ocean. To say, 'The Tathāgata exists after death', does not
 apply. To say, 'The Tathāgata does not exist after death', does not
 apply. To say, 'The Tathāgata does exist and does not exist after
 death', does not apply. To say, 'The Tathāgata neither exists nor does
-not exist after death', does not apply".
+not exist after death', does not apply.
 
 -- https://suttacentral.net/sn44.1/en/bodhi[SN 44.1], Khema
 ____
@@ -443,15 +443,19 @@ to the Grasping Groups, because an 'I' or a 'self', to which only birth,
 decay and death are applicable, is present only if there is Grasping.
 When Grasping is extinct, all such subjectivity is extinct. What then
 remains is a residual *Not-Grasping* Five Groups to which birth, decay
-and death do not apply. "This is deathlessness, that is to say, the
-deliverance of the mind from Grasping" -- __etaṁ amataṁ yadidaṁ anupādā
+and death do not apply. 'This is deathlessness, that is to say, the
+deliverance of the mind from Grasping' -- __etaṁ amataṁ yadidaṁ anupādā
 cittassa vimokkho__. (https://suttacentral.net/mn106/en/sujato[MN 106])
 
 [quote, role=quote]
 ____
-The King Pasenadi asks the Buddha, "To the born is there any other than
-decay and death?" To which the Buddha replies, "To the born, great king,
-there is none other than decay and death.
+The King Pasenadi asks the Buddha,
+
+"To the born is there any other than decay and death?"
+
+To which the Buddha replies,
+
+"To the born, great king, there is none other than decay and death.
 
 "Great king, were there eminent
 nobles, prosperous, owning great treasure, great wealth, large hoards of

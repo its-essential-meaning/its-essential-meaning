@@ -3,8 +3,8 @@
 
 [quote, role=quote]
 ____
-"`'`Person! Person!`' (__sakkāya__), Venerable One, it is said. But what is
-it that the Exalted One has called the '`person`'?`"
+"'Person! Person!' (__sakkāya__), Venerable One, it is said. But what is
+it that the Exalted One has called the 'person'?"
 
 "These Five Grasping Groups (__upādāna-kkhandhā__), friend Visākha, has
 the Exalted One called the 'person', namely: the Grasping Group of Form,
@@ -22,9 +22,9 @@ _Grasping_. It may also be translated as _Holding_.
 
 [quote, role=quote]
 ____
-"And what, monks, is Form (_rūpa_)? The Four Primary Modes
+And what, monks, is Form (_rūpa_)? The Four Primary Modes
 (_dhātu_), and the Form that is present by grasping (_upādāya_) the
-Four Primary Modes -- this, monks, is called Form."
+Four Primary Modes -- this, monks, is called Form.
 
 -- https://suttacentral.net/sn22.56/en/bodhi[SN 22.56], Perspectives
 ____
@@ -39,41 +39,41 @@ Four Primary Modes do not refer to four elements or ingredients which
 constitute this 'matter'. They refer to four distinguishable general
 **modes of behaviour**, according to which 'matter' makes itself known.
 The most important group of behaviours to me is that which I refer to as
-'my body' – "this material body made up of the Four Primary Modes"
+'my body' – 'this material body made up of the Four Primary Modes'
 (__kāyo rūpī catummahābhūtiko__, https://suttacentral.net/mn74/en/sujato[MN 74]).
 
 ____
-"And what, monks, is Feeling (__vedanā__)? It is these six
+And what, monks, is Feeling (__vedanā__)? It is these six
 feeling-groups, namely: feeling sprung from Contact with the eye,
 feeling sprung from Contact with the ear, feeling sprung from Contact
 with the nose, feeling sprung from Contact with the tongue, feeling
 sprung from Contact with the body, feeling sprung from Contact with the
-mind. This, monks, is called Feeling."
+mind. This, monks, is called Feeling.
 ____
 
 In the above passage, by Contact (__phasso__) is not meant what is
-commonly referred to as '`sense-impression`'. As we shall see later on,
+commonly referred to as 'sense-impression'. As we shall see later on,
 Contact is the *coming together* of three things, the sense-base (eye,
 ear, etc.), the corresponding percept (sight, sound, etc.), and the kind
 of Consciousness involved (eye-consciousness, ear-consciousness, etc.).
 
 [quote, role=quote]
 ____
-"And what, monks, is Perception (__saññā__)? It is these six
+And what, monks, is Perception (__saññā__)? It is these six
 perception-groups namely: sight-perception, sound-perception,
 smell-perception, taste-perception, touch-perception, idea-perception
-(__dhammasaññā__). This is called Perception."
+(__dhammasaññā__). This is called Perception.
 
-"And what, monks, are Determinations (__sankhārā__)? It is these six
+And what, monks, are Determinations (__sankhārā__)? It is these six
 intention-groups (__cetanākāya__), namely: intention with regard to
 sight, intention with regard to sound, intention with regard to smell,
 intention with regard to taste, intention with regard to touch,
-intention with regard to ideas. These, monks are called Determinations."
+intention with regard to ideas. These, monks are called Determinations.
 
-"And what, monks, is Consciousness (__viññāna__)? It is these six
+And what, monks, is Consciousness (__viññāna__)? It is these six
 consciousness-groups, namely: eye-consciousness, ear-consciousness,
 nose-consciousness, tongue-consciousness, body-consciousness,
-mind-consciousness. This, monks, is called Consciousness."
+mind-consciousness. This, monks, is called Consciousness.
 
 -- https://suttacentral.net/sn22.56/en/bodhi[SN 22.56], Phases of the Clinging Aggregates
 ____
@@ -89,11 +89,11 @@ Sāriputta says:
 
 [quote, role=quote]
 ____
-"Whatever, friend, there exists of Feeling, of
+Whatever, friend, there exists of Feeling, of
 Perception, and of Consciousness, these things are associated and not
 dissociated, and it is impossible to dissociate one from the other and
 show their differences. For, whatever one feels, one perceives and
-whatever one perceives, of that one is conscious."
+whatever one perceives, of that one is conscious.
 
 -- https://suttacentral.net/mn43/en/sujato[MN 43], The Great Classification
 ____
@@ -102,11 +102,11 @@ Then again we have the Buddha teaching:
 
 [quote, role=quote]
 ____
-"Were one, monks, to declare
+Were one, monks, to declare
 thus: 'Apart from Form, apart from Feeling, apart from Perception, apart
 from Determinations, I will show the coming, or the going, or the
 disappearance, or the appearance, or the growth, or the increase, or the
-abundance of Consciousness' -- that is not possible."
+abundance of Consciousness' -- that is not possible.
 
 -- https://suttacentral.net/sn22.53/en/bodhi[SN 22.53], Engagement
 ____
@@ -144,7 +144,7 @@ The answer is: essentially, all notions of subjectivity, all notions of
 a 'self' or a 'person' or a 'somebody', all thoughts of 'I' and 'mine',
 are Grasping. Thus the Grasping Group of Determinations (here Intention)
 means, the **Group of Intention based an notions of 'self' and thoughts
-of 'I' and '`mine`'**. Intentions which are *not* based on any notion of
+of 'I' and 'mine'**. Intentions which are *not* based on any notion of
 'self' or any thought of 'I' or 'mine' whatever are merely a Group of
 Intention.
 
@@ -173,13 +173,13 @@ anything that I must comprehend, then it must be these.
 
 [quote, role=quote]
 ____
-"Monks, I will show you things that are to be comprehended, and what
+Monks, I will show you things that are to be comprehended, and what
 comprehending is ... Do ye listen to it. And what, monks, are the things
 to be comprehended? Form, monks, is a thing to be comprehended; Feeling
 is a thing to be comprehended; Perception is a thing to be comprehended;
 Determinations are a thing to be comprehended; Consciousness is a thing
 to be comprehended. These, monks, are the things to be comprehended. And
-what, monks, is comprehending ..."
+what, monks, is comprehending ...
 
 -- https://suttacentral.net/sn22.106/en/sujato[SN 22.106], Should Be Completely Understood
 ____

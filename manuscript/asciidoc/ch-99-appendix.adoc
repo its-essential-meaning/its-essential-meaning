@@ -39,7 +39,7 @@ bears to seeing.
 Derived from _citta_ is the word _cetasika_ which means __mental__. In
 the _Sutta_ we further find a dual classification into _kāyika_ (bodily)
 and _cetasika_ (mental). But this is quite different from the erroneous
-but common classification called "mind-and-body" (or "mind-and-matter")
+but common classification called 'mind-and-body' (or 'mind-and-matter')
 wherein mind and body are conceived as two things independent of each
 other and together constituting the living individual.
 
@@ -71,8 +71,13 @@ wrong views (__miccādiṭṭhi__). What he *does* give weight to is the
 mastery (__vasa__), or in other words, a notion of existing **as desired**.
 Some thing is considered as 'self' means that thing is
 considered as being readily amenable to altering its existence to suit
-one's wish. "If, monks, this body were 'self', then you should be able
-to have 'Let my body be thus, let my body be not thus'." The same
+one's wish.
+
+____
+If, monks, this body were 'self', then you should be able to have 'Let my body be thus, let my body be not thus'.
+____
+
+The same
 applies to Feeling, Perception, _Determinations_ and Consciousness. In
 the __puthujjana__'s conscious life it is just this notion of mastery
 that *leads* him on and not those speculations such as 'Self is eternal'
@@ -246,7 +251,7 @@ Groups) which is what is remaining with regard to the Arahat. But, for
 instance, in the _Satipatthāna Sutta_ (https://suttacentral.net/mn10/en/sujato[MN 10]) it is used to
 refer to that which remains with regard to the _anāgāmi_. In the former
 case it denotes the difference between _sa-upādisesa nibbānadhātu_ and
-__anupādisesa nibbānadhātu__.footnote:[See <<ch-13-nibbana.adoc#remainder,Chapter 13: Nibbāna, "Now, Arahatship as we saw...">>]
+__anupādisesa nibbānadhātu__.footnote:[See <<ch-13-nibbana.adoc#remainder,Chapter 13: Nibbāna, 'Now, Arahatship as we saw...'>>]
 In the latter case it denotes
 the difference between the _anāgāmi_ and the Arahat. These two differences
 are by no means the same. Thus, the word _upādisesa_ does not specify *what*
@@ -256,9 +261,9 @@ remains. For this reason Ñāṇavīra Thera considers that _upādisesa_ must be
 == X. Upādāya rūpaṁ
 
 With reference to the _rūpupādānakkhanda_ in the _pañcupādānakkhandha_ we
-get the phrase _upādāya rūpaṁ_. This phrase which means "by grasping _rūpa_"
-is often seen translated as "derived from _rūpa_", or as "because of
-_rūpa_", or again as "by-product of _rūpa_". This is seriously misleading for
+get the phrase _upādāya rūpaṁ_. This phrase which means 'by grasping _rūpa_'
+is often seen translated as 'derived from _rūpa_', or as 'because of
+_rūpa_', or again as 'by-product of _rūpa_'. This is seriously misleading for
 with regard to the first Group, it immediately shuts the door to the
 problem of Suffering and the cessation of Suffering.
 
@@ -273,18 +278,18 @@ ____
 The translation would be:
 
 ____
-"What, monks, is rūpa ? The Four Primary Modes and that _rūpa_ by
+What, monks, is rūpa ? The Four Primary Modes and that _rūpa_ by
 grasping the Four Primary Modes -- this, monks, is called _rūpa_. By the
 arising of the nutriment, the arising of _rūpa_; by the cessation of the
 nutriment, the cessation of _rūpa_. The path that leads to the cessation
-of _rūpa_ is this Noble Eightfold Path; that is to say, right view ... right concentration."
+of _rūpa_ is this Noble Eightfold Path; that is to say, right view ... right concentration.
 
-"Whosoever recluses and brahmins, monks, having fully understood _rūpa_
+Whosoever recluses and brahmins, monks, having fully understood _rūpa_
 thus, having fully understood the arising of _rūpa_ thus, having fully
 understood the cessation of _rūpa_ thus, having understood the path
 leading to the cessation of _rūpa_ thus, have attained to weariness, to
 detachment, to cessation of _rūpa_, they have well attained. Whosoever have
-well attained, they are grounded in this Dhamma and Discipline."
+well attained, they are grounded in this Dhamma and Discipline.
 ____
 
 At once we see the Buddha indicating the arising of Suffering and the
@@ -311,7 +316,7 @@ ____
 The translation would be:
 
 ____
-"And what, monks, is the Earth-Mode? The Earth-Mode may be internal, may
+And what, monks, is the Earth-Mode? The Earth-Mode may be internal, may
 be external. And what, monks, is the internal Earth-Mode? Whatever is
 hard, solid, is internal, grasped by oneself, that is to say: the hair of
 the head, the hair of the body, nails, teeth, skin, flesh, sinews,
@@ -323,7 +328,7 @@ whatever is the external Earth-Mode, just these are the Earth-Mode. By
 wisdom this should be regarded as it really is, thus: 'Not, this is
 mine; not, this am I; not, this is my self.' Having by wisdom seen this
 thus as it really is, he wearies himself of the Earth-Mode, he detaches
-his thinking from the Earth-Mode."
+his thinking from the Earth-Mode.
 ____
 
 Here again, we see the Buddha indicating Suffering and its cessation.
@@ -454,8 +459,13 @@ prospect of reducing it.
 The Buddha's Teaching is a medicine to be taken -- a medicine, in the
 taking of which one experiences its healing effect. As a patient trusts
 the physician and takes the medicine, so must one trust the Buddha and
-follow his advice and guidance. "Let be the past, let be the future, I
-will preach to you the Dhamma." (_tiṭṭhatu pubbanto tiṭṭhatu aparanto dhammaṁ te desessāmi_).
+follow his advice and guidance.
+
+____
+Let be the past, let be the future, I will preach to you the Dhamma.
+
+__Tiṭṭhatu pubbanto tiṭṭhatu aparanto dhammaṁ te desessāmi.__
+____
 
 == XIV. OPANAYIKA
 

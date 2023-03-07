@@ -38,7 +38,7 @@ In the _Saṁyutta Nikāya_ we have the difference between the _sekha_
 and the _asekha_ denoted as follows:
 
 ____
-"Again, monks, the monk who is a _sekha_ knows the five controlling
+Again, monks, the monk who is a _sekha_ knows the five controlling
 faculties: faith, energy, mindfulness, concentration, and wisdom. Yet he
 neither lives experiencing with the body, nor penetratively sees with
 wisdom, what they lead to, their excellence, their fruit, and their end
@@ -46,14 +46,14 @@ wisdom, what they lead to, their excellence, their fruit, and their end
 faculties: faith, energy, mindfulness, concentration, and wisdom. He
 lives experiencing with the body, penetratively seeing with wisdom, what
 they lead to, their excellence, their fruit, and their
-end."
+end.
 
 -- https://suttacentral.net/sn48.53/en/sujato[SN 48.53], A Trainee
 ____
 
 The _sekha_ has faith in the fact that deathlessness can be attained by
-developing the five controlling faculties. He "stands knocking at the
-door of deathlessness" -- __amara dvāraṁ āhacca tiṭṭhati.__footnote:[https://suttacentral.net/sn12.49/en/bodhi[SN 12.49], The Noble Disciple (1)]
+developing the five controlling faculties. He 'stands knocking at the
+door of deathlessness' -- __amara dvāraṁ āhacca tiṭṭhati.__footnote:[https://suttacentral.net/sn12.49/en/bodhi[SN 12.49], The Noble Disciple (1)]
 But the _asekha_ having developed these faculties
 fully has achieved deathlessness and lives experiencing deathlessness.
 Arahat Sāriputta said that the latter was the case with him.
@@ -65,13 +65,14 @@ them.footnote:[https://suttacentral.net/sn48.12/en/sujato[SN 48.12] and https://
 Khemaka, an _Anāgami_ (i.e. one of the higher classes of __sekhas__) says:
 
 ____
-"Though, friends, I discern in the Five Grasping Groups no self
+Though, friends, I discern in the Five Grasping Groups no self
 nor aught pertaining to self, yet I am not Arahat, nor one in whom the
 taints are destroyed. Though, friend, in the Five Grasping groups is
-found 'I am', yet I do not discern that I am this 'I am'." Further,
-"Friends, though an Ariyan disciple has put away the five lower fetters,
+found 'I am', yet I do not discern that I am this 'I am'.
+
+... Friends, though an Ariyan disciple has put away the five lower fetters,
 yet there remains in his Five Grasping Groups the conceit 'I am', the
-desire 'I am', the tendency 'I am', still not removed from him."
+desire 'I am', the tendency 'I am', still not removed from him.
 
 -- https://suttacentral.net/sn22.89/en/bodhi[SN 22.89], Khemaka
 ____
@@ -145,12 +146,12 @@ practising for the realization of the fruit. There is therefore a time
 interval between path-attainment and fruit-attainment.
 
 ____
-"Here, friends, a
+Here, friends, a
 monk develops insight preceded by serenity. In thus developing insight
 preceded by serenity, the Path is born. He pursues that Path, develops
 and practises it. In him thus pursuing, developing, and practising that
 Path, the fetters are put away, and the latencies
-cease."
+cease.
 
 -- https://suttacentral.net/an4.170/en/thanissaro[AN 4.170], In Tandem
 ____
@@ -183,10 +184,10 @@ means got on to the Noble Eightfold Path, the Stream (__sota__) being
 defined as this path:
 
 ____
-"The Stream, Sāriputta, is just this Noble
+The Stream, Sāriputta, is just this Noble
 Eightfold Path, that is to say, right understanding, right thinking,
 right action, right speech, right living, right effort, right
-mindfulness, right concentration."
+mindfulness, right concentration.
 
 -- https://suttacentral.net/sn55.5/en/sujato[SN 55.5], With Sāriputta (2nd)
 ____
@@ -226,6 +227,12 @@ down by its own weight without extra effort, so will the _sotāpanna_ in
 any case end up in _Nibbāna_ within a maximum of seven further lives.
 The Buddha however exhorts all _sekhas_ to act with diligence
 (__appamādena karaṇīyan__) and try to make an end of it all in this life
-itself by attaining Arahatship. "Monks, just as a little bit of faeces
+itself by attaining Arahatship.
+
+____
+Monks, just as a little bit of faeces
 is foul smelling, even so do I not praise __bhava__, not even for so
-brief a time as is needed for a finger snap."footnote:[https://suttacentral.net/an1.316-332/en/sujato[AN 1.328]]
+brief a time as is needed for a finger snap.
+
+-- https://suttacentral.net/an1.316-332/en/sujato[AN 1.328]
+----

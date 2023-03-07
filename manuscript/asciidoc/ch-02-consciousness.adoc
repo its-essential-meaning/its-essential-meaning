@@ -10,10 +10,10 @@ of Perception; and I am conscious of Determinations.
 
 [quote, role=quote]
 ____
-"It is as with the
+It is as with the
 choir-master of a five-member choir who himself, as the chief, takes up
 his part and in the performance of the whole piece takes in himself
-along with it."
+along with it.
 ____
 
 What now is Consciousness (__viññāna__)?
@@ -37,7 +37,7 @@ Without sufficient reason, the Buddha says, no Consciousness arises.
 
 [quote, role=quote]
 ____
-"Consciousness, monks, is named after that in dependence on which it
+Consciousness, monks, is named after that in dependence on which it
 comes into being.
 
 * The Consciousness which comes into being in respect of sights in dependence on the eye is called eye-consciousness;
@@ -45,9 +45,9 @@ comes into being.
 * the Consciousness which comes into being in respect of odours in dependence on the nose is called nose-consciousness;
 * the Consciousness which comes into being in respect of tastes in dependence on the tongue is called tongue-consciousness;
 * the Consciousness which comes into being in respect of touch in dependence on the body is called body-consciousness;
-* the Consciousness which comes into being in respect of ideas in dependence on the mind is called mind-consciousness."
+* the Consciousness which comes into being in respect of ideas in dependence on the mind is called mind-consciousness.
 
-"Just as, monks, fire is named after that independence on which it
+Just as, monks, fire is named after that independence on which it
 burns. The fire that burns in dependence on logs of wood is called a
 log-fire; the fire that burns in dependence on chips is called a
 chip-fire; the fire that burns in dependence on grass is called a
@@ -57,7 +57,7 @@ husk-fire; the fire that burns in dependence on rubbish is called a
 rubbish-fire. In the same way, monks, Consciousness is named after that
 in dependence on which it comes into being. The Consciousness that comes
 into being in respect of sights in dependence on the eye is called
-eye-consciousness …"
+eye-consciousness …
 
 -- https://suttacentral.net/mn38/en/bodhi[MN 38], The Greater Discourse on the Destruction of Craving
 ____

@@ -8,30 +8,27 @@ Consciousness, and its ceasing?
 To this, the Buddha gives the answer: Name-and-Form (__nāma-rūpa__) is
 the basis, the genesis, the condition for Consciousness.
 
-[quote, role=quote]
-____
-"What being present is Consciousness present? Dependent on what does
-Consciousness exist?" The answer is: "Name-and-Form being present, there
+'What being present is Consciousness present? Dependent on what does
+Consciousness exist?' The answer is: 'Name-and-Form being present, there
 is Consciousness. Dependent on Name-and-Form, Consciousness
-exists."
-
--- https://suttacentral.net/dn14/en/sujato[DN 14], The Great Discourse on the Harvest of Deeds
-____
+exists.' (https://suttacentral.net/dn14/en/sujato[DN 14])
 
 Thus the condition necessary for the arising of Consciousness is
 Name-and-Form.
 
-Again, "What being present is Name-and-Form present? Dependent on what
-does Name-and-Form exist?" The answer is: "Consciousness being present,
+Again, 'What being present is Name-and-Form present? Dependent on what
+does Name-and-Form exist?' The answer is: 'Consciousness being present,
 there is Name-and-Form. Dependent on Consciousness, Name-and-Form
-exists." (https://suttacentral.net/dn14/en/sujato[DN 14])
+exists.' (https://suttacentral.net/dn14/en/sujato[DN 14])
 
 Thus the condition for Consciousness is Name-and-Form, and the condition
 for Name-and-Form is Consciousness.
 
 [quote, role=quote]
 ____
-"Consciousness turns back from Name-and-Form; it goes not beyond." (https://suttacentral.net/dn14/en/sujato[DN 14])
+Consciousness turns back from Name-and-Form; it goes not beyond.
+
+-- https://suttacentral.net/dn14/en/sujato[DN 14], The Great Discourse on the Harvest of Deeds
 ____
 
 All this needs explaining.
@@ -39,7 +36,7 @@ All this needs explaining.
 To start with, there must be a clear understanding of what is referred
 to as Name-and-Form (__nāma-rūpa__). It is where there is no such
 understanding that one find this phenomenon called _nāma-rūpa_ referred
-to as "mind-and-matter". _Rūpa_ is certainly 'matter', but as we shall
+to as 'mind-and-matter'. _Rūpa_ is certainly 'matter', but as we shall
 see _nāma_ is not 'mind'.
 
 Firstly, what is __rūpa__, which has been translated as Form?
@@ -69,9 +66,9 @@ fashion. Thus there is both an *appearance of behaviour* and a
 *behaviour of appearance*. And the set of behaviours defining the
 particular lump of 'matter' or object is *inferred* from the behaviour
 of its *appearance*.footnote:[See <<ch-13-nibbana.adoc#the-four-primary,Chapter 13, Nibbāna>>:
-"But their [the Four Primary Modes] *appearance* is a matter for
+'But their [the Four Primary Modes] *appearance* is a matter for
 Consciousness, and their 'existence' is *inferred* through the
-behaviour of this **appearance**."]
+behaviour of this **appearance**.']
 
 All modes of behaviour can be categorized under four main modes called
 the Four Primary Modes (__catunnaṁ mahābhūtānaṁ__). They are Earth-Mode,
@@ -80,7 +77,7 @@ Solid-Mode, the Fluid-Mode, the Ripening-Mode and the Motion-Mode.
 
 [quote, role=quote]
 ____
-"And what, monks, is the Earth-Mode (__paṭhavīdhātu__)? The Earth-Mode
+And what, monks, is the Earth-Mode (__paṭhavīdhātu__)? The Earth-Mode
 may be internal, may be external. And what, monks, is the internal
 Earth-Mode? Whatever is hard, solid, is internal, *grasped by oneself*
 (__paccattaṁ … upādinnaṁ__), that is to say: the hair of the head, the
@@ -91,7 +88,7 @@ is internal, grasped by oneself -- this, monks, is called the internal
 Earth-Mode. Whatever is the internal Earth-Mode and whatever is the
 external Earth-Mode, just these are the Earth-Mode …
 
-"And what, monks, is the Water-Mode (__āpodhātu__)? The Water-Mode may
+And what, monks, is the Water-Mode (__āpodhātu__)? The Water-Mode may
 be internal, may be external. And what, monks, is the internal
 Water-Mode? Whatever is liquid, become liquid, is internal, grasped by
 oneself, that is to say: bile, phlegm, pus, blood, sweat, fat, tears,
@@ -100,7 +97,7 @@ liquid, become liquid, is internal, grasped by oneself -- this, monks, is
 called the internal Water-Mode. Whatever is the internal Water-Mode and
 whatever is the external Water-Mode, just these are the Water Mode …
 
-"And what, monks, is the Fire-Mode (__tejodhātu__)? The Fire-Mode may be
+And what, monks, is the Fire-Mode (__tejodhātu__)? The Fire-Mode may be
 internal, may be external. And what, monks, is the internal Fire-Mode?
 Whatever is heat, become heat, is internal, grasped by oneself, that is
 to say: that by which one is vitalized, that by which one is consumed,
@@ -110,7 +107,7 @@ heat, become heat, is internal, grasped by oneself -- this, monks, is
 called the internal Fire-Mode. Whatever is the internal Fire-Mode and
 whatever is the external Fire-Mode, just these are the Fire-Mode …
 
-"And what, monks, is the Air-Mode (__vāyodhātu__)? The Air-Mode may be
+And what, monks, is the Air-Mode (__vāyodhātu__)? The Air-Mode may be
 internal, may be external. And what, monks, is the internal Air-Mode?
 Whatever is air, become airy, is internal, grasped by oneself, that is
 to say: winds going upwards, winds going downwards, winds in the
@@ -118,18 +115,18 @@ abdomen, winds in the belly, winds permeating the limbs, in-breathing,
 out-breathing, or whatever other thing is air, become airy, is internal,
 grasped by oneself – this, monks, is called the internal Air-Mode.
 Whatever is the internal Air-Mode and whatever is the external Air-Mode,
-just these are the Air-Mode …"
+just these are the Air-Mode …
 
 -- https://suttacentral.net/mn140/en/bodhi[MN 140], The Exposition of the Elements
 ____
 
 In the above definitions the Buddha refers to the Four Primary Modes as
-"grasped by oneself" (__paccattaṁ upādinnaṁ__). In other words, he is
+'grasped by oneself' (__paccattaṁ upādinnaṁ__). In other words, he is
 referring to the *Grasping* Group of Form (to __rūpa-upādāna-kkhandha__).
 
 Beyond the above there is only one important thing (according to
 the Suttas) the Buddha has thought about Form: that is, the question of
-the Four Primary Modes "getting no footing" (__na gādhati__). We shall
+the Four Primary Modes 'getting no footing' (__na gādhati__). We shall
 come to this later on. One might therefore wonder why the Buddha has
 taught so little about Form or 'matter'. But the Buddha has a distinct
 purpose in his Teaching. And elucidations are made by him only in as far
@@ -154,8 +151,8 @@ objects from one another. If the table does not remain the table and the
 book does not remain the book when I am continuing to be conscious of
 them I cannot then distinguish them from each other.
 
-There is a material object.footnote:["Material object" is not quite the
-same as 'matter'. The former is a particular "lump of 'matter'".] This
+There is a material object.footnote:['Material object' is not quite the
+same as 'matter'. The former is a particular 'lump of "matter"'.] This
 object is *not* dependent on Consciousness. But this object can be
 *present* or *not present*. Its presence is a matter of Consciousness.
 The object being present to the individual means that he is conscious of
@@ -173,21 +170,21 @@ colour, sound, smell, etc., which are brought about when Consciousness
 particular Name is *how* the particular object is present
 (Consciousness). It is the *appearance* of the object (the word
 'appearance' being again taken in a rather wide sense). Therefore, we
-can define Name (__nāma__) as "how Form (__rūpa__) is present
-(__viññāna__)". The *how* or the *manner* is Name, and the presence is
+can define Name (__nāma__) as 'how Form (__rūpa__) is present
+(__viññāna__)'. The *how* or the *manner* is Name, and the presence is
 Consciousness.
 
-This appearance or "how it is present" is always given a designation
+This appearance or 'how it is present' is always given a designation
 (__adhivacana__). This designation therefore actually belongs to
 __nāma__. But we refer to the object by this designation.
 
-It must be noted that this "how it is present" includes a number of
+It must be noted that this 'how it is present' includes a number of
 things. The shape, colour, smell, sound, etc., are the perceptions. Then
 there are certain feelings which are either pleasant, unpleasant or
 neutral. Further, there is Intention, Attention and Contact in relation
-to the object. All these go to make up Name (__nāma__). "Feeling,
+to the object. All these go to make up Name (__nāma__). 'Feeling,
 Perception, Intention, Contact, Attention -- this is called
-Name." (https://suttacentral.net/sn12.2/en/bodhi[SN 12.2])
+Name.' (https://suttacentral.net/sn12.2/en/bodhi[SN 12.2])
 
 It should be quite clear from the above that _nāma_ is not 'mind'.
 _Rūpa_ is 'matter', but _nāma_ is not 'mind'. 'Mind', as a sense-base,
@@ -249,8 +246,9 @@ involved in the change from sitting to standing is the *exercise of
 choice*. All other positions are sacrificed and this one position is
 consciously held to. This action, or this exercise of choice, is called
 *Intentional Action*. From the intentional action there comes to be
-*present* the new position. "Thus, Ānanda, intentional action is the
-field, Consciousness is the seed." (https://suttacentral.net/an3.76/en/thanissaro[AN 3.76]) Just as the seed springs up out of
+*present* the new position. 'Thus, Ānanda, intentional action is the
+field, Consciousness is the seed.'footnote:[https://suttacentral.net/an3.76/en/thanissaro[AN 3.76], Continued Existence]
+Just as the seed springs up out of
 the field the new position becomes present (Consciousness) resulting
 from the intentional action (__kamma__).
 
@@ -274,12 +272,12 @@ dependent on Name-and- Form.
 
 [quote, role=quote]
 ____
-"In dependence on eye and sights springs up eye-consciousness. The
+In dependence on eye and sights springs up eye-consciousness. The
 *coming together* of the three is called Contact … In dependence on ear
 and sounds … In dependence on nose and odours … In dependence on tongue
 and taste … In dependence on body and touch … In dependence on mind and
 ideas springs up mind-consciousness. The *coming together* of the three
-is called Contact."
+is called Contact.
 
 -- https://suttacentral.net/sn12.43/en/bodhi[SN 12.43], Suffering
 ____
@@ -304,12 +302,12 @@ Primary Modes.
 
 [quote, role=quote]
 ____
-[[dependent]]"Monk, it is to be seen that the Group of Form (or 'matter') is
+[[dependent]]Monk, it is to be seen that the Group of Form (or 'matter') is
 dependent on the Four Primary Modes, is conditioned by the Four Primary
 Modes. The Group of Feeling is dependent on, is conditioned by Contact.
 The Group of Perception is dependent on, is conditioned by Contact. The
 Group of Determinations is dependent on, is conditioned by
-Contact."
+Contact.
 
 -- https://suttacentral.net/mn109/en/sujato[MN 109], The Longer Discourse on the Full-Moon Night
 ____
@@ -381,9 +379,9 @@ The shape, smell, etc., are the features of the Name-body, and 'bottle
 of ink' is the *designation*. Therefore, generalizing, the question
 would run thus: If those features, modes, characteristics exponents, by
 which the Name-body is discerned were absent, would there be a coming
-together of a designation in the Form-body?footnote:["Designation in
-Form-body" (__rūpakāye adhivacana__) corresponds to "appearance of
-behaviour".]
+together of a designation in the Form-body?footnote:['Designation in
+Form-body' (__rūpakāye adhivacana__) corresponds to 'appearance of
+behaviour'.]
 
 The answer is: No.
 
@@ -393,8 +391,8 @@ ink' remain so, or be inert?
 
 Generalizing, the question would run thus: If those features, etc., by
 which Form-body is discerned were absent would there be a coming
-together of inertia in the Name-body?footnote:["Inertia in Name-body"
-(__nāmakāye paṭigha__) corresponds to "behaviour of appearance".]
+together of inertia in the Name-body?footnote:['Inertia in Name-body'
+(__nāmakāye paṭigha__) corresponds to 'behaviour of appearance'.]
 
 The answer is: No.
 
@@ -427,16 +425,16 @@ a total-either-way-simultaneity.
 
 There are things which, however, do not have a
 total-either-way-simultaneity as Name-and-Form and Consciousness have.
-For example perception and knowledge. "Perception arises first,
+For example perception and knowledge. 'Perception arises first,
 knowledge arises thereafter (in dependence on
-Perception)" (https://suttacentral.net/dn9/en/thanissaro[DN 9]) But the case with Name-and-Form
+Perception)' (https://suttacentral.net/dn9/en/thanissaro[DN 9]) But the case with Name-and-Form
 and Consciousness is different. Since they depend on each other they
 arise together and cease together. One neither precedes nor follows the
 other in time. The relationship that Name-and-Form and Consciousness
-bear towards each other is therefore one that is "not involving time" or
-"timeless" (__akālika__). As against this type of relationship, the
+bear towards each other is therefore one that is 'not involving time' or
+'timeless' (__akālika__). As against this type of relationship, the
 relationship between in-breathing and out-breathing is one that is
-"involving time" (__kālika__), since one follows or precedes the other
+'involving time' (__kālika__), since one follows or precedes the other
 in time. Incidentally, _akālika_ is to be given no other meaning than the
 one just given, and it is important to note that this is the actual
 meaning of this word. Various other meanings seem to be given to this
