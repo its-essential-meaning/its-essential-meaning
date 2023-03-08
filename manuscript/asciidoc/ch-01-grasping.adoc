@@ -3,10 +3,10 @@
 
 [quote, role=quote]
 ____
-“‘Person! Person!’ (__sakkāya__), Venerable One, it is said. But what is
+“‘Person! Person!’ __(sakkāya)__, Venerable One, it is said. But what is
 it that the Exalted One has called the ‘person’?”
 
-“These Five Grasping Groups (__upādāna-kkhandhā__), friend Visākha, has
+“These Five Grasping Groups __(upādāna-kkhandhā)__, friend Visākha, has
 the Exalted One called the ‘person’, namely: the Grasping Group of Form,
 the Grasping Group of Feeling, the Grasping Group of Perception, the
 Grasping Group of Determinations, the Grasping Group of Consciousness.
@@ -22,8 +22,8 @@ _Grasping_. It may also be translated as _Holding_.
 
 [quote, role=quote]
 ____
-And what, monks, is Form (_rūpa_)? The Four Primary Modes
-(_dhātu_), and the Form that is present by grasping (_upādāya_) the
+And what, monks, is Form __(rūpa)__? The Four Primary Modes
+__(dhātu)__, and the Form that is present by grasping __(upādāya)__ the
 Four Primary Modes -- this, monks, is called Form.
 
 -- https://suttacentral.net/sn22.56/en/bodhi[SN 22.56], Perspectives
@@ -43,7 +43,7 @@ The most important group of behaviours to me is that which I refer to as
 (__kāyo rūpī catummahābhūtiko__, https://suttacentral.net/mn74/en/sujato[MN 74]).
 
 ____
-And what, monks, is Feeling (__vedanā__)? It is these six
+And what, monks, is Feeling __(vedanā)__? It is these six
 feeling-groups, namely: feeling sprung from Contact with the eye,
 feeling sprung from Contact with the ear, feeling sprung from Contact
 with the nose, feeling sprung from Contact with the tongue, feeling
@@ -51,7 +51,7 @@ sprung from Contact with the body, feeling sprung from Contact with the
 mind. This, monks, is called Feeling.
 ____
 
-In the above passage, by Contact (__phasso__) is not meant what is
+In the above passage, by Contact __(phasso)__ is not meant what is
 commonly referred to as ‘sense-impression’. As we shall see later on,
 Contact is the *coming together* of three things, the sense-base (eye,
 ear, etc.), the corresponding percept (sight, sound, etc.), and the kind
