@@ -97,11 +97,8 @@ ____
 Why, monks, do ye say __sahkhāra__? They determine __(abhisaṅkaronti)__
 the determined. That is why they are called __saṅkhāra__. What is the
 determined that they determine? Determined Form do they determine in
-accordance with the nature of Form. Determined Feeling do they determine
-in accordance with the nature of Feeling. Determined Perception do they
-determine in accordance with the nature of Perception. Determined
-Determinations do they determine in accordance with the nature of
-Determinations. Determined Consciousness do they determine in accordance
+accordance with the nature of Form. Determined Feeling ... Determined Perception ... Determined
+Determinations ... Determined Consciousness do they determine in accordance
 with the nature of Consciousness. They determine the determined. That is
 why they are called __saṅkhāra__.
 
@@ -112,7 +109,7 @@ Sixthly, in the _Mahāvedalla Sutta_ (https://suttacentral.net/mn43/en/sujato[MN
 as that on which depends __(paṭicca)__ life.
 
 It might assist the reader to see the above mentioned relationships
-better if they are presented in the following manner:
+better if they are presented in the following figure:
 
 FIXME: add figure.
 
