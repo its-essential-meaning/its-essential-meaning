@@ -189,6 +189,10 @@
   BoldItalicFont = GentiumPlus-BoldItalic.ttf,
 ]{GentiumPlus-Regular.ttf}
 
+\newfontfamily\firaSansFont[
+  ItalicFont = FiraSans-Italic.otf,
+]{FiraSans-Regular.otf}
+
 \newfontfamily\firaSansLightFont[
   ItalicFont = FiraSans-LightItalic.otf,
 ]{FiraSans-Light.otf}
@@ -215,7 +219,7 @@
 \newcommand\chapterAuthorFont\sourceSerifDisplayFont
 \newcommand\chapterNoteFont\sourceSerifDisplayFont
 
-\newcommand\sectionFont\firaSansLightFont
+\newcommand\sectionFont\firaSansFont
 
 % quote
 
@@ -253,6 +257,8 @@
 
 % Tracking for uppercase section heading
 \SetTracking[spacing={400,100,}]{encoding=*, family={Crimson-Roman.otf}}{20}
+\SetTracking[spacing={400,100,}]{encoding=*, family={FiraSans-Regular.otf}}{20}
+\SetTracking[spacing={400,100,}]{encoding=*, family={FiraSans-Light.otf}}{20}
 
 % === hyperref ===
 
@@ -378,6 +384,8 @@ philo-sophical munindo amaravati thai-land}
 % accented characters at the end of words.
 
 % === Custom commands and environments ===
+
+\newcommand*{\authoremph}[1]{\textbf{\textit{#1}}}
 
 % https://tex.stackexchange.com/questions/4839/raggedleft-paragraph-in-a-table
 
@@ -820,8 +828,6 @@ philo-sophical munindo amaravati thai-land}
 }
 
 % === Renewing package macros ===
-
-\renewcommand*{\emph}[1]{\textbf{\textit{#1}}}
 
 % NOTE: Uncomment below if you need a \mainmatter which doesn't add blank pages.
 % Useful to insert a picture before the first chapter, which otherwise would
@@ -1572,9 +1578,9 @@ philo-sophical munindo amaravati thai-land}
 %\setsechook{\setsecnumformat{\thesection.\space}}
 
 \newcommand\sectionFmt[1]{%
-  \sectionFont\fontsize{11.5}{14}\selectfont%
+  \sectionFont\fontsize{11}{13}\selectfont%
   \color{section}%
-  \centering
+  \memRTLraggedright%
   \textls{\MakeUppercase{#1}}%
 }
 
