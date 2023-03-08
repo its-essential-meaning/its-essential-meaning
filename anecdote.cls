@@ -143,7 +143,7 @@
 \definecolor{footnoterule}{gray}{0.5}
 \definecolor{header}{gray}{0.2}
 \definecolor{footer}{gray}{0.2}
-\definecolor{chapternum}{gray}{0.8}
+\definecolor{chapternum}{gray}{0.2}
 \definecolor{chaptertitle}{gray}{0.2}
 \definecolor{chaptertitlefootnote}{gray}{0.4}
 \definecolor{chapterauthor}{gray}{0.3}
@@ -168,10 +168,10 @@
 \setmainfont[
   SmallCapsFont = Crimson-Roman.otf,
   SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps, Scale = 0.8, LetterSpace = 0.2 },
-  ItalicFont = GentiumPlus-I.ttf,
-  BoldFont = GenBkBasB.ttf,
-  BoldItalicFont = GenBkBasBI.ttf,
-]{GentiumPlus-R.ttf}
+  ItalicFont = GentiumPlus-Italic.ttf,
+  BoldFont = GentiumPlus-Bold.ttf,
+  BoldItalicFont = GentiumPlus-BoldItalic.ttf,
+]{GentiumPlus-Regular.ttf}
 
 \newfontfamily\crimsonRomanFont[
   SmallCapsFeatures= { LetterSpace = 0.2 },
@@ -184,10 +184,20 @@
 ]{Crimson-Roman.otf}
 
 \newfontfamily\gentiumFont[
-  ItalicFont = GentiumPlus-I.ttf,
-  BoldFont = GenBkBasB.ttf,
-  BoldItalicFont = GenBkBasBI.ttf,
-]{GentiumPlus-R.ttf}
+  ItalicFont = GentiumPlus-Italic.ttf,
+  BoldFont = GentiumPlus-Bold.ttf,
+  BoldItalicFont = GentiumPlus-BoldItalic.ttf,
+]{GentiumPlus-Regular.ttf}
+
+\newfontfamily\firaSansLightFont[
+  ItalicFont = FiraSans-LightItalic.otf,
+]{FiraSans-Light.otf}
+
+\newfontfamily\cardoFont[
+  BoldFont = Cardob101.ttf,
+]{Cardo104s.ttf}
+
+\newfontfamily\sourceSerifDisplayFont{SourceSerif4Display-Regular.otf}
 
 % header and footer
 
@@ -197,15 +207,15 @@
 
 % chapter and section
 
-\newcommand\partTitleFont\crimsonRomanFont
+\newcommand\partTitleFont\sourceSerifDisplayFont
 
-\newcommand\chapterNameFont\crimsonRomanFont
-\newcommand\chapterTitleFont\crimsonRomanFont
-\newcommand\chapterNumberFont\crimsonRomanFont
-\newcommand\chapterAuthorFont\crimsonRomanFont
-\newcommand\chapterNoteFont\crimsonRomanFont
+\newcommand\chapterNameFont\sourceSerifDisplayFont
+\newcommand\chapterTitleFont\sourceSerifDisplayFont
+\newcommand\chapterNumberFont\cardoFont
+\newcommand\chapterAuthorFont\sourceSerifDisplayFont
+\newcommand\chapterNoteFont\sourceSerifDisplayFont
 
-\newcommand\sectionFont\crimsonRomanFont
+\newcommand\sectionFont\firaSansLightFont
 
 % quote
 
@@ -213,14 +223,14 @@
 
 % toc
 
-\newcommand\tocFont\crimsonRomanFont
-\newcommand\tocFontOldNum\crimsonRomanFontOldNum
+\newcommand\tocFont\sourceSerifDisplayFont
+\newcommand\tocFontOldNum\sourceSerifDisplayFont
 
 % Some default font sizes, use \renewcommand to adjust
 
 \newcommand{\chapterNameSize}{\@setfontsize          \chapterNameSize          {22}{24}}
-\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {22}{24}}
-\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {13}{16.5}}
+\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {18}{18}}
+\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {20}{28}}
 \newcommand{\chapterTitleFootnoteSize}{\@setfontsize \chapterTitleFootnoteSize {16}{30}}
 \newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {12}{14}}
 \newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {13}{15}}
@@ -1142,44 +1152,31 @@ philo-sophical munindo amaravati thai-land}
 
 \makechapterstyle{lowtitle}{
   \chapterstyle{default}
-  \setlength{\beforechapskip}{30mm}
-  \setlength{\chapterTitleLeftSkip}{17pt}
+  \setlength{\beforechapskip}{10mm}
   \renewcommand\printchaptername{}
   \renewcommand\chapternamenum{}
   \renewcommand\chapnumfont{\chapterNumberFont\chapterNumberSize}
   \renewcommand\printchapternum{%
+    \centering%
     \chapnumfont\color{chapternum}%
-    \hspace*{\chapterTitleLeftSkip}\thechapter%
+    \raisebox{3.5pt}{\rule{1em}{.4pt}}%
+    \hspace*{.6em}%
+    \thechapter%
+    \hspace*{.6em}%
+    \raisebox{3.5pt}{\rule{1em}{.4pt}}%
   }
-  \setlength{\midchapskip}{2\onelineskip}
+  \setlength{\midchapskip}{1.5\onelineskip}
   \renewcommand\afterchapternum{\par\nobreak\vskip \midchapskip}
   \renewcommand\printchapternonum{}
   \renewcommand\chaptitlefont{\chapterTitleFont\chapterTitleSize}
   \renewcommand*\printchaptertitle[1]{%
-    \raggedright\hspace*{\chapterTitleLeftSkip}%
-    \parbox{\linewidth - \chapterTitleLeftSkip}{%
-      \raggedright\chaptitlefont\color{chaptertitle}%
-      \textls*{\MakeUppercase{##1}}%
-      \ifchapterfootnote%
-        \hspace*{2pt}\theChapterFootnoteMark%
-      \fi%
-      \ifchapterauthor%
-        \vskip 0.5\onelineskip%
-        \chapterAuthorFmt{\theChapterAuthor}%
-        \global\chapterauthorfalse%
-      \fi%
-      \ifchapternote%
-        \vskip 0.5\onelineskip%
-        \chapterNoteFmt{\theChapterNote}%
-        \global\chapternotefalse%
-      \fi%
+    {%
+      \centering\chaptitlefont\color{chaptertitle}%
+      ##1%
+      \par%
     }%
-    \ifchapterfootnote%
-      \theChapterFootnoteText%
-      \global\chapterfootnotefalse%
-    \fi%
   }
-  \setlength{\afterchapskip}{2.5\onelineskip}
+  \setlength{\afterchapskip}{3\onelineskip}
   \renewcommand\afterchaptertitle{\par\nobreak\vskip \afterchapskip}%
 }
 
@@ -1190,8 +1187,8 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand*\printchaptertitle[1]{%
     {%
       \centering\chaptitlefont\color{chaptertitle}%
-      \textls*{\MakeUppercase{##1}}%
-      \par
+      ##1%
+      \par%
     }%
   }
 }
@@ -1656,15 +1653,13 @@ philo-sophical munindo amaravati thai-land}
   \settrims{0pt}{0pt}
 \fi
 
-% Text block for 10.5 / 15pt:
-%%\settypeblocksize{521pt}{*}{0.599}% 1/1.667, 3:5, major 6th (183.79mm x 110mm)
-\settypeblocksize{31\baselineskip + \topskip}{*}{0.599}% 1/1.667, 3:5, major 6th
-\setlrmargins{*}{20mm}{*}% 22.71669mm and 19.99976mm
+% Text height and width: 162.02107mm by 97.00177mm
+% \settypeblocksize{30\baselineskip + \topskip}{*}{0.599}% 1/1.667, 3:5, major 6th
 
-% \settypeblocksize{190mm}{110mm}{*}
-% \setlrmargins{*}{20mm}{*}
+\settypeblocksize{162mm}{95mm}{*}
+\setlrmargins{*}{15mm}{*}
 
-\setulmargins{42pt}{*}{*}% Based on Tall Pentagon, 1.701
+\setulmargins{50pt}{*}{*}
 \setlength{\footskip}{30pt}
 
 % Adjust spacing to avoid warning
