@@ -169,7 +169,7 @@
   SmallCapsFont = Crimson-Roman.otf,
   SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps, Scale = 0.8, LetterSpace = 0.2 },
   ItalicFont = GentiumPlus-Italic.ttf,
-  BoldFont = GentiumPlus-BoldItalic.ttf,
+  BoldFont = GentiumPlus-Bold.ttf,
   BoldItalicFont = GentiumPlus-BoldItalic.ttf,
 ]{GentiumPlus-Regular.ttf}
 
@@ -820,6 +820,8 @@ philo-sophical munindo amaravati thai-land}
 }
 
 % === Renewing package macros ===
+
+\renewcommand*{\emph}[1]{\textbf{\textit{#1}}}
 
 % NOTE: Uncomment below if you need a \mainmatter which doesn't add blank pages.
 % Useful to insert a picture before the first chapter, which otherwise would
