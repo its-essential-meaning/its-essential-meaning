@@ -5,14 +5,14 @@
 
 *(a.)* The English word ‘mind’ is rather carelessly used to denote the Pali
 terms _mano_ and __citta__. __Mano__, in strict terminology, refers to a
-particular base (__āyatana__) just as much as _cakkhu_ (eye) does. On
+particular base __(āyatana)__ just as much as _cakkhu_ (eye) does. On
 the basis of these certain perceptions come about Based on the eye there
 is seeing; likewise based on _mano_ there is thinking. That is why the
 Buddha always teaches six such bases -- these being the six internal
-bases (__ajjattikāni āyatanani__), viz., eye-base (__cakkhāyatana__),
-ear-base (__sotāyatana__), nose-base (__ghānāyatana__), tongue-base
-(__jivhāyatana__), body-base (__kāyāyatana__) and mind-base
-(__manāyatana__).
+bases __(ajjattikāni āyatanani)__, viz., eye-base __(cakkhāyatana)__,
+ear-base __(sotāyatana)__, nose-base __(ghānāyatana)__, tongue-base
+__(jivhāyatana)__, body-base __(kāyāyatana)__ and mind-base
+__(manāyatana)__.
 
 The eye-base refers to two very conspicuous round lumps of flesh
 situated in the head; the ear-base refers to a membrane called the
@@ -65,10 +65,10 @@ this applies to the use of the triad in the _Kukkuravatiya Sutta_ too.
 == III. Attā
 
 It will be seen that the Buddha does not give much weight to the many
-speculations regarding ‘self’ (__attā__). He just dismisses them as
-wrong views (__miccādiṭṭhi__). What he *does* give weight to is the
+speculations regarding ‘self’ __(attā)__. He just dismisses them as
+wrong views __(miccādiṭṭhi)__. What he *does* give weight to is the
 *notion* of ‘self’, which fundamentally is nothing but a notion of
-mastery (__vasa__), or in other words, a notion of existing **as desired**.
+mastery __(vasa)__, or in other words, a notion of existing **as desired**.
 Some thing is considered as ‘self’ means that thing is
 considered as being readily amenable to altering its existence to suit
 one's wish.
@@ -88,25 +88,25 @@ he has mastery over the Five Grasping Groups. He is constantly thinking
 and acting as if he wields power over these Groups. And the many
 speculations about ‘self’ have their origin also in this notion of
 mastery, a notion for which the _puthujjana_ has passion. He is
-possessed (__pariyuṭṭhaṭṭhāyī__) by it. His very being is sunk in this
+possessed __(pariyuṭṭhaṭṭhāyī)__ by it. His very being is sunk in this
 notion. When this notion is removed there is no room whatever for any of
 the speculations regarding ‘self’ to arise.
 
 When one sees that this notion of mastery is a false notion, or that one
 has really no power over the Grasping Groups to make them behave in
 accordance with one's wishes, or again that the Grasping Groups are
-Not-self (__anattā__), then one begins to get tired of them, to get
-wearied (__nibbida__) of them, to be disenchanted with them, to be
-detached (__virāga__) from them. This seeing leads one on
-(__opanayika__) to seeing Suffering and the cessation of Suffering.
+Not-self __(anattā)__, then one begins to get tired of them, to get
+wearied __(nibbida)__ of them, to be disenchanted with them, to be
+detached __(virāga)__ from them. This seeing leads one on
+__(opanayika)__ to seeing Suffering and the cessation of Suffering.
 
-This notion of mastery is also immediately visible (__sandiṭṭhika__) in
+This notion of mastery is also immediately visible __(sandiṭṭhika)__ in
 one's experience. As against this none of the many speculations about
 ‘self’ are either _opanayika_ or __sandiṭṭhika__. This should also make
 it clear why the Buddha pays hardly any attention to these many
 speculations.
 
-Holding to belief in ‘self’ (__attavādupādana__) is dependent on
+Holding to belief in ‘self’ __(attavādupādana)__ is dependent on
 __bhava-taṇhā__. The stronger the individual's _bhava-taṇhā_ is the
 harder does he adhere to some view or other about ‘self’.
 
@@ -194,9 +194,9 @@ find a way out. In this attempt he gets very close to the view of **no existence
 Nevertheless, having _sakkāyadiṭṭhi_, he cannot doubtlessly
 accept that he does not exist. He is therefore caught in a duality -- the
 duality of *is* and *is not* -- a duality which in extremist thinking points
-to eternalism (_sasata_) on the one hand and to nihilism (_uccedha_) on the
+to eternalism __(sasata)__ on the one hand and to nihilism __(uccedha)__ on the
 other. So, without applying his view of nihilism to present living he
-goes beyond (_atidhāvati_) and applies it to a future time, i.e. to after
+goes beyond __(atidhāvati)__ and applies it to a future time, i.e. to after
 death. He does so because he thinks he has better reason to apply his
 view to after death than to present living. He therefore consoles
 himself and falls into complacency by thinking that he will be fully and
@@ -334,12 +334,12 @@ ____
 Here again, we see the Buddha indicating Suffering and its cessation.
 The latter part of this passage wherein the Buddha exhorts the disciple
 to regard the Mode as ‘Not, this is mine; not, this am I; not, this is
-my self’ and thereby detach his thinking (_cittaṁ virājeti_) from the Mode
-has meaning *only* from the fact of the Mode being grasped (_upādinnaṁ_).
+my self’ and thereby detach his thinking __(cittaṁ virājeti)__ from the Mode
+has meaning *only* from the fact of the Mode being grasped __(upādinnaṁ)__.
 If the word _upādinnaṁ_ is reckoned to mean ‘because of’ or ‘derived from’
 the whole meaning and purpose of the Sutta passage is lost. It is
 because the Mode is grasped (i.e. it is considered as ‘mine’ and the
-individual has attachment (_rāga_) to it) that he has to regard it as
+individual has attachment __(rāga)__ to it) that he has to regard it as
 ‘Not, this is mine; not, this am I; not, this is my self’ and get
 detached from it.
 
@@ -405,13 +405,13 @@ seen. When their invalidity is seen the questions are no longer asked.
 Thus does the Buddha rescue the thinker from frustration -- not by
 answering unanswerable questions, but by bringing him to the *cessation*
 of all such questions. That is also why the Buddha's Teaching is ‘beyond
-the world’ (_lokuttara_). It is beyond the world of the _puthujjana_, and
+the world’ __(lokuttara)__. It is beyond the world of the _puthujjana_, and
 hence beyond his comprehension.
 
 == XII. Dassana
 
 ln the _Sabbāsava Sutta_ (https://suttacentral.net/mn2/en/bodhi[MN 2]), it is said that adherence to
-rites and ritual, doubt, and ‘person’-view are to be laid aside by *seeing* (__dassana__).
+rites and ritual, doubt, and ‘person’-view are to be laid aside by *seeing* __(dassana)__.
 
 This means, that one has to *see* that adherence to rites and ritual,
 doubt (about the Dhamma), and having ‘person’-view prevent the cessation
@@ -421,7 +421,7 @@ or logical thinking. Nor is it to be achieved by any kind of scholarly
 analysis. Only a sustained effort at looking deep down into the very
 depths of one's own personal existence, can bring about this **seeing**.
 Actually, with this seeing the Four Noble Truths are also seen; and this
-is what is meant by the arising of the Dhamma-Eye (_dhammacakkhuṁ udapādi_).
+is what is meant by the arising of the Dhamma-Eye __(dhammacakkhuṁ udapādi)__.
 
 Further if one is to enter the Path adherence to rites and ritua1, doubt
 and ‘person’-view must be done away with. For this reason it is a
@@ -469,8 +469,8 @@ ____
 
 == XIV. OPANAYIKA
 
-The Buddha said that the Dhamma is well said (_svākhāto_) and leading on
-(_opanayiko_). It leads on to seeing Suffering and the cessation of
+The Buddha said that the Dhamma is well said __(svākhāto)__ and leading on
+__(opanayiko)__. It leads on to seeing Suffering and the cessation of
 Suffering, and of course to the subsequent experiencing of the cessation
 of Suffering. These characteristics of the Dhamma, which are well
 portrayed in the Suttas, are however missing in a very large part of the

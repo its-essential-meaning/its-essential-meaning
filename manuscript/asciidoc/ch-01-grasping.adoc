@@ -59,18 +59,18 @@ of Consciousness involved (eye-consciousness, ear-consciousness, etc.).
 
 [quote, role=quote]
 ____
-And what, monks, is Perception (__saññā__)? It is these six
+And what, monks, is Perception __(saññā)__? It is these six
 perception-groups namely: sight-perception, sound-perception,
 smell-perception, taste-perception, touch-perception, idea-perception
-(__dhammasaññā__). This is called Perception.
+__(dhammasaññā)__. This is called Perception.
 
-And what, monks, are Determinations (__sankhārā__)? It is these six
-intention-groups (__cetanākāya__), namely: intention with regard to
+And what, monks, are Determinations __(sankhārā)__? It is these six
+intention-groups __(cetanākāya)__, namely: intention with regard to
 sight, intention with regard to sound, intention with regard to smell,
 intention with regard to taste, intention with regard to touch,
 intention with regard to ideas. These, monks are called Determinations.
 
-And what, monks, is Consciousness (__viññāna__)? It is these six
+And what, monks, is Consciousness __(viññāna)__? It is these six
 consciousness-groups, namely: eye-consciousness, ear-consciousness,
 nose-consciousness, tongue-consciousness, body-consciousness,
 mind-consciousness. This, monks, is called Consciousness.
@@ -112,7 +112,7 @@ abundance of Consciousness’ -- that is not possible.
 ____
 
 Before proceeding any further it is extremely important to understand
-clearly what the Buddha defines as Grasping (__upādāna__), or as
+clearly what the Buddha defines as Grasping __(upādāna)__, or as
 Holding.
 
 The difference between life and inanimate things is that in the former
@@ -120,7 +120,7 @@ there is *intention*. All conscious action is *intentional*, whilst
 action pertaining to inanimate things is devoid of intention.
 
 Now, in the context of the Five Grasping Groups, the Buddha defines the
-Group of Determinations as the Group of Intention (__cetanā__). But why
+Group of Determinations as the Group of Intention __(cetanā)__. But why
 does he describe it is a *Grasping* Group? The rest of mankind has seen
 Intention as either good or bad intention, moral or immoral intention,
 and so on. Nevertheless the Buddha appears to see something far more
@@ -131,8 +131,8 @@ and the same character. They are all forms of Grasping.
 
 What then is Grasping?
 
-And what precisely is the difference between Grasping (__upādāna__) and
-Intention (__cetanā__)?
+And what precisely is the difference between Grasping __(upādāna)__ and
+Intention __(cetanā)__?
 
 This, more than any other, is the fundamental question posed by the
 Buddha's Teaching.

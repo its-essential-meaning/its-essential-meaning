@@ -9,13 +9,13 @@ derived.
 Below are six important uses of this word found in the Suttas:
 
 Firstly, it is the name given to the fourth Group
-(__saṅkhāra-kkhandha__) which has been translated as the Group of
+__(saṅkhāra-kkhandha)__ which has been translated as the Group of
 Determinations. This fourth Group is defined as __cetanā-kāya__, i.e.,
 as intention-group. Thus, in the context of the fourth Group, _saṅkhāra_
-is synonymous with intention (__cetanā__).
+is synonymous with intention __(cetanā)__.
 
 Secondly, in the context of the Doctrine of Dependent Arising
-(__paṭiccasamuppāda__) where it occurs in __saṅkhārapaccayā viññānaṁ__,
+__(paṭiccasamuppāda)__ where it occurs in __saṅkhārapaccayā viññānaṁ__,
 it is defined as bodily-__saṅkhāra__, verbal-__saṅkhāra__ and
 mental-__saṅkhāra__ thus:
 
@@ -44,7 +44,7 @@ verbal-__saṅkhāra__? For what reason are Perception and Feeling the
 mental-__saṅkhāra__?”
 
 “Friend, Visākha, in-breathing and out-breathing are corporeal. These
-are *closely connected with* (__paṭibaddhā__) the body. Therefore they are
+are *closely connected with* __(paṭibaddhā)__ the body. Therefore they are
 bodily-__saṅkhāra__. Having earlier had discursive thinking, one
 subsequently utters words. Therefore discursive thinking is
 verbal-__saṅkhāra__. Perception and Feeling are mental. These are
@@ -94,7 +94,7 @@ Fifthly, the __Khajjaniya Sutta__ identifies _saṅkhāra_ as the fourth Group t
 
 [quote, role=quote]
 ____
-Why, monks, do ye say __sahkhāra__? They determine (__abhisaṅkaronti__)
+Why, monks, do ye say __sahkhāra__? They determine __(abhisaṅkaronti)__
 the determined. That is why they are called __saṅkhāra__. What is the
 determined that they determine? Determined Form do they determine in
 accordance with the nature of Form. Determined Feeling do they determine
@@ -109,7 +109,7 @@ why they are called __saṅkhāra__.
 ____
 
 Sixthly, in the _Mahāvedalla Sutta_ (https://suttacentral.net/mn43/en/sujato[MN 43]) heat is called a life-__saṅkhāra__,
-as that on which depends (__paṭicca__) life.
+as that on which depends __(paṭicca)__ life.
 
 It might assist the reader to see the above mentioned relationships
 better if they are presented in the following manner:
@@ -155,7 +155,7 @@ the necessary condition is gone, then the thing is also gone. This is a
 *structural principle*.
 
 It should also be clearly understood that _saṅkhāra_ do not refer to the
-things (__dhammā__) for which they form necessary condition. The things
+things __(dhammā)__ for which they form necessary condition. The things
 that are determined or upbuilt with the _saṅkhāra_ as necessary
 condition are called _saṅkhatā dhammā_ (determined things). These
 _saṅkhatā dhammā_ are, however, *of the nature of saṅkhāra*. That is

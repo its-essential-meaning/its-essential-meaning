@@ -54,8 +54,8 @@ leading to betrayal, to disappointment. Betrayal and disappointment are
 the inevitable outcome of adhering to a deception.
 
 Now, the _puthujjana_ has __attavādupādāna__. That is to say, the
-_puthujjana_ holds (__upādāna__) to belief (__vāda__) in ‘self’
-(__attā__).footnote:[Holding to belief in ‘self’ essentially means
+_puthujjana_ holds __(upādāna)__ to belief __(vāda)__ in ‘self’
+__(attā)__.footnote:[Holding to belief in ‘self’ essentially means
 holding to belief in a master.] Because he holds to this belief in
 ‘self’ he keeps looking for something which he can *identify* as this
 his ‘self’.footnote:[To ‘identify something as his “self“’ essentially
@@ -71,7 +71,7 @@ one or more of the Groups as ‘self’.footnote:[To view the Groups as
 he has gone to wrong view. He has gone to the wrong view that one or
 more of his Groups is ‘self’. Having thus gone to a wrong view he
 elaborates on the view and formulates a distinction between himself and
-the rest thus: ‘The self, the world’ (__attā ca loko ca__). And he
+the rest thus: ‘The self, the world’ __(attā ca loko ca)__. And he
 further keeps deliberating about himself (that is about the Five
 Grasping Groups regarded as ‘self’) thus:
 
@@ -112,14 +112,14 @@ transitory, stands unchanging as an eternal thing’.
 -- https://suttacentral.net/mn2/en/bodhi[MN 2], All the Taints
 ____
 
-Thus he is gone to (wrong) view, or he is of (wrong) view (__diṭṭhigata__).
+Thus he is gone to (wrong) view, or he is of (wrong) view __(diṭṭhigata)__.
 
 All this deliberating about ‘self’ is because he is attached to a belief
 in ‘self’, because he has desire and passion towards ‘self’. If he does
 not hold to a belief in ‘self’, these deliberations do not arise.
 
 This regarding or viewing the Grasping Groups as ‘self’ in some way or
-other is called the ‘person’-view (__sakkāyadiṭṭhi__).
+other is called the ‘person’-view __(sakkāyadiṭṭhi)__.
 
 [quote, role=quote]
 ____
@@ -140,7 +140,7 @@ Thus, friend Visākha, it is said there is the ‘person’-view.”
 -- https://suttacentral.net/mn44/en/sujato[MN 44], The Shorter Classification
 ____
 
-But why say ‘*person*’-view (__sakkāyadiṭṭhi__)?
+But why say ‘*person*’-view __(sakkāyadiṭṭhi)__?
 
 _Sakkāya_ means ‘person’, ‘somebody’, a ‘self-existing
 being’.footnote:[It does not matter very much what word we use as the
@@ -204,7 +204,7 @@ The Five Grasping Groups constantly recognizes itself as ‘self’. It is
 its very nature. And the apparent ‘self’, or that which appears as
 ‘self’ is taken as it appears and is identified as ‘self’.
 
-_Sakkāyadiṭṭhi_ is a determined thing (__saṅkhata dhamma__), because it
+_Sakkāyadiṭṭhi_ is a determined thing __(saṅkhata dhamma)__, because it
 has come about with _attavādupādāna_ as necessary condition. Here,
 _attavādupādana_ is a __saṅkhāra__. As a _saṅkhāra_ it is the necessary
 condition for __sakkāyadiṭṭhi__. Without _attavādupādāna_ there can be
@@ -218,12 +218,12 @@ regarding of anything as ‘self’ will arise. The _puthujjana_ does not
 see this. He does not see that his _sakkāyadiṭṭhi_ is dependent on a
 _saṅkhāra_ and that all _saṅkhāras_ are *impermanent*. But if he sees
 that the _saṅkhāra_ called holding to belief in ‘self’
-(__attavādupādāna__) is impermanent then the _saṅkhāra_ will cease, and
+__(attavādupādāna)__ is impermanent then the _saṅkhāra_ will cease, and
 he will no longer be deceived into believing in any ‘self’. When
 _attavādupādāna_ ceases his identification of the sentient being as self
 ceases, which means _sakkāyadiṭṭhi_ ceases and he ceases to be a
 __puthujjana__. He has then crossed from the plane of the _puthujjana_
-(__puthujjana bhūmi__) to the plane of the Noble (__ariya bhūmi__).
+__(puthujjana bhūmi)__ to the plane of the Noble __(ariya bhūmi)__.
 
 Of the three notions ‘This is mine, this am I, this is my self’, the
 most fundamental one is ‘*this is mine*’. In the Discourse on __The
@@ -283,7 +283,7 @@ __sakkāyadiṭṭhi__.
 
 The notion of ‘self’ is secondary to ‘mine’ and ‘I’. It is like a coarse
 layer that lies over the conceit ‘I am’. Before getting rid of the
-conceit ‘I am’ (__asmimāna__), holding to belief in ‘self’ is got rid
+conceit ‘I am’ __(asmimāna)__, holding to belief in ‘self’ is got rid
 of. The Ariyan disciple (who is a __sotāpanna__), seeing fully well how
 _sakkāyadiṭṭhi_ arises, has got rid of it. That is to say, he no longer
 regards anything as ‘self’. But until he becomes Arahat the subtle

@@ -2,11 +2,11 @@
 = 8. Impermanence
 
 Invariably, one imagines all too soon that one understands and perceives
-the Buddha's doctrine of Impermanence (__aniccatā__). But the
+the Buddha's doctrine of Impermanence __(aniccatā)__. But the
 impermanence that the Buddha teaches is not the impermanence that one
 sees around oneself. It is something far more subtle than that.
 
-The meaning of the word _anicca_ (__a-nicca__) is not-permanent. It says
+The meaning of the word _anicca_ __(a-nicca)__ is not-permanent. It says
 nothing more.
 
 In reflection, the thinker is not averse to accepting that things are
@@ -56,13 +56,13 @@ Now, the Buddha teaches:
 [quote, role=quote]
 ____
 Monks, there are these three
-Determined-characteristics of the Determined (__saṅkhata__). What
+Determined-characteristics of the Determined __(saṅkhata)__. What
 three? Arising is to be discerned, passing away is to be discerned,
 otherwise-ness in persistence is to be discerned. These are the three
 Determined-characteristics of the __Determined__.
 
 Monks, there are these three Not-Determined-characteristics
-of the Not-Determined (__asaṅkhata__). What three? Arising is not to
+of the Not-Determined __(asaṅkhata)__. What three? Arising is not to
 be discerned, passing away is not to be discerned, otherwise-ness in
 persistence is not to be discerned. These are the three
 Not-Determined-characteristics of the Not-Determined.
@@ -71,7 +71,7 @@ Not-Determined-characteristics of the Not-Determined.
 ____
 
 In understanding the above we must remember what the Buddha refers to as
-the Determined (__saṅkhata__) and the Not-Determined (__asaṅkhata__).
+the Determined __(saṅkhata)__ and the Not-Determined __(asaṅkhata)__.
 It is very easy for us to assume that what the Buddha
 taught can be applied in full to each and every thing that lies outside
 the domain of his Teaching. But it is very dangerous. We must know
@@ -93,7 +93,7 @@ What now is the Determined?
 As the _Khajjanīya Sutta_ tells us (https://suttacentral.net/sn22.79/en/bodhi[SN 22.79]), it is the Five Grasping Groups. This
 means that it refers to the ‘person’, or to ‘self’, or to the subject
 ‘I’. These are all determined things. Hence they are called the
-Determined (__saṅkhata__). Of all the things that have been determined
+Determined __(saṅkhata)__. Of all the things that have been determined
 the most important thing is ‘my self’, and it is precisely in *this*
 that the problem of Suffering lies. The Buddha is not teaching anything
 other than about this problem either.
@@ -101,13 +101,13 @@ other than about this problem either.
 Let us now see how the three characteristics of the Determined as
 taught by the Buddha apply to the Determined, particularly the
 characteristic which he refers to as ‘otherwise-ness in persistence’
-(__ṭhitassa aññathattaṁ__).
+__(ṭhitassa aññathattaṁ)__.
 
-_Ṭhitassa aññathattaṁ_ means otherwise-ness (__aññathattaṁ__) in
-persistence (__ṭhitassa__). It is commonly thought that this refers to
-decay (__jarā__). But it does not refer to decay. It refers to something
-much more fundamental than decay. Appearance (__uppāda__), disappearance
-(__vayo__), and otherwise-ness in persistence (__ṭhitassa aññathattaṁ__)
+_Ṭhitassa aññathattaṁ_ means otherwise-ness __(aññathattaṁ)__ in
+persistence __(ṭhitassa)__. It is commonly thought that this refers to
+decay __(jarā)__. But it does not refer to decay. It refers to something
+much more fundamental than decay. Appearance __(uppāda)__, disappearance
+__(vayo)__, and otherwise-ness in persistence __(ṭhitassa aññathattaṁ)__
 are three characteristics that are fundamental to all Grasping Groups at
 *all* times and not merely at time of decay. The essential idea in the
 word ‘persistence’ is really permanence or unchange. A thing persists
@@ -153,7 +153,7 @@ The Not-Determined is defined as follows:
 [quote, role=quote]
 ____
 The destruction of lust, the destruction of hatred, the destruction of
-delusion -- this, monks, is called the Not-Determined (__asaṅkhata__).
+delusion -- this, monks, is called the Not-Determined __(asaṅkhata)__.
 
 -- https://suttacentral.net/sn43.12/en/bodhi[SN 43.12], The Unconditioned
 ____
@@ -214,9 +214,9 @@ ____
 It is *the* distinction that has to be seen.footnote:[The ordinary man cannot
 distinguish between individuality and ‘person’-ality. T0 him, there is
 always only a ‘person’-ality, and individuality is identical with it.
-The Arahat is an individual (__puggala__) in that there is distinct set of
+The Arahat is an individual __(puggala)__ in that there is distinct set of
 Five Groups as separate from another set, but there being no Grasping,
-he is not a ‘person’ (__sakkāya__).]
+he is not a ‘person’ __(sakkāya)__.]
 
 The difference between life-action and the action of inanimate things is
 the presence of intentionality in life-action. Intention is present only
@@ -253,16 +253,16 @@ disappearance, and no otherwise-ness in persistence.
 
 In teaching Suffering and the cessation of Suffering, the Buddha teaches
 the _saṅkhata_ and the __asaṅkhata__. _Saṅkhata_ refers to the ‘person’
-(__sakkāya__) which is a Suffering, and _asaṅkhata_ refers to the
-Arahat, which is the cessation of the ‘person’ (__sakkāyanirodha__) or
+__(sakkāya)__ which is a Suffering, and _asaṅkhata_ refers to the
+Arahat, which is the cessation of the ‘person’ __(sakkāyanirodha)__ or
 the cessation of Suffering.
 
 image::sectionbreak.png[]
 
-Be it again noted that the problem of ‘self’ (__attā__) is of
+Be it again noted that the problem of ‘self’ __(attā)__ is of
 considerably greater difficulty than it is generally supposed to be. So
-are the problems of Impermanence (__anicca__) and Suffering
-(__dukkha__).
+are the problems of Impermanence __(anicca)__ and Suffering
+__(dukkha)__.
 
 ‘Self’ is not an indefiniteness. It is a *deception*, and a deception
 (a mirage, for example) can be as definite as one pleases. The only
@@ -273,7 +273,7 @@ right, though the phenomenon is **not**-water. I am only *deceived* in
 thinking that it is water. To understand the phenomenon of the sun
 shining on the sand I must realize that it is not-water. So is it with
 ‘self’. The deception of ‘self’ is there. I must understand that the
-phenomenon I take to be ‘self’ is Not-self (__anattā__). The Five
+phenomenon I take to be ‘self’ is Not-self __(anattā)__. The Five
 Grasping Groups are taken to be ‘self’ though in truth they are not. I
 must therefore see that the Five Grasping Groups are Not-self.
 
@@ -322,9 +322,9 @@ things. In its persistence there is a distinctiveness to be seen, a
 being different to all other things -- ‘the self, the world’ (__attā ca
 loko ca__).
 
-Impermanence (__aniccatā__) is seen in its essential and effective
+Impermanence __(aniccatā)__ is seen in its essential and effective
 meaning, and is seen *for certain*, only when Not-Self-ness
-(__anattatā__) is also seen and recognized, simply because one thinks
+__(anattatā)__ is also seen and recognized, simply because one thinks
 that whatever else in the world is impermanent one's ‘self’ is
 permanent. Everything to the seer is impermanent except the seer
 himself! What after all is the significance of Impermanence if it does

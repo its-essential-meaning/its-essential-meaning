@@ -26,8 +26,8 @@ experiences it.
 To the extent the _sekha_ experiences the Teaching, to that extent does
 he see the Teaching better. His seeing is still imperfect and his
 cultivation of the Four Applications of Mindfulness{empty}footnote:[See <<ch-16-satipatthana.adoc#start,Chapter 16: On the Four Applications of Mindfulness>>] is only partial
-(__catunnaṁ kho āvuso satipaṭṭhānānaṁ padesaṁ bhāvitattā__)footnote:[https://suttacentral.net/sn47.26/en/bodhi[SN 47.26], Partly]
-as against that of the _asekha_ which is complete (__satipaṭṭhānānaṁ samattaṁ bhāvitattā__).footnote:[https://suttacentral.net/sn47.27/en/bodhi[SN 47.27], Completely]
+__(catunnaṁ kho āvuso satipaṭṭhānānaṁ padesaṁ bhāvitattā)__footnote:[https://suttacentral.net/sn47.26/en/bodhi[SN 47.26], Partly]
+as against that of the _asekha_ which is complete __(satipaṭṭhānānaṁ samattaṁ bhāvitattā)__.footnote:[https://suttacentral.net/sn47.27/en/bodhi[SN 47.27], Completely]
 He, the __sekha__, can see a part of the
 Teaching without experiencing it. But seeing and understanding in the
 *fullest* sense comes only with the experience of it. It is therefore to
@@ -122,8 +122,8 @@ Of these eight, the first seven are not yet Arahat. That is, they are
 still not Consummate or Perfect, and have still more work to do. Thus
 they are called _sekhas_ (Learners). But they are all on the Path, and
 are assured of becoming Arahats or Consummate Ones. They have crossed
-from the plane of the _puthujjana_ (__puthujjana-bhūmi__) to the plane
-of the Noble (__ariya-bhūmi__). The last and the eighth, i.e. the
+from the plane of the _puthujjana_ __(puthujjana-bhūmi)__ to the plane
+of the Noble __(ariya-bhūmi)__. The last and the eighth, i.e. the
 Arahat, has done whatever was to be done, has finished training, has
 achieved the goal, has laid down the burden, has attained the Consummate
 state, has attained __Nibbāna__. He is therefore _asekha_ (Learning-ender).
@@ -133,10 +133,10 @@ individuals.footnote:[https://suttacentral.net/an9.9/en/sujato[AN 9.9], Persons]
 If we take into account the two types of _puthujjanas_ we then have ten kinds of individuals.
 
 It will be seen that of the seven _sekhas_ there are fruit-attainers
-(__phala-lābhi__), i.e. the __sotāpanna__, the _sakadāgāmi_ and the
+__(phala-lābhi)__, i.e. the __sotāpanna__, the _sakadāgāmi_ and the
 __anāgāmi__. The remaining four are practising for the realization of
 the corresponding fruit. Thus they are called path-attainers
-(__magga-lābhi__). They have attained to the path which will lead them
+__(magga-lābhi)__. They have attained to the path which will lead them
 to the corresponding fruit. The _asekha_ is also a fruit-attainer. He
 has attained to the fruit of Arahatship. The notion that the attainment
 of the fruit is immediately followed by the attainment of the path is
@@ -167,20 +167,20 @@ path-attainer or a fruit-attainer progresses towards the goal.
 The Buddha teaches that there are ten fetters which bind beings to
 __bhava__, and the _sekhas_ who are fruit-attainers are generally
 described in terms of the various fetters they have broken. These
-fetters are (1) ‘person’-view (__sakkāyadiṭṭhi__), (2) Doubt
-(__vicikicchā__), (3) Practice of rites and ritual
-(__sīlabbata-parāmāso__), (4) Desire for sense-pleasure
-(__kāmacchando__), (5) Ill-will (__vyāpāda__), (6) Attachment to Form
-(__rūparāgo__), (7) Attachment to no-Form (__arūparāgo__), (8) Conceit
-(__māno__), (9) Restlessness (__uddhaccaṁ__), and (10) Ignorance
-(__avijjāṁ__). The first five are described as lower fetters
-(__orambhāgiyāni saññojanāni__) whilst the other five are described as
-higher fetters (__uddhambhāgiyāni saññojanāni__).footnote:[https://suttacentral.net/an10.13/en/bodhi[AN 10.13], Fetters]
+fetters are (1) ‘person’-view __(sakkāyadiṭṭhi)__, (2) Doubt
+__(vicikicchā)__, (3) Practice of rites and ritual
+__(sīlabbata-parāmāso)__, (4) Desire for sense-pleasure
+__(kāmacchando)__, (5) Ill-will __(vyāpāda)__, (6) Attachment to Form
+__(rūparāgo)__, (7) Attachment to no-Form __(arūparāgo)__, (8) Conceit
+__(māno)__, (9) Restlessness __(uddhaccaṁ)__, and (10) Ignorance
+__(avijjāṁ)__. The first five are described as lower fetters
+__(orambhāgiyāni saññojanāni)__ whilst the other five are described as
+higher fetters __(uddhambhāgiyāni saññojanāni)__.footnote:[https://suttacentral.net/an10.13/en/bodhi[AN 10.13], Fetters]
 
 The first fruit-attainer is called _sotāpanno_ (Stream-entrant). He has
 destroyed the first three fetters of ‘person’-view, doubt, and practice
 of rites and ritual. Entered the Stream (i.e. entered the __sota__)
-means got on to the Noble Eightfold Path, the Stream (__sota__) being
+means got on to the Noble Eightfold Path, the Stream __(sota)__ being
 defined as this path:
 
 ____
@@ -214,11 +214,11 @@ As stated earlier they are both incapable of passing away without realizing the 
 Stream-entrance, i.e., without becoming __sotāpanna__.
 
 The maximum number of lives left for the _sotāpanna_ is seven
-(__sattakkhattuṁ paramatā__). Further, none of these seven lives will be
+__(sattakkhattuṁ paramatā)__. Further, none of these seven lives will be
 in an unfortunate sphere. He is assured of _Nibbāna_ or Enlightenment
-within this period (__niyato sambodhi-parāyano__). The _sakadāgāmi_ returns
+within this period __(niyato sambodhi-parāyano)__. The _sakadāgāmi_ returns
 once more to this world and accomplishes the destruction of Suffering
-(__sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karoti__). The __anāgāmi__,
+__(sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karoti)__. The __anāgāmi__,
 when he dies here, will be reborn spontaneously in the Pure Abodes and
 attains to Extinction there.footnote:[https://suttacentral.net/an3.88/en/sujato[AN 3.88: Training (3rd)] and https://suttacentral.net/an3.89/en/sujato[AN 3.89: Three Trainings (1st)]]
 
@@ -226,7 +226,7 @@ All this means that, as a cart pushed just over the hilltop will roll
 down by its own weight without extra effort, so will the _sotāpanna_ in
 any case end up in _Nibbāna_ within a maximum of seven further lives.
 The Buddha however exhorts all _sekhas_ to act with diligence
-(__appamādena karaṇīyan__) and try to make an end of it all in this life
+__(appamādena karaṇīyan)__ and try to make an end of it all in this life
 itself by attaining Arahatship.
 
 ____

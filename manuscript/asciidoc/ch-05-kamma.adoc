@@ -29,7 +29,7 @@ action, but no __kamma__. *Kamma is the non-Arahat's intentional
 action.* Of the Arahat the Buddha says: ‘He does not commit new
 __kamma__.’footnote:[Of all the many things about _kamma_ the Buddha has
 taught, such as the various types of _kamma_ and their various fruits
-(__vipāka__), this is the most important. It is also the most
+__(vipāka)__, this is the most important. It is also the most
 fundamental thing about it.]
 
 Ethics is concerned with the question of ‘what should *I* do’. Whether
@@ -57,7 +57,7 @@ The Buddha teaches the arising and ceasing of _kamma_ thus:
 [quote, role=quote]
 ____
 Monks, were there _kamma_ performed in lust, born of lust, conditioned
-by lust, arising from lust -- that _kamma_ is unskilful (__akusala__),
+by lust, arising from lust -- that _kamma_ is unskilful __(akusala)__,
 that _kamma_ is blameworthy, that _kamma_ has pain as fruit, that
 _kamma_ leads to the arising of (further) __kamma__. That _kamma_ does
 not lead to the cessation of __kamma__. Monks, were there _kamma_
@@ -68,7 +68,7 @@ the ceasing of __kamma__. These, monks, are the three conditions for the
 arising of __kamma__.
 
 Monks, were there _kamma_ performed with non-lust, conditioned by
-non-lust, arising from non-lust -- that _kamma_ is skilful (__kusala__),
+non-lust, arising from non-lust -- that _kamma_ is skilful __(kusala)__,
 that _kamma_ is praiseworthy, that _kamma_ has happiness as fruit, that
 _kamma_ leads to the ceasing of __kamma__. That _kamma_ does not lead to
 the arising of __kamma__. Monks, were there _kamma_ performed with

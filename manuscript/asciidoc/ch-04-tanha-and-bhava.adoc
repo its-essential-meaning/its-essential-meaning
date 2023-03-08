@@ -38,8 +38,8 @@ _Kāma_ is sense-pleasure,footnote:[Pleasure, it should be noted, is not
 the feeling born of the senses. One can take pleasure in a feeling or
 not take pleasure in it. Thus pleasure is a matter of one's mental
 attitude. The Buddha said that his mind was freed from the Taint of
-sense-pleasure (__kāmāsavāpi cittaṁ vimuccitva__). Sight, sound, smell,
-taste and touch are the strands of sense-pleasure (__kāmagunā__).] i.e.,
+sense-pleasure __(kāmāsavāpi cittaṁ vimuccitva)__. Sight, sound, smell,
+taste and touch are the strands of sense-pleasure __(kāmagunā)__.] i.e.,
 the pleasure connected with the senses. Wanting pleasure that arises in
 connection with one or more of the senses is called __kāma-taṇhā__.
 
@@ -57,7 +57,7 @@ The unique discovery that the Buddha made was just this: there could be
 Five Groups *without* Grasping. In other words, there could be an
 individual (i.e., as distinct from other individuals) who has no notion
 whatever of ‘self’, ‘I’ and ‘mine’. This individual is called Arahat
-(__arahaṁ__). *The Arahat does not consider anything whatever as
+__(arahaṁ)__. *The Arahat does not consider anything whatever as
 ‘mine’.* The Buddha experienced this state of affairs in himself. Thus
 he was the first Arahat to have appeared in the world in our time.
 
@@ -77,7 +77,7 @@ and ‘mine’ there can be no such thing as ‘my existence’ and so on.
 To speak very precisely, _bhava_ is the existence of the notions ‘self’
 and ‘I’. Something is, of course, always identified as ‘self’ and ‘I’,
 which again, is one or more of the Five Grasping Groups. But _bhava_ is
-really a matter of one's thinking just as much as Grasping (__upādāna__)
+really a matter of one's thinking just as much as Grasping __(upādāna)__
 is.footnote:[This should not lead the reader to think that since _bhava_
 and _upādāna_ are really a matter of one's thinking they can be easily got
 rid of if necessary. If one completely gets rid of the thought ‘mine’ so
@@ -101,7 +101,7 @@ conversation. But that is all. They are expressions current in the world
 of which he makes use, but he is not at all affected by them.
 
 The tendency to the conceit ‘I’ and ‘mine’
-(__ahaṅkāramamaṅkāramānānusaya__) is not always apparent, for it is not
+__(ahaṅkāramamaṅkāramānānusaya)__ is not always apparent, for it is not
 always on the surface. It lies deep-rooted and latent. It is something
 that one perceives only when one reflects upon it. One does not perceive
 it at all times even though it is present at all times lying behind
@@ -135,7 +135,7 @@ degree or other.
 
 If the precise meaning of _bhava_ is not understood there can be much
 confusion with regard to the Buddha's Teaching, particularly when it
-comes to the Doctrine of Dependent Arising (__paṭiccasamuppāda__). The
+comes to the Doctrine of Dependent Arising __(paṭiccasamuppāda)__. The
 Teaching will then become either a matter of faith, which will remain
 beyond reach here, or a hypothesis left for future verification. But the
 Buddha's Teaching is neither a matter of faith nor a matter of
@@ -166,7 +166,7 @@ confirmation of existence. It does *not* lead to *cessation* of
 existence.
 
 Since, perhaps, it appears insane to deny existence whilst being
-existent, this tendency to denial is pushed back (__atidhāvati__) to
+existent, this tendency to denial is pushed back __(atidhāvati)__ to
 ‘after death’, and in the following manner a denial of existence is
 made: ‘To the extent, revered Sir, that this self is of Form, is made up
 of the Four Primary Modes, is from the union of the parents, is cut off
@@ -185,7 +185,7 @@ ____
 Those worthy recluses and brahmins
 who lay down for beings the cutting off, the destruction, the denial of
 _bhava_ (of ‘self’-existence), these, afraid of the ‘person’
-(__sakkāya__), loathing the ‘person’, simply keep running and circling
+__(sakkāya)__, loathing the ‘person’, simply keep running and circling
 round the ‘person’. Just as a dog that is tied by a leash to a strong
 post keeps running and circling round the post, so do these worthy
 recluses and brahmins, afraid of the ‘person’, loathing the ‘person’,
@@ -240,8 +240,8 @@ from keeping watch and ward.
 -- https://suttacentral.net/dn15/en/bodhi[DN 15], The Great Discourse on Causation
 ____
 
-Desire (__chanda__), attachment (__rāga__) and delight (__nandi__) have
-also been referred to as Grasping (__upādāna__). ‘Friend, Visākha, that
+Desire __(chanda)__, attachment __(rāga)__ and delight __(nandi)__ have
+also been referred to as Grasping __(upādāna)__. ‘Friend, Visākha, that
 desire and attachment there is in the Five Grasping Groups, that there,
 is the Grasping.’ (https://suttacentral.net/mn44/en/sujato[MN 44])
 And, ‘Whatsoever there
@@ -256,7 +256,7 @@ that can desire something or be attached to it or delight in it.
 __Taṇhā__, desire, attachment, delight, are all supports for __bhava__.
 ‘*I* exist’ or ‘*my* existence’ stands supported by these. _Bhava_
 hangs on these as its ‘cord’. They are called the ‘cord of __bhava__’
-(__bhavanetti__).
+__(bhavanetti)__.
 
 [quote, role=quote]
 ____
@@ -279,7 +279,7 @@ ____
 Just, monks, as when the stalk of a bunch
 of mangoes has been cut, all the mangoes that were hanging on that stalk
 go with it, just so, monks, the body of the Tathāgata stands with the
-cord that binds it to _bhava_ cut (__ucchinnabhavanettiko__).
+cord that binds it to _bhava_ cut __(ucchinnabhavanettiko)__.
 
 -- https://suttacentral.net/dn1/en/bodhi[DN 1], The All-embracing Net of Views
 ____
