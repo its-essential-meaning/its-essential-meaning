@@ -566,6 +566,19 @@ philo-sophical munindo amaravati thai-land}
 \item[]}%
 {\endlist}
 
+\newenvironment{widequote}%
+{\list{}{%
+    \itshape
+    \listparindent 0pt
+    \itemindent    \listparindent
+    \leftmargin    0.5\quoteMargin
+    \rightmargin   0pt
+    \parsep        8pt
+    \topsep        0pt
+    \partopsep     0pt}%
+\item[]}%
+{\endlist}
+
 \newcommand{\quoteTitle}[1]{%
   {%
     \centering\upshape%

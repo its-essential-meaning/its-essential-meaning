@@ -77,35 +77,37 @@ Grasping Groups regarded as ‘self’) thus:
 
 [quote, role=quote]
 ____
-* ‘Was I in the past’,
-* ‘was I not in the past’,
-* ‘who was I in the past’,
-* ‘how was I in the past’,
-* ‘having been who in the past who have I come to be now’,
-* ‘will I be in the future’,
-* ‘will I not be in the future’,
-* ‘who will I be in the future’,
-* ‘how will I be in the future’,
-* ‘being who in the future whom will I be again in the future’.
+‘Was I in the past’, +
+‘was I not in the past’, +
+‘who was I in the past’, +
+‘how was I in the past’, +
+‘having been who in the past who have I come to be now’,
+
+‘will I be in the future’, +
+‘will I not be in the future’, +
+‘who will I be in the future’, +
+‘how will I be in the future’, +
+‘being who in the future whom will I be again in the future’.
 
 About his present existence too he begins to doubt:
 
-* ‘Am I’,
-* ‘am I not’,
-* ‘who am I’,
-* ‘how am I’,
-* ‘from where has this being come’,
-* ‘where is he going’.
+‘Am I’, +
+‘am I not’, +
+‘who am I’, +
+‘how am I’, +
+‘from where has this being come’, +
+‘where is he going’.
 
 Further, one or other of the following views arises in him as though it
 were real and true:
 
-* ‘There is self for me’,
-* ‘there is not self for me’,
-* ‘by self I recognize self’,
-* ‘by self I recognize not-self’,
-* ‘by not-self I recognize self’,
-* or ‘this my self which feels pleasant and unpleasant feelings, reaps the
+‘There is self for me’, +
+‘there is not self for me’, +
+‘by self I recognize self’, +
+‘by self I recognize not-self’, +
+‘by not-self I recognize self’,
+
+or ‘this my self which feels pleasant and unpleasant feelings, reaps the
 fruit of good and bad action, is permanent, steadfast, eternal, not
 transitory, stands unchanging as an eternal thing’.
 
@@ -156,7 +158,9 @@ precise the Five Grasping Groups takes itself to be a __sakkāya__.
 Another word is __satta__. The _puthujjana_ takes himself to be a
 __satta__. _Satta_ or _sakkāya_ refers to the sentient being regarded in
 some way or other as ‘self’. That is, it refers to the Five Grasping
-Groups taken to be ‘self’. It is the __puthujjana__'s concept of the
+Groups taken to be ‘self’.
+
+It is the __puthujjana__'s concept of the
 sentient being. It is his concept of himself. That is why the Five
 Grasping Groups are called __sakkāya__.footnote:[‘What, monks, is the
 __sakkāya__? The Five Grasping Groups are to be so called.’ (https://suttacentral.net/sn22.105/en/sujato[SN 22.105])]
@@ -195,7 +199,7 @@ Grasping Groups, perhaps with the assistance of modern science, he finds
 no self-existing thing in it. Thus quite honestly he comes to the
 conclusion that there is no self in the Five Grasping Groups, and so he
 thinks he has no __sakkāyadiṭṭhi__, which means he now thinks he is a
-__sotāpanna__,footnote:[See Chapter XV for definition of the
+__sotāpanna__,footnote:[See Chapter 15: Rebirth, for definition of the
 __sotāpanna__. At this stage it would be sufficient to know that the
 _sotāpanna_ is not a _puthujjana_ and that he is therefore an __ariya__,
 i.e. he is a Noble.] whilst in truth he really is not.
@@ -227,7 +231,7 @@ __(puthujjana bhūmi)__ to the plane of the Noble __(ariya bhūmi)__.
 
 Of the three notions ‘This is mine, this am I, this is my self’, the
 most fundamental one is ‘*this is mine*’. In the Discourse on __The
-Fundamentals of All Things__ (Majjhima Nikāya 1) the Buddha
+Fundamentals of All Things__ (https://suttacentral.net/mn1/en/bodhi[MN 1]) the Buddha
 narrates at length the many things that the _puthujjana_ takes to be
 ‘mine’. He does *not* include the other two notions of ‘I’ and ‘self’ at
 all in this Discourse.
@@ -259,7 +263,9 @@ consideration ‘mine’ that leads the _puthujjana_ on.
 
 The __puthujjana__, however, works with the assumption that the
 fundamental is ‘I’ and not ‘mine’. Since *he* exists, he thinks things
-are *his*. ’*Since “I“* exist, things are *mine*.’ But the
+are *his*. ‘*Since “I”* exist, things are *mine*.’
+
+But the
 fundamental condition, the Buddha points out, is ‘mine’. The
 _puthujjana_ having Grasping Consciousness, things *present* themselves
 to him as *‘mine’*. And this state of affairs further *points* to a
