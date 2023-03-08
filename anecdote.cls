@@ -169,7 +169,7 @@
   SmallCapsFont = Crimson-Roman.otf,
   SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps, Scale = 0.8, LetterSpace = 0.2 },
   ItalicFont = GentiumPlus-Italic.ttf,
-  BoldFont = GentiumPlus-Bold.ttf,
+  BoldFont = GentiumPlus-BoldItalic.ttf,
   BoldItalicFont = GentiumPlus-BoldItalic.ttf,
 ]{GentiumPlus-Regular.ttf}
 
