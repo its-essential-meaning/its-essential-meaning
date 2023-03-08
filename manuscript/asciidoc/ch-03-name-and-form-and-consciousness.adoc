@@ -152,7 +152,7 @@ book does not remain the book when I am continuing to be conscious of
 them I cannot then distinguish them from each other.
 
 There is a material object.footnote:[‘Material object’ is not quite the
-same as ‘matter’. The former is a particular ‘lump of “matter“’.] This
+same as ‘matter’. The former is a particular ‘lump of “matter”’.] This
 object is *not* dependent on Consciousness. But this object can be
 *present* or *not present*. Its presence is a matter of Consciousness.
 The object being present to the individual means that he is conscious of
@@ -171,7 +171,7 @@ particular Name is *how* the particular object is present
 (Consciousness). It is the *appearance* of the object (the word
 ‘appearance’ being again taken in a rather wide sense). Therefore, we
 can define Name __(nāma)__ as ‘how Form __(rūpa)__ is present
-__(viññāna)__’. The *how* or the *manner* is Name, and the presence is
+__(viññāṇa)__’. The *how* or the *manner* is Name, and the presence is
 Consciousness.
 
 This appearance or ‘how it is present’ is always given a designation
@@ -192,7 +192,7 @@ is __mano__; as mentality, it is __citta__. Thus it is wrong to
 translate _nāma-rūpa_ as ‘mind-and-matter’.
 
 It is not an uncommon thing to find Name __(nāma)__ being taken to
-include Consciousness __(viññāna)__. This is wrong. Name does *not*
+include Consciousness __(viññāṇa)__. This is wrong. Name does *not*
 include Consciousness. It only entails Consciousness.
 
 If we examine this further we shall find that:
@@ -247,7 +247,7 @@ choice*. All other positions are sacrificed and this one position is
 consciously held to. This action, or this exercise of choice, is called
 *Intentional Action*. From the intentional action there comes to be
 *present* the new position. ‘Thus, Ānanda, intentional action is the
-field, Consciousness is the seed.’footnote:[https://suttacentral.net/an3.76/en/thanissaro[AN 3.76], Continued Existence]
+field, Consciousness is the seed.’ (https://suttacentral.net/an3.76/en/thanissaro[AN 3.76])
 Just as the seed springs up out of
 the field the new position becomes present (Consciousness) resulting
 from the intentional action __(kamma)__.
@@ -287,7 +287,7 @@ meant the coming together of the percept, the sense-base and that
 particular sense-consciousness. But with regard to the _puthujjana_
 (commoner)footnote:[_Puthujjana_ refers to the common or ordinary person, to the commoner.]
 what arises is Grasping-Consciousness
-__(upādāna-viññāna)__. Therefore, with the _puthujjana_, Contact is
+__(upādāna-viññāṇa)__. Therefore, with the _puthujjana_, Contact is
 *inclusive* of thoughts of ‘I’ and ‘mine’. That is, there is contact
 between a subject who says ‘I’ and ‘mine’ and the object.
 
@@ -365,7 +365,7 @@ There is a bottle of ink, or I am conscious of a bottle of ink. That is
 the experience.
 
 This means that a Form __(rūpa)__ which appears as a ‘bottle of ink’
-(Name, __nāma__) is present (Consciousness, __viññāna__).
+(Name, __nāma__) is present (Consciousness, __viññāṇa__).
 
 Now, if Feeling, Perception, etc., were absent would there be present a
 ‘bottle of ink’?

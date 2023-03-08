@@ -44,8 +44,8 @@ wherein mind and body are conceived as two things independent of each
 other and together constituting the living individual.
 
 There is also no justification for reckoning _citta_ to be the same as
-__viññāna__. _Citta_ involves __viññāna__. But that does not mean it is
-the same as __viññāna__.
+__viññāṇa__. _Citta_ involves __viññāṇa__. But that does not mean it is
+the same as __viññāṇa__.
 
 == II. Manosaṅkhāra and Cittasaṅkhāra
 
@@ -436,7 +436,7 @@ _taṇhā_ there is a new _bhavā_ springing up.
 Conceptually thinking out *how* rebirth takes place (the mechanics of it,
 so to say), with connections in time and space, will not help. And any
 attempt to do so can do more harm than good (as in fact has happened,
-e.g. **by going beyond the Suttas** and introducing the concept of a _paṭisandhi viññāna_).
+e.g. **by going beyond the Suttas** and introducing the concept of a _paṭisandhi viññāṇa_).
 
 What one *has* to do, as the Buddha says, is to see
 and understand one's present Suffering, how it arises, how it ceases,

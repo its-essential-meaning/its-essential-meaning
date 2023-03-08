@@ -505,7 +505,7 @@ devoted to them nor is in opposition to them. They bear no
 the Arahat's Consciousness being neither devoted to anything nor in
 opposition to anything, it is said to be ceased’ __(niruddha)__.
 ‘Non-Indicative’ Consciousness (which is the Arahat's Consciousness) is
-therefore a Consciousness that is said to be ‘ceased’ (__viññānassa
+therefore a Consciousness that is said to be ‘ceased’ (__viññāṇassa
 nirodhena__). When Consciousness is said to be ceased, the Four Primary
 Modes are said to get no footing in existence. Further, Name-and- Form
 is also then said to be ceased, and therefore all concepts are also said
@@ -513,7 +513,7 @@ to be ceased.
 
 _Viññāna nirodha_ -- cessation of Consciousness -- is used to refer to the
 cessation of Grasping Consciousness (in which case it points to the
-Arahat's Consciousness, i.e. to _anidassana viññāna_ -- ‘non-indicative’
+Arahat's Consciousness, i.e. to _anidassana viññāṇa_ -- ‘non-indicative’
 Consciousness) as well as to the cessation of the Arahat's Consciousness
 which occurs when the Arahat's life ceases.
 
@@ -580,7 +580,7 @@ image::sectionbreak.png[]
 
 The Buddha Said: ‘All _determinations_ are Impermanent, all things are
 Not-self, all _determinations_ are Suffering’ (__sabbe saṅkhārā aniccā,
-sabbe dhammā anattā, sabbe sankhārā dukkhā__). The following question
+sabbe dhammā anattā, sabbe saṅkhārā dukkhā__). The following question
 can arise here: whilst saying that all *things* are Not-self, why did
 the Buddha say that all _determinations_ are impermanent and Suffering?
 In other words, whilst saying that all things are Not-self, why did he
@@ -707,7 +707,7 @@ there is no self to be found anywhere. But -- and that is the vital point
 Grasping Groups as ‘self’{empty}__; more precisely, as ‘my self’.
 
 In this triad -- _sabbe saṅkhārā aniccā, sabbe dhammā anattā, sabbe
-sankhārā dukkhā_ -- the meaning of _sabbe dhammā anattā_ is: All things
+saṅkhārā dukkhā_ -- the meaning of _sabbe dhammā anattā_ is: All things
 (which are taken as ‘self’) are Not-self. Thus it does not apply to
 Arahatship or __Nibbāna__.
 
