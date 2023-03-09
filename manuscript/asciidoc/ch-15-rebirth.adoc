@@ -20,7 +20,7 @@ On the other hand the Buddha demands no belief in rebirth from one whose
 sole aim is to end Suffering, nor does he insist that one must see
 rebirth if one is to come to the end of Suffering. As we pointed out
 earlier, the Suttas speak of Arahats who saw rebirth and could
-recollect past lives as well as of those who could **not**.footnote:[For example: https://suttacentral.net/sn16.9/en/bodhi[SN 16.9: Jhanas and Direct Knowledges]]
+recollect past lives as well as of those who could **not** (for example: https://suttacentral.net/sn16.9/en/bodhi[SN 16.9]).
 Certainly belief in rebirth would be very useful in that it would act as an urge
 to reach the Path as fast and as diligently as possible, and so get to
 _Ariyabhumi_ (plane of the __Ariyas__) at least, in this life. But it is
@@ -39,7 +39,9 @@ it is clear that for the __sekhas__, whatever rebirth awaits them, it
 cannot be in spheres of unfortunate or unpleasant experience, for the
 simple reason that the key factor which conditions such experience is
 out in them -- __sakkāyadiṭṭhi__, and that thoughts of ‘I’ and ‘mine’
-keep steadily declining in them. __Taṇhā__, desire, attachment -- these
+keep steadily declining in them.
+
+__Taṇhā__, desire, attachment -- these
 factors which upbring all the Suffering are thereby greatly reduced in
 the __Sekhas__, and hence Suffering is greatly reduced. Whatever new
 existence awaits them after death here, that will be an existence with a
@@ -48,7 +50,7 @@ __sotāpanna__'s achievement with a simile, the Buddha points out that
 the Suffering the _sotāpanna_ has destroyed is as vast as the earth
 whilst the Suffering he will have to endure in the future during a
 maximum of a further seven lives is as small as the bit of soil he
-placed on his finger nail.footnote:[https://suttacentral.net/sn13.1/en/sujato[SN 13.1: A Fingernail]]
+placed on his finger nail (https://suttacentral.net/sn13.1/en/sujato[SN 13.1]).
 With regard to the relative
 value of the __sotāpanna__'s achievement it is said:
 
@@ -61,20 +63,20 @@ __(Sotāpattiphalaṁ)__.
 -- https://suttacentral.net/dhp167-178/en/sujato[Dhp 178]
 ____
 
-There are many passages in the Suttasfootnote:[For example, in https://suttacentral.net/mn135/en/bodhi[MN 135]]
+There are many passages in the Suttas (for example, in https://suttacentral.net/mn135/en/bodhi[MN 135])
 where we have the Buddha teaching in a rather
 general manner how one is reborn in accordance with one's deeds. That
-is, he teaches that the rebirth awaiting a person is *in accordance with* his __kamma__.footnote:[https://suttacentral.net/mn136/en/thanissaro[MN 136]]
+is, he teaches that the rebirth awaiting a person is *in accordance with* his __kamma__ (https://suttacentral.net/mn136/en/thanissaro[MN 136]).
 
 It should also be noted that the subject of rebirth need not always
 remain a matter of trust in the Buddha. The Buddha has shown the course
 by following which one could recollect his own past lives and *see*
 other beings dying here and being born there according to their
-deeds.footnote:[https://suttacentral.net/mn77/en/bodhi[MN 77]] To the individual who has achieved
+deeds (https://suttacentral.net/mn77/en/bodhi[MN 77]). To the individual who has achieved
 this vision the subject of rebirth no longer remains a matter of trust
 in the Buddha. To such an individual, rebirth is a matter of certainty.
 The Buddha said that he himself could recollect the past as far back as
-he wished.footnote:[https://suttacentral.net/mn29/en/bodhi[MN 29]]
+he wished (https://suttacentral.net/mn29/en/bodhi[MN 29]).
 
 On many an occasion the not yet enlightened monks went to the Buddha,
 either for inspiration or from curiosity, and inquired from him as to
@@ -82,7 +84,7 @@ where some departed one had been reborn. As one reads through these
 passages in the Suttas, one imagines the Buddha smiling to himself
 at these questions and giving the answers and the reasons for them, as
 one who answers children, wishing to soothe them. In the
-__Mahāparinibbāna Sutta__footnote:[https://suttacentral.net/dn16/en/bodhi[DN 16]] we have him telling
+__Mahāparinibbāna Sutta__ (https://suttacentral.net/dn16/en/bodhi[DN 16]) we have him telling
 Ānanda who asked these questions:
 
 ____
@@ -119,7 +121,9 @@ himself so as to regard these as ‘**not** mine’, in which case of course
 he no longer remains a __puthujjana__. This development is not available
 to the animal, so that there can be no animal which will be regarding
 its Form, Feeling, Perception, _Determinations_ and Consciousness as
-‘not mine’. The fundamental attitude of the _puthujjana_ and the animal
+‘not mine’.
+
+The fundamental attitude of the _puthujjana_ and the animal
 being the **same**, and the fundamental attitude as between the
 _sotāpanna_ and the animal being **opposite**, it would appear that
 whilst the _puthujjana_ can be reborn an animal the _sotāpanna_

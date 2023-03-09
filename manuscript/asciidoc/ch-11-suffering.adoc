@@ -14,14 +14,14 @@ Suffering. He contents himself by feeling that he will in time get over
 his present state of Suffering, and that his present state of Suffering
 is just another one of those aspects of life which he must put up with.
 ‘Sense pleasures are said by me to be of little satisfaction, of much
-Suffering, of much tribulation, wherein is more peril.’footnote:[https://suttacentral.net/mn22/en/bodhi[MN 22]]
+Suffering, of much tribulation, wherein is more peril.’ (https://suttacentral.net/mn22/en/bodhi[MN 22])
 The _puthujjana_ does not see this.
 
 The _puthujjana_ delights in the fact of his existence. ‘I exist’ or ‘my
 existence’ is something desirable to him. He delights in notions of
-‘self’. He delights in seeing things as ‘mine’. ‘“All is mine”, he
+‘self’. He delights in seeing things as ‘mine’. ‘“All is mine,” he
 conceives. He delights in All’ -- __sabbaṁ meti maññati sabbaṁ
-abhinandati__.footnote:[https://suttacentral.net/mn1/en/bodhi[MN 1]] He delights in ‘self’-existence. He does
+abhinandati__ (https://suttacentral.net/mn1/en/bodhi[MN 1]). He delights in ‘self’-existence. He does
 not see that ‘self’-existence is Suffering. He does not see that
 delighting in ‘self’-existence is really a delighting in Suffering. He
 can even have an aversion to destroying his thoughts of ‘I’ and ‘mine’,
@@ -62,7 +62,7 @@ that therefore it was always a case of betrayal, disappointment, grief,
 agitation, worry, suffering, to some degree or other. ‘It is just
 Suffering that is produced, Suffering that persists and disappears.
 Nought beside Suffering is produced, nought beside Suffering
-ceases.’footnote:[https://suttacentral.net/sn5.10/en/bodhi[SN 5.10], Vajirā Sutta]
+ceases.’ (https://suttacentral.net/sn5.10/en/bodhi[SN 5.10])
 To the extent one sees this, to that extent one has right view.
 
 When the individual no longer regards anything as ‘self’ (which only
@@ -131,11 +131,13 @@ may not sound quite perfect. But accuracy in meaning is more important
 than readability. The same of course applies to the whole triad.]
 
 __Na etaṁ mama, na eso ahaṁ asmi, na eso me attā.__
+____
 
-__(Of such a one the Form alters and becomes otherwise. But in spite of the
+Of such a one the Form alters and becomes otherwise. But in spite of the
 altering and otherwise-ness of Form, sorrow and grief, woe, lamentation and
-despair arise not in him.)__
+despair arise not in him.
 
+____
 Thus, monks, there is no worry from no Grasping.
 
 -- https://suttacentral.net/sn22.8/en/bodhi[SN 22.8], Agitation through Clinging (2)
@@ -185,7 +187,7 @@ resistance, having removed tendencies to views and conceits such as ‘I
 am’, having put aside ignorance, Knowledge having arisen, he is here and
 now an end-maker of Suffering.
 
--- https://suttacentral.net/mn9/en/bodhi[MN 9]
+-- https://suttacentral.net/mn9/en/bodhi[MN 9], Right View
 ____
 
 No more can any Suffering
@@ -220,7 +222,7 @@ is always attended with grief, fear, etc.]
 When the _puthujjana_ experiences a painful feeling, he feels a
 repugnance for it. This means he has a twofold feeling, i.e., a bodily
 painful feeling and a mental painful feeling. ‘He feels a twofold
-feeling, bodily and mental.’footnote:[https://suttacentral.net/sn36.6/en/bodhi[SN 36.6], The Dart]
+feeling, bodily and mental.’ (https://suttacentral.net/sn36.6/en/bodhi[SN 36.6])
 He knows no refuge from
 painful feeling other than sensual pleasure. He is thus bound to sensual
 pleasure. The Arahat on the other hand can also experience a painful
@@ -236,10 +238,12 @@ One in cross-legged posture, holding his body upright, enduring pain
 that was the fruit of former __kamma__, pain racking, sharp and bitter;
 but he was mindful, composed and uncomplaining. And the Exalted One saw
 that monk so seated and so employed, and seeing the meaning of it, at
-that time gave utterance to this saying of uplift: ‘For the monk who
-hath all _kamma_ left behind, and shaken off the defilements aforetime
-gathered, who stands fast without ‘mine’ -- for such there is no need to
-talk to folk’.
+that time gave utterance to this saying of uplift:
+
+‘For the monk who hath all _kamma_ left behind, +
+and shaken off the defilements aforetime gathered, +
+who stands fast without “mine” -- +
+for such there is no need to talk to folk’.
 
 -- https://suttacentral.net/ud3.1/en/anandajoti[Ud 3.1], The Discourse about Deeds
 ____
@@ -270,10 +274,11 @@ and hence the difficulty of seeing the First Noble Truth.
 To see this one has to turn towards the fundamental characteristic of
 the __puthujjana__, which is but a regarding things as ‘mine’. The
 _puthujjana_ regards that which should be regarded as ‘**not** mine’ as
-‘mine’.That means he regards the Five Grasping Groups (which constitute
+‘mine’. That means he regards the Five Grasping Groups (which constitute
 *all* for him) as ‘mine’ whilst he should regard them as ‘not mine’.
+
 With regard to feeling, whether the feeling he experiences is pleasant
-or unpleasant or neutra1, he regards it always as ‘mine’. This regarding
+or unpleasant or neutral, he regards it always as ‘mine’. This regarding
 the Groups as ‘mine’ is always attended with agitation and worry to
 *some* degree or other, which only means that he is **always suffering
 to some degree or other**.{empty}footnote:[In the complex structure of the deliberation ‘this is mine’ (_etam

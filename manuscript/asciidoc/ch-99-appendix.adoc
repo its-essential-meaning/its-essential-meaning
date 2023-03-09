@@ -22,7 +22,7 @@ the grey-matter in the head. This description of the mind-base, however,
 appears inadequate, for the reason that though there can be no hearing
 based on the eye-base or no seeing based on the ear-base (and so with
 three other bases), there can be seeing, hearing, smelling, tasting and
-touching based on the mind- base. In other words, based on the mind-base
+touching based on the mind-base. In other words, based on the mind-base
 there can be imaginary sights, imaginary sounds, imaginary smells,
 imaginary tastes and imaginary touch. Therefore, from this point of
 view, the mind-base can also be regarded as a collection of imaginary
@@ -82,7 +82,9 @@ applies to Feeling, Perception, _Determinations_ and Consciousness. In
 the __puthujjana__'s conscious life it is just this notion of mastery
 that *leads* him on and not those speculations such as ‘Self is eternal’
 or ‘Self is not eternal’ or ‘Self is conscious’, etc. which he indulges
-in during his moments of speculation. The _puthujjana_ can well be
+in during his moments of speculation.
+
+The _puthujjana_ can well be
 divorced from these speculations, but certainly not from the notion that
 he has mastery over the Five Grasping Groups. He is constantly thinking
 and acting as if he wields power over these Groups. And the many
@@ -167,7 +169,9 @@ In the same _Sutta_ are mentioned nine kinds of _nirodha_, the first being
 _kāma-sañña nirodha_ (cessation of the perception of sense-pleasure),
 which is a characteristic of the first _jhāna_. _Taṇhā_ for this cessation,
 viz. the cessation of the perception of sense-pleasure, is really a
-_taṇhā_ for ‘self’-existence in the first _jhāna_. Thus _nirodha-taṇhā_ is a
+_taṇhā_ for ‘self’-existence in the first _jhāna_.
+
+Thus _nirodha-taṇhā_ is a
 negative form of the positive _bhava-taṇhā_. It is like saying that a
 person wants the cessation of unpleasant feeling so that his existence
 comprises only pleasant and neutral feeling. When he says he wants the
@@ -192,7 +196,9 @@ the reality of the _sakkāya_ which of course is nothing but a doubting the
 reality of his own existence; and on this basis he logically tries to
 find a way out. In this attempt he gets very close to the view of **no existence**.
 Nevertheless, having _sakkāyadiṭṭhi_, he cannot doubtlessly
-accept that he does not exist. He is therefore caught in a duality -- the
+accept that he does not exist.
+
+He is therefore caught in a duality -- the
 duality of *is* and *is not* -- a duality which in extremist thinking points
 to eternalism __(sasata)__ on the one hand and to nihilism __(uccedha)__ on the
 other. So, without applying his view of nihilism to present living he
@@ -267,7 +273,7 @@ _rūpa_’, or again as ‘by-product of _rūpa_’. This is seriously misleadin
 with regard to the first Group, it immediately shuts the door to the
 problem of Suffering and the cessation of Suffering.
 
-In the _Upādāna Paripavatta Sutta_footnote:[https://suttacentral.net/sn22.56/en/bodhi[SN 22.56], Phases of the Clinging Aggregates] we get the following passages:
+In the __Upādāna Paripavatta Sutta__ (https://suttacentral.net/sn22.56/en/bodhi[SN 22.56]) we get the following passages:
 
 ____
 __Katamañca, bhikkhave, rūpaṁ? Cattāro ca mahābhūtā catunnañca mahābhūtānaṁ upādāya rūpaṁ. Idaṁ vuccati, bhikkhave, rūpaṁ. Āhārasamudayā rūpasamudayo; āhāranirodhā rūpanirodho. Ayameva ariyo aṭṭhaṅgiko maggo rūpanirodhagāminī paṭipadā, seyyathidaṁ -- sammādiṭṭhi ... pe ... sammāsamādhi.__
@@ -336,6 +342,7 @@ The latter part of this passage wherein the Buddha exhorts the disciple
 to regard the Mode as ‘Not, this is mine; not, this am I; not, this is
 my self’ and thereby detach his thinking __(cittaṁ virājeti)__ from the Mode
 has meaning *only* from the fact of the Mode being grasped __(upādinnaṁ)__.
+
 If the word _upādinnaṁ_ is reckoned to mean ‘because of’ or ‘derived from’
 the whole meaning and purpose of the Sutta passage is lost. It is
 because the Mode is grasped (i.e. it is considered as ‘mine’ and the
@@ -382,7 +389,9 @@ unnoticed by the questioner. Although in the question, the questioner
 does not indicate the involvement of any subjectivity (i.e. he does not
 indicate in the question that he himself is involved), the fact is that
 *he* as a subject *is* involved. *He* wants to know what will happen to *him*
-after death if *he* becomes Arahat. Since the questioner is a _puthujjana_
+after death if *he* becomes Arahat.
+
+Since the questioner is a _puthujjana_
 the question appears valid *to him*, and so he keeps on asking it. Not
 seeing the _pañcupādānakkhandha_ as _pañcupādānakkhandha_ and the
 _pañcakkhandha_ as _pañcakkhandha_ he puts forth these questions. But if he
@@ -423,7 +432,7 @@ depths of one's own personal existence, can bring about this **seeing**.
 Actually, with this seeing the Four Noble Truths are also seen; and this
 is what is meant by the arising of the Dhamma-Eye __(dhammacakkhuṁ udapādi)__.
 
-Further if one is to enter the Path adherence to rites and ritua1, doubt
+Further if one is to enter the Path adherence to rites and ritual, doubt
 and ‘person’-view must be done away with. For this reason it is a
 matter of the highest importance.
 
@@ -474,7 +483,9 @@ __(opanayiko)__. It leads on to seeing Suffering and the cessation of
 Suffering, and of course to the subsequent experiencing of the cessation
 of Suffering. These characteristics of the Dhamma, which are well
 portrayed in the Suttas, are however missing in a very large part of the
-Abhidhamma. A knowledge of the large number of _cetasika_ said to be
+Abhidhamma.
+
+A knowledge of the large number of _cetasika_ said to be
 present in a particular _citta_ is not all that conducive to solving the
 problem of Suffering, which is not a problem whose solution can be seen
 by pure and simple analysis, however vast and imposing that analysis be.

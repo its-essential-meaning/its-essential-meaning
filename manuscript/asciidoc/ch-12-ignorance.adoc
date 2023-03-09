@@ -63,7 +63,7 @@ seeing or not knowing the arising and ceasing of the Five Grasping
 Groups.
 
 ____
-“Ignorance! Ignorance! it is said, Lord. But what, Lord, is Ignorance,
+“‘Ignorance! Ignorance!’ it is said, Lord. But what, Lord, is Ignorance,
 and to what extent is one Ignorant?”
 
 “Herein, monks, the uninstructed _puthujjana_ does not, as it really is,
@@ -173,7 +173,7 @@ of Ignorance.*
 For the Five Hindrances, improper attention, etc., to be present
 Ignorance must be present. It would then appear that Ignorance depends
 upon Ignorance. This is in fact directly indicated in the __Sammādiṭṭhi
-Sutta__.footnote:[https://suttacentral.net/mn9/en/bodhi[MN 9]] In this _Sutta_ it is said that
+Sutta__ (https://suttacentral.net/mn9/en/bodhi[MN 9]). In this _Sutta_ it is said that
 the condition for Ignorance is the taints; ‘From the arising of the
 taints is the arising of Ignorance. From the ceasing of the taints is
 the ceasing of Ignorance.’ These taints are in turn defined in the same
@@ -203,7 +203,9 @@ rid of Ignorance without some external aid. It is this aid, however, that
 the Buddha gives. He gives it in the form of a Teaching that goes
 *against* the _puthujjana's_ understanding of things. That is why the
 Buddha describes his Teaching as ‘going against the stream’
-__(paṭisotagāmi)__.footnote:[https://suttacentral.net/mn26/en/bodhi[MN 26]] The _puthujjana_
+(__paṭisotagāmi__, https://suttacentral.net/mn26/en/bodhi[MN 26]).
+
+The _puthujjana_
 constantly thinks ‘This is mine; this am I; this is my self.’ The Buddha
 points out to him that it is wrong, and teaches him to think instead
 ‘Not, this is mine; not, this am I; not, this is my self’. It is because
@@ -264,7 +266,7 @@ Path and the Arahat, should be noted, or else confusion can arise.
 
 We have said that it is almost impossible to overcome Ignorance without
 some external aid. How then did the Buddha overcome it without any such
-aid? The Buddha said, ‘For me there is no teacher.’footnote:[https://suttacentral.net/mn26/en/bodhi[MN 26], The Noble Search]
+aid? The Buddha said, ‘For me there is no teacher.’ (https://suttacentral.net/mn26/en/bodhi[MN 26])
 This means he overcame Ignorance by himself.
 
 The answer is: though it is extremely difficult and appears almost

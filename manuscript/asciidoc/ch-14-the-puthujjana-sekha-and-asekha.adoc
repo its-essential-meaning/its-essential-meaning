@@ -26,23 +26,25 @@ experiences it.
 To the extent the _sekha_ experiences the Teaching, to that extent does
 he see the Teaching better. His seeing is still imperfect and his
 cultivation of the Four Applications of Mindfulness{empty}footnote:[See <<ch-16-satipatthana.adoc#start,Chapter 16: On the Four Applications of Mindfulness>>] is only partial
-__(catunnaṁ kho āvuso satipaṭṭhānānaṁ padesaṁ bhāvitattā)__footnote:[https://suttacentral.net/sn47.26/en/bodhi[SN 47.26], Partly]
-as against that of the _asekha_ which is complete __(satipaṭṭhānānaṁ samattaṁ bhāvitattā)__.footnote:[https://suttacentral.net/sn47.27/en/bodhi[SN 47.27], Completely]
+(__catunnaṁ kho āvuso satipaṭṭhānānaṁ padesaṁ bhāvitattā__, https://suttacentral.net/sn47.26/en/bodhi[SN 47.26])
+as against that of the _asekha_ which is complete (__satipaṭṭhānānaṁ samattaṁ bhāvitattā__, https://suttacentral.net/sn47.27/en/bodhi[SN 47.27]).
+
 He, the __sekha__, can see a part of the
 Teaching without experiencing it. But seeing and understanding in the
 *fullest* sense comes only with the experience of it. It is therefore to
 be expected that there would be various classes of _sekhas_ depending on
 the extent to which they experience the Teaching.
 
-In the _Saṁyutta Nikāya_ we have the difference between the _sekha_
+In the following Sutta we have the difference between the _sekha_
 and the _asekha_ denoted as follows:
 
 ____
 Again, monks, the monk who is a _sekha_ knows the five controlling
 faculties: faith, energy, mindfulness, concentration, and wisdom. Yet he
 neither lives experiencing with the body, nor penetratively sees with
-wisdom, what they lead to, their excellence, their fruit, and their end
-... Here, monks, a monk who is an _asekha_ knows the five controlling
+wisdom, what they lead to, their excellence, their fruit, and their end ...
+
+Here, monks, a monk who is an _asekha_ knows the five controlling
 faculties: faith, energy, mindfulness, concentration, and wisdom. He
 lives experiencing with the body, penetratively seeing with wisdom, what
 they lead to, their excellence, their fruit, and their
@@ -53,14 +55,14 @@ ____
 
 The _sekha_ has faith in the fact that deathlessness can be attained by
 developing the five controlling faculties. He ‘stands knocking at the
-door of deathlessness’ -- __amara dvāraṁ āhacca tiṭṭhati.__footnote:[https://suttacentral.net/sn12.49/en/bodhi[SN 12.49], The Noble Disciple (1)]
+door of deathlessness’ -- __amara dvāraṁ āhacca tiṭṭhati__ (https://suttacentral.net/sn12.49/en/bodhi[SN 12.49]).
 But the _asekha_ having developed these faculties
 fully has achieved deathlessness and lives experiencing deathlessness.
 Arahat Sāriputta said that the latter was the case with him.
 Incidentally, it is wrong to think that the _puthujjana_ has these
 faculties. The _puthujjana_ does not possess these faculties. It is the
 _sekha_ who has acquired them, but of course he has to develop
-them.footnote:[https://suttacentral.net/sn48.12/en/sujato[SN 48.12] and https://suttacentral.net/sn48.18/en/sujato[SN 48.18]]
+them (https://suttacentral.net/sn48.12/en/sujato[SN 48.12] and https://suttacentral.net/sn48.18/en/sujato[SN 48.18]).
 
 Khemaka, an _Anāgami_ (i.e. one of the higher classes of __sekhas__) says:
 
@@ -70,7 +72,7 @@ nor aught pertaining to self, yet I am not Arahat, nor one in whom the
 taints are destroyed. Though, friend, in the Five Grasping groups is
 found ‘I am’, yet I do not discern that I am this ‘I am’.
 
-... Friends, though an Ariyan disciple has put away the five lower fetters,
+{empty}... Friends, though an Ariyan disciple has put away the five lower fetters,
 yet there remains in his Five Grasping Groups the conceit ‘I am’, the
 desire ‘I am’, the tendency ‘I am’, still not removed from him.
 
@@ -101,7 +103,7 @@ tacit agreement with the Teaching. But he is not one who has merely
 studied the Teaching and or professes to follow the Teaching. He is much
 more than that. He makes a genuine attempt to realize the Teaching in
 himself, knowing that he still does not actually see the
-Teaching.footnote:[https://suttacentral.net/an6.101/en/sujato[AN 6.101], Extinguished]
+Teaching. (https://suttacentral.net/an6.101/en/sujato[AN 6.101])
 
 Of these two kinds of _puthujjana_ the _assutavā_ is me kind that is to
 be found more often.
@@ -109,11 +111,11 @@ be found more often.
 There are eight classes of __Ariyas__. In ascending order of perfection
 they are:
 
-1.  _Sotāpattiphalasacchikiriyāya paṭipanno_ -- The one who practices for the realization of the fruit of Steam-entrance.
+1.  _Sotāpatti-phala-sacchikiriyāya paṭipanno_ -- The one who practices for the realization of the fruit of Steam-entrance.
 2.  _Sotāpanno_ -- The Stream-entrant.
-3.  _Sakadāgāmiphalasacchikiriyāya paṭipanno_ -- The one who practises for the realization of the fruit of once-return.
+3.  _Sakadāgāmi-phala-sacchikiriyāya paṭipanno_ -- The one who practises for the realization of the fruit of once-return.
 4.  _Sakadāgāmi_ -- The Once-returner.
-5.  _Anāgāmiphalasacchikiriyāya paṭipanno_ -- The one who practises for the realization of the fruit of non-return.
+5.  _Anāgāmi-phala-sacchikiriyāya paṭipanno_ -- The one who practises for the realization of the fruit of non-return.
 6.  _Anāgāmi_ -- The Non-returner.
 7.  _Arahattāya paṭipanno_ -- The one who practises for the realization of Arahatship.
 8.  _Arahā_ -- The Arahat, or the Consummate One.
@@ -129,7 +131,7 @@ achieved the goal, has laid down the burden, has attained the Consummate
 state, has attained __Nibbāna__. He is therefore _asekha_ (Learning-ender).
 
 Thus, with the __puthujjana__, we have nine kinds of
-individuals.footnote:[https://suttacentral.net/an9.9/en/sujato[AN 9.9], Persons]
+individuals (https://suttacentral.net/an9.9/en/sujato[AN 9.9]).
 If we take into account the two types of _puthujjanas_ we then have ten kinds of individuals.
 
 It will be seen that of the seven _sekhas_ there are fruit-attainers
@@ -160,7 +162,7 @@ However, the first class of Path-attainer *shall always* attain the
 fruit before his death even if that fruit-attainment be just before
 death. According to the Suttas one of two thing makes this fruit
 attainment possible -- diligent work, or the crisis of approaching death
-which provide the necessary impetus to attainment.footnote:[https://suttacentral.net/sn25.1/en/sujato[SN 25.1], The Eye]
+which provide the necessary impetus to attainment (https://suttacentral.net/sn25.1/en/sujato[SN 25.1]).
 Unlike the _puthujjana_ who is subject to retrogression the _sekha_ whether he be a
 path-attainer or a fruit-attainer progresses towards the goal.
 
@@ -175,7 +177,7 @@ __(rūparāgo)__, (7) Attachment to no-Form __(arūparāgo)__, (8) Conceit
 __(māno)__, (9) Restlessness __(uddhaccaṁ)__, and (10) Ignorance
 __(avijjāṁ)__. The first five are described as lower fetters
 __(orambhāgiyāni saññojanāni)__ whilst the other five are described as
-higher fetters __(uddhambhāgiyāni saññojanāni)__.footnote:[https://suttacentral.net/an10.13/en/bodhi[AN 10.13], Fetters]
+higher fetters (__uddhambhāgiyāni saññojanāni__, https://suttacentral.net/an10.13/en/bodhi[AN 10.13]).
 
 The first fruit-attainer is called _sotāpanno_ (Stream-entrant). He has
 destroyed the first three fetters of ‘person’-view, doubt, and practice
@@ -209,7 +211,7 @@ the fruit of Stream-entrance, are of two kinds -- the _dhammānusāri_
 just crossed over from the plane of the _puthujjana_ to the plane of the
 __Ariya__. The _dhammānusāri_ is one who through wisdom is pleased with
 the Dhamma to an extent, whilst the _saddhānusāri_ is one who through
-faith is firmly attached to Dhamma.footnote:[https://suttacentral.net/mn70/en/bodhi[MN 70], At Kīṭāgiri and https://suttacentral.net/sn25.1/en/sujato[SN 25.1], The Eye]
+faith is firmly attached to Dhamma (https://suttacentral.net/mn70/en/bodhi[MN 70] and https://suttacentral.net/sn25.1/en/sujato[SN 25.1]).
 As stated earlier they are both incapable of passing away without realizing the fruit of
 Stream-entrance, i.e., without becoming __sotāpanna__.
 
@@ -220,7 +222,7 @@ within this period __(niyato sambodhi-parāyano)__. The _sakadāgāmi_ returns
 once more to this world and accomplishes the destruction of Suffering
 __(sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karoti)__. The __anāgāmi__,
 when he dies here, will be reborn spontaneously in the Pure Abodes and
-attains to Extinction there.footnote:[https://suttacentral.net/an3.88/en/sujato[AN 3.88: Training (3rd)] and https://suttacentral.net/an3.89/en/sujato[AN 3.89: Three Trainings (1st)]]
+attains to Extinction there (https://suttacentral.net/an3.88/en/sujato[AN 3.88] and https://suttacentral.net/an3.89/en/sujato[AN 3.89]).
 
 All this means that, as a cart pushed just over the hilltop will roll
 down by its own weight without extra effort, so will the _sotāpanna_ in

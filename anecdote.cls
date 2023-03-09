@@ -237,7 +237,7 @@
 \newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {20}{28}}
 \newcommand{\chapterTitleFootnoteSize}{\@setfontsize \chapterTitleFootnoteSize {16}{30}}
 \newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {12}{14}}
-\newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {13}{15}}
+\newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {12}{14}}
 \newcommand{\footerSize}{\@setfontsize               \footerSize               {10.5}{10.5}}
 \newcommand{\headerSize}{\@setfontsize               \headerSize               {10}{10}}
 
@@ -560,19 +560,6 @@ philo-sophical munindo amaravati thai-land}
     \itemindent    \listparindent
     \leftmargin    \quoteMargin
     \rightmargin   \quoteMargin
-    \parsep        8pt
-    \topsep        0pt
-    \partopsep     0pt}%
-\item[]}%
-{\endlist}
-
-\newenvironment{widequote}%
-{\list{}{%
-    \itshape
-    \listparindent 0pt
-    \itemindent    \listparindent
-    \leftmargin    0.5\quoteMargin
-    \rightmargin   0pt
     \parsep        8pt
     \topsep        0pt
     \partopsep     0pt}%
@@ -1195,6 +1182,11 @@ philo-sophical munindo amaravati thai-land}
       \centering\chaptitlefont\color{chaptertitle}%
       ##1%
       \par%
+      \ifchapternote%
+        \vskip 0.8\onelineskip%
+        \chapterNoteFmt{\theChapterNote}%
+        \global\chapternotefalse%
+      \fi%
     }%
   }
   \setlength{\afterchapskip}{3\onelineskip}

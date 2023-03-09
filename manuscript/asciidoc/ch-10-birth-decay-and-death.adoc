@@ -71,7 +71,7 @@ as follows:
 
 [quote, role=quote]
 ____
-“’Being! being! __(satta)__’ it is said. To what extent, Lord, is one
+“‘Being! being! __(satta)__’ it is said. To what extent, Lord, is one
 called a being?”
 
 “That desire, Radha, that attachment, that delight, that _taṇhā_ which
@@ -192,15 +192,15 @@ Determinations and Consciousness. It is very important that this is seen.]
 
 [quote, ]
 ____
-* ‘I am’ -- monk, this is a supposition __(maññitaṁ)__.
-* ‘This am I’ -- this is a supposition.
-* ‘I will exist’ -- this is a supposition.
-* ‘I will not exist’ -- this is a supposition.
-* ‘I will be possessed of Form’ ...
-* ‘I will be possessed of not-Form’ ...
-* ‘I will be possessed of Perception’ ...
-* ‘I will be possessed of non-Perception’ ...
-* ‘I will be possessed of neither Perception nor non-Perception’ -- this is a supposition.
+‘I am’ -- monk, this is a supposition __(maññitaṁ)__. +
+‘This am I’ -- this is a supposition. +
+‘I will exist’ -- this is a supposition. +
+‘I will not exist’ -- this is a supposition. +
+‘I will be possessed of Form’ ... +
+‘I will be possessed of not-Form’ ... +
+‘I will be possessed of Perception’ ... +
+‘I will be possessed of non-Perception’ ... +
+‘I will be possessed of neither Perception nor non-Perception’ -- this is a supposition.
 
 A supposition, monk, is a disease; a supposition is an
 imposthume; a supposition is a barb. Monk, when he has gone beyond all
@@ -281,7 +281,7 @@ thus:
 [quote, role=quote]
 ____
 The Tathāgata, monks, is Arahat, is All Enlightened. Give ear,
-monks. Deathlessness has been reached __(amatamadhigataṁ)__. I will
+monks. Deathlessness has been reached __(amatam-adhigataṁ)__. I will
 intruct you.
 
 -- https://suttacentral.net/pli-tv-kd1/en/brahmali[Vin I. 5-8], Mahāvagga
@@ -406,20 +406,18 @@ about him do not apply to him?
 [quote, role=quote]
 ____
 Even so, great king,
-
-* *that* Form ...
-* *that* Feeling ...
-* *that* Perception ...
-* *those* Determinations ...
-* *that* Consciousness
+*that* Form ...
+*that* Feeling ...
+*that* Perception ...
+*those* Determinations ...
+*that* Consciousness
 
 by which one discerning the Tathāgata might discern him --
-
-* *that* Form ...
-* *that* Feeling ...
-* *that* Perception ...
-* *those* Determinations ...
-* *that* Consciousness
+*that* Form ...
+*that* Feeling ...
+*that* Perception ...
+*those* Determinations ...
+*that* Consciousness
 
 has been got rid of, cut off at the root, made like a
 palm-tree stump that can come to no further existence and is not liable

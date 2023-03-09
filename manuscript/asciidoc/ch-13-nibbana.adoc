@@ -20,20 +20,24 @@ the others. When all subjectivity is extinct, all Suffering is also
 extinct, Ignorance is also extinct, the taints are also extinct, and so
 on. It is therefore clear that _Nibbāna_ can be described in many ways,
 and in discussion one would usually refer to it as the extinction of
-that thing round which the discussion revolves. If one is discussing
+that thing round which the discussion revolves.
+
+If one is discussing
 __bhava__, then it would be appropriate to describe _Nibbāna_ as the
 extinction or cessation of __bhava__: ‘The cessation of _bhava_ is
-__Nibbāna__’footnote:[https://suttacentral.net/an10.7/en/bodhi[AN 10.7], Sāriputta]
--- __bhavanirodho nibbānaṁ__. If one is discussing the
+__Nibbāna__’ -- __bhavanirodho nibbānaṁ__ (https://suttacentral.net/an10.7/en/bodhi[AN 10.7]).
+
+If one is discussing the
 ‘person’ __(sakkāya)__ then it would be appropriate to say that _Nibbāna_
-is the cessation of the ‘person’ __(sakkāyanirodho)__.footnote:[https://suttacentral.net/sn22.105/en/sujato[SN 22.105], Identity]
+is the cessation of the ‘person’ __(sakkāyanirodho)__ (https://suttacentral.net/sn22.105/en/sujato[SN 22.105]).
+
 If we reckon the
 purpose of the Buddha's Teaching (which should at no time be lost sight
 of) then we will describe _Nibbāna_ as the extinction of Suffering, or
 as the cessation of Suffering, or as the destruction of Suffering.
 
 _Nibbāna_ is often defined as ‘the destruction of lust, the destruction
-of hatred, and the destruction of delusion.’footnote:[https://suttacentral.net/sn38.1/en/sujato[SN 38.1], Extinguishment]
+of hatred, and the destruction of delusion.’ (https://suttacentral.net/sn38.1/en/sujato[SN 38.1])
 
 We saw earlier that Arahatship also has been defined by the Buddha as
 ‘the destruction of lust, the destruction of hatred, and the destruction
@@ -76,7 +80,7 @@ of the highest actuality.
 ‘For this, monks, is the highest Ariyan
 wisdom, that is to say the knowledge of the destruction of all
 Suffering. That deliverance of his is founded on truth, is
-unshakeable... For this, monks, is the highest Ariyan truth, that is to
+unshakeable ... For this, monks, is the highest Ariyan truth, that is to
 say, __Nibbāna__, which is not a state unreal.’ (https://suttacentral.net/mn140/en/bodhi[MN 140])
 
 *(5) Pāraṁ -- The Beyond*
@@ -153,10 +157,9 @@ Arahat's life ceases the ‘world’ also ceases.
 
 *(12) Nippapaṁ -- The Without Impediment*
 
-‘I am’ is called a __papañcitaṁ__.footnote:[https://suttacentral.net/sn35.248/en/bodhi[SN 35.248], The Sheaf of Barley]
-‘I am’ is also called a _maññitaṁ_ (supposition), a _mānagataṁ_ (gone to conceit).footnote:[https://suttacentral.net/sn35.248/en/bodhi[SN 35.248], The Sheaf of Barley]
- _Papañca_ is sometimes taken to refer to ‘diffuseness in thinking’.footnote:[https://suttacentral.net/an8.30/en/bodhi[AN 8.30], Anuruddha]
-From this it is clear that _papañca_
+‘I am’ is called a __papañcitaṁ__. ‘I am’ is also called a _maññitaṁ_ -- supposition, a _mānagataṁ_ -- gone to conceit. (https://suttacentral.net/sn35.248/en/bodhi[SN 35.248])
+
+_Papañca_ is sometimes taken to refer to ‘diffuseness in thinking’ (https://suttacentral.net/an8.30/en/bodhi[AN 8.30]). From this it is clear that _papañca_
 refers definitely to something that is a hindrance or impediment to
 progress. The Arahat has cut out all such impediments
 __(chinnapapañca)__. Arahatship is therefore without impediment.
@@ -189,7 +192,7 @@ highest form of security because there is no ‘person’ or ‘I’ to feel any
 insecurity. The ‘person’ not existing, the experience is one that is
 completely free from insecurity.
 
-*(18) Tanhakkhayo -- The Desttuction of taṇhā*
+*(18) Tanhakkhayo -- The Destruction of Taṇhā*
 
 The Arahat is free from all __taṇhā__, of whatever kind it be.
 
@@ -281,14 +284,18 @@ Apart from the above thirty three descriptions other descriptions for
 Arahatship are to be found, such as not-born __(ajātaṁ)__, not-being
 __(abhūtaṁ)__ or not-made __(akataṁ)__:
 
+____
 ‘Monks, there is the not-born,
-the not-being, the not-made, and the not-__determined__. If, monks,
+the not-being, the not-made, and the not-determined. If, monks,
 there were not the not-born, the not-being, the not-made and the
-not-__determined__, there would be discerned no escape here from the
-born, the being, the made and the __determined__. But, monks, since
+not-determined, there would be discerned no escape here from the
+born, the being, the made and the determined. But, monks, since
 there is the not-born, the not-being, the not-made and the
 not-determined, therefore an escape from the born, the being, the made,
-and the _determined_ is discernible.’ (https://suttacentral.net/ud8.3/en/anandajoti[Ud 8.3])
+and the determined is discernible.’
+
+-- https://suttacentral.net/ud8.3/en/anandajoti[Ud 8.3], Nibbāna (3)
+____
 
 **Arahatship is referred to as not-born, not-being,
 not-made and not-determined because with regard to the Arahat there is
@@ -299,9 +306,13 @@ Another common description of Arahatship is the ‘ultimate happiness’
 __(paramaṁ sukhaṁ)__. This ‘ultimate happiness’ is defined by the Buddha
 as follows:
 
+____
 ‘Were there a going beyond the sense-pleasures of the world,
 that detachment is happiness. Were there a destruction of the conceit ‘I
-am’, that indeed is the ultimate happiness.’ (https://suttacentral.net/ud2.1/en/anandajoti[Ud 2.1])
+am’, that indeed is the ultimate happiness.’
+
+-- https://suttacentral.net/ud2.1/en/anandajoti[Ud 2.1], About Mucalinda
+____
 
 A description of Arahatship which would interest the ethicist is that
 given in the __Pāsādika Sutta__ wherein the
@@ -309,20 +320,22 @@ Buddha in describing the Arahat says:
 
 ____
 Friend, the monk in whom the
-taints are destroyed is incapable of deliberately depriving a living
+taints are destroyed is incapable of (1) deliberately depriving a living
 being of life. The monk in whom the taints are destroyed is incapable
-of taking what is not given so that it constitutes theft. The monk in
-whom the taints are destroyed is incapable of indulging in sex
+of (2) taking what is not given so that it constitutes theft. The monk in
+whom the taints are destroyed is incapable of (3) indulging in sex
 __(methunaṁ dhammaṁ)__. The monk is whom the taints are destroyed is
-incapable of mindfully uttering falsehood. The monk in whom the taints
-are destroyed is incapable of laying up treasure for indulging in
+incapable of (4) mindfully uttering falsehood. The monk in whom the taints
+are destroyed is incapable of (5) laying up treasure for indulging in
 pleasures as he did when being a house-holder. The monk in whom the
-taints are destroyed is incapable of taking a course of action through
+taints are destroyed is incapable of (6) taking a course of action through
 desire. The monk in whom the taints are destroyed is incapable of
-taking a course of action through hatred. The monk in whom the taints
-are destroyed is incapable of taking a course of action through
+(7) taking a course of action through hatred. The monk in whom the taints
+are destroyed is incapable of (8) taking a course of action through
 delusion. The monk in whom the taints are destroyed is incapable of
-taking a course of action through fear. Friend, the monk who is Arahat,
+(9) taking a course of action through fear.
+
+Friend, the monk who is Arahat,
 in whom the taints are destroyed, has done what was to be done, has
 laid down the burden, attained the highest, completely destroyed the
 fetter of __bhava__, released through right knowledge, is incapable of
@@ -346,7 +359,7 @@ what remains is a Not-Grasping residual Five Groups. These residual Five
 Groups are called the ‘Extinction element with residue’ (__saupādisesa
 nibbānadhātu__). It is the ‘stuff remaining’. When Arahatship is over,
 i.e., when the life of the Arahat is over, the ‘residue’ is also over.
-This is called ‘Extinction element without residue’. (__anupādisesa
+This is called ‘Extinction element without residue’ (__anupādisesa
 nibbānadhātu__). It is ‘without stuff remaining’. In the three phases we
 have, therefore, firstly Five Grasping Groups, secondly Five Groups, and
 thirdly the extinction of the Five Groups. The first refers to the
@@ -412,7 +425,7 @@ passing away, no arising. Without support without being, without
 anything as object it is. This, indeed, is the end of
 Suffering.
 
--- https://suttacentral.net/ud8.1/en/anandajoti[Ud 8.1], Nibbāna
+-- https://suttacentral.net/ud8.1/en/anandajoti[Ud 8.1], Nibbāna (1)
 ____
 
 Here again it is Arahatship or the _Nibbāna_ element *with* residue that
@@ -420,7 +433,7 @@ is being referred to. To get the full meaning of this passage, however,
 one must understand what is meant by the Four Primary Modes -- earth,
 water, fire and air -- ‘getting no footing’.
 
-In the __Kevaḍḍha Sutta__footnote:[https://suttacentral.net/dn11/en/sujato[DN 11]] we have Kevaḍḍha
+In the __Kevaḍḍha Sutta__ (https://suttacentral.net/dn11/en/sujato[DN 11]) we have Kevaḍḍha
 asking the question:
 
 ‘Where do the Four Primary Modes -- earth, water, fire and air -- cease without remainder?’
@@ -445,6 +458,7 @@ the behaviour of Name __(nāma)__. In other words, since Name behaves in
 a certain fashion (e.g. while an object is perceived the percept behaves
 in a certain fashion) we *infer* that the object, or that the set of
 behaviours, of which we are conscious behaves in that same fashion too.
+
 This means that we are really *inferring* that the Four Primary Modes
 exist. Therefore, strictly speaking, we cannot say that the Four Primary
 Modes **exist**. At the same time, since there is a behaviour of
@@ -497,7 +511,9 @@ to anything (or is ‘not engaged’ with anything) as for example the __puthujj
 Consciousness is when he experiences a pleasant feeling. On the other
 hand it is ‘not in opposition’ __(appaṭiviruddha)__ to anything either,
 as for example the __puthujjana__'s Consciousness is when he experiences
-an unpleasant feeling. Therefore, with regard to the footing that the
+an unpleasant feeling.
+
+Therefore, with regard to the footing that the
 Four Primary Modes get and with regard to those concepts like long and
 short, large and small, auspicious and inauspicious, he is neither
 devoted to them nor is in opposition to them. They bear no
@@ -555,7 +571,7 @@ not being, there is no decease-and-birth. Decease-and-birth not being,
 there is no ‘here’ nor ‘yonder’ nor anything in between. This, indeed,
 is the end of Suffering.
 
--- https://suttacentral.net/ud8.4/en/anandajoti[Ud 8.4], Nibbāna
+-- https://suttacentral.net/ud8.4/en/anandajoti[Ud 8.4], Nibbāna (4)
 ____
 
 Clearly this refers to Arahatship. ‘For him who clings not’ means ‘for the Arahat.’
@@ -574,13 +590,15 @@ to do with the Five Groups, yet, that it is an eternal existence of some
 sort or other. Such a view can arise owing to the presence of that very
 subtle form of Grasping -- ‘__Nibbāna__ is mine, he conceives’
 __(nibbānaṁ meti maññati)__ -- which the Buddha refers to in his
-Discourse on The Fundamentals of All Things.footnote:[https://suttacentral.net/mn1/en/bodhi[MN 1]]
+Discourse on The Fundamentals of All Things (https://suttacentral.net/mn1/en/bodhi[MN 1]).
 
 image::sectionbreak.png[]
 
 The Buddha Said: ‘All _determinations_ are Impermanent, all things are
 Not-self, all _determinations_ are Suffering’ (__sabbe saṅkhārā aniccā,
-sabbe dhammā anattā, sabbe saṅkhārā dukkhā__). The following question
+sabbe dhammā anattā, sabbe saṅkhārā dukkhā__).
+
+The following question
 can arise here: whilst saying that all *things* are Not-self, why did
 the Buddha say that all _determinations_ are impermanent and Suffering?
 In other words, whilst saying that all things are Not-self, why did he
@@ -645,7 +663,7 @@ anything as Not-self. Seeing things as Not-self is only the **path** to
 Purityfootnote:[Purity refers to Arahatship. See <<ch-13-nibbana.adoc#suddhi,Suddhi -- Purity...>>] (or to
 __Nibbāna__). It is **not** Purity. ‘All things are Not-self. When this is
 seen with wisdom, one wearies oneself of Suffering. This is the path to
-Purity.’footnote:[https://suttacentral.net/dhp273-289/en/anandajoti[Dhp 279]]
+Purity.’ (https://suttacentral.net/dhp273-289/en/anandajoti[Dhp 279])
 The Arahat **has arrived** at Purity and lives in Purity.
 He has come to the end of ‘Not, this is my self’.
 
@@ -687,14 +705,18 @@ that *in* that _dhamma_ there is no __attā__. Such an assumption is a
 very grave lapse, seriously misleading, and missing the vital point. (To
 indicate that there is no permanent self-existent thing anywhere, a
 Buddha is not necessary. A Hume would do for that. Let alone *in* the
-Arahat, even *in* the _puthujjana_ there is no actual self.) This type
+Arahat, even *in* the _puthujjana_ there is no actual self.)
+
+This type
 of assumption will only lead us to the conclusion that, with regard to
 the problem of ‘self’, there is really no difference between the Arahat
 and the __puthujjana__. So that it will not lead us anywhere; since the
 real culprit -- that is, the *deception* of ‘self’ (which is there for
 the __puthujjana__, but not there for the Arahat) -- has been beautifully
 allowed to escape notice, and so will continue to remain as strong as it
-ever was. This is precisely what happens with the individual who thinks
+ever was.
+
+This is precisely what happens with the individual who thinks
 that when the Buddha says some _dhamma_ is __anattā__, all that is meant
 by it is that *in* the _dhamma_ there is no __attā__. He further seeks
 confirmation of this verbal understanding by analysing the Five Groups
@@ -715,7 +737,9 @@ As we have said earlier the Buddha is teaching with a definite purpose.
 He does not have to help us remove a self that actually does not exist.
 He is helping us to remove the *notion* of ‘self’ that exists with us.
 And he, and *only* he, can help us to remove this notion. His Teaching
-is one that is designed to lead on towards a specific goal. That is also
+is one that is designed to lead on towards a specific goal.
+
+That is also
 why he says that the _saṅkhārā_ are __aniccā__, without directly saying
 that the dhamma (which are __saṅkhatā__. and dependent on __saṅkhārā__)
 are __aniccā__. Further, his Teaching is also one that is ‘well said’
@@ -729,7 +753,7 @@ pass:[<br/><br/>]
 ‘Voice from beyond’ __(Parato ghoso)__ refers to the voice of an Arahat, the ‘beyond’ referring to Arahatship. See <<ch-13-nibbana.adoc#beyond,Pāraṁ -- The Beyond...>>]
 
 ‘What is impermanent, that is Suffering; what is Suffering, that is
-Not-self’ __(yad aniccaṁ taṁ dukkhaṁ, yaṁ dukkaṁ tad anattā)__.footnote:[https://suttacentral.net/sn22.15/en/bodhi[SN 22.15: What is Impermanent]]
+Not-self’ (__yad aniccaṁ taṁ dukkhaṁ, yaṁ dukkaṁ tad anattā__, https://suttacentral.net/sn22.15/en/bodhi[SN 22.15]).
 Here again, the Buddha is showing the person who is seeing
 things as ‘self’ how and why those things are Not-self. Wherever a
 ‘self’ is asserted the Buddha rejects it, and shows that there is no
