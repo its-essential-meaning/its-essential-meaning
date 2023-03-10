@@ -254,7 +254,7 @@ _Upādisesa_ means ‘residue’, or ‘that which is remaining’.
 However, we find this word used in the Suttas to refer to two different
 things that remain. Usually it refers to the _pañcakkhandha_ (the Five
 Groups) which is what is remaining with regard to the Arahat. But, for
-instance, in the _Satipatthāna Sutta_ (https://suttacentral.net/mn10/en/sujato[MN 10]) it is used to
+instance, in the _Satipaṭṭhāna Sutta_ (https://suttacentral.net/mn10/en/sujato[MN 10]) it is used to
 refer to that which remains with regard to the _anāgāmi_. In the former
 case it denotes the difference between _sa-upādisesa nibbānadhātu_ and
 __anupādisesa nibbānadhātu__.footnote:[See <<ch-13-nibbana.adoc#remainder,Chapter 13: Nibbāna, ‘Now, Arahatship as we saw...’>>]
