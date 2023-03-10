@@ -18,7 +18,7 @@
 :toc-title: Contents
 :toclevels: 0
 
-include::{includes}/preface.adoc[]
+include::{includes}/ch-00-preface.adoc[]
 
 include::{includes}/titlepage.adoc[]
 
