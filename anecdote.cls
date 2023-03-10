@@ -227,8 +227,8 @@
 
 % toc
 
-\newcommand\tocFont\sourceSerifDisplayFont
-\newcommand\tocFontOldNum\sourceSerifDisplayFont
+\newcommand\tocFont\crimsonRomanFont
+\newcommand\tocFontOldNum\crimsonRomanFontOldNum
 
 % Some default font sizes, use \renewcommand to adjust
 
@@ -873,6 +873,7 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \addtodef{\backmatter}{}{%
+  \addtocontents{toc}{\addvspace{15pt}}%
   \bookmarksetup{startatroot}%
 }
 
@@ -965,7 +966,7 @@ philo-sophical munindo amaravati thai-land}
 \contentsmargin{-5pt}
 
 \newlength\tocLeftWidth
-\setlength\tocLeftWidth{10mm}
+\setlength\tocLeftWidth{5mm}
 
 % Roman numerals in the chapter title TOC chapter entries.
 %\renewcommand\thechapter{\Roman{chapter}}
@@ -1024,15 +1025,14 @@ philo-sophical munindo amaravati thai-land}
 {\contentsmargin{0pt}}
 {}
 
-\titlecontents{chapter}[\tocLeftWidth]
-{\addvspace{15pt}\fontsize{13}{13}\gentiumFont\selectfont}%
-{\contentsmargin{0pt}}
-{\contentsmargin{0pt}%
-\itshape}
+\titlecontents{chapter}[\tocLeftWidth + 1.5em]
+{\addvspace{8pt}\filright\fontsize{13}{20}\tocFont\selectfont}%
+{\contentsmargin{0pt} \contentslabel[\thecontentslabel.]{1.5em}}
+{\contentsmargin{0pt} \itshape}
 {\hfill\normalsize\tocFont\thecontentspage}
 
 \titlecontents{appendix}[\tocLeftWidth]
-{\addvspace{30pt}\fontsize{13}{13}\crimsonRomanFont\bfseries\selectfont}%
+{\addvspace{30pt}\fontsize{13}{13}\crimsonRomanFont\selectfont}%
 {\contentsmargin{0pt}%
 \itshape}
 {\contentsmargin{0pt}%
