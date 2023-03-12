@@ -111,7 +111,11 @@ as that on which depends __(paṭicca)__ life.
 It might assist the reader to see the above mentioned relationships
 better if they are presented in the following figure:
 
-FIXME: add figure.
+<<<<<
+
+image::sankhara-meanings.jpg[]
+
+<<<<<
 
 Thus, firstly, _saṅkhāra_ is synonymous with intention as adopted in the
 case of the fourth Group in the Five Groups. Secondly, in the
