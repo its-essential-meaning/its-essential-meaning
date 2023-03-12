@@ -4,13 +4,13 @@
 :author: R.G. de S. Wettimuny
 :creator: {author}
 :version: v1.0
-:revdate: 2021-09-18
+:revdate: 2023-03-12
 :doctype: book
 :lang: en
 :keywords: Wettimuny, Dhamma, Buddhism, RELIGION / Buddhism / Theravada
 :copyright: CC-BY-NC-ND 4.0
 :isbn: 000-0-00000-000-0
-:identifier: isbn:{isbn}
+:identifier: uuid:295de039-7a87-4965-8ca9-7b2461f76f44
 :imagesdir: assets/photos/92dpi-ebook-sRGB
 :includes: manuscript/asciidoc
 :front-cover-image: image:desktop-cover.jpg[Front Cover,750,1200]
@@ -18,9 +18,10 @@
 :toc-title: Contents
 :toclevels: 0
 
-include::{includes}/ch-00-preface.adoc[]
-
 include::{includes}/titlepage.adoc[]
+
+include::{includes}/ch-00-preface.adoc[]
+include::{includes}/ch-00-notes-on-the-second-edition.adoc[]
 
 include::{includes}/ch-01-grasping.adoc[]
 include::{includes}/ch-02-consciousness.adoc[]

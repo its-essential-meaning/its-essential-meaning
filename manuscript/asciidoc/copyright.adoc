@@ -1,8 +1,26 @@
 [#copyright, colophon]
 = Copyright
 
-CC-BY-NC-ND 4.0
+{booktitle} -- {description} +
+by {author}
 
-TODO
+Digital Edition {version}
+
+Copyright © R.G. de S. Wettimuny 1969
+
+Cover: Ruwanweli Maha Seya, Anuradhapura, Sri Lanka, one of the stupas where parts of the Buddha's relics are enshrined.
+
+Download this book in PDF, EPUB and MOBI formats at the following address:
+
+<https://its-essential-meaning.github.io>
 
 First published in May 1969
+
+Second Edition, 2023
+
+image::cc-by-nc-nd.png[creative commons, role=cc-icon]
+
+This work is licensed under a Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+<https://creativecommons.org/licenses/by-nc-nd/4.0/>

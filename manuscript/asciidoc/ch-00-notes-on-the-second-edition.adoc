@@ -10,7 +10,7 @@ and the contents are more accessible in the electronic formats commonly used tod
 The pages were scanned, OCR-ed, the OCR errors corrected, and the contents formatted in the present volume.
 The sutta references were transcribed to their currently used numbering system with hyperlinks to the online texts.
 
-Italics are used for Pali terms, and the author's emphasis is formatted in *bold-italics* to avoid being mixed up.
+Italics are used for Pali terms, and the author's emphasis is formatted in *bold* to avoid being mixed up.
 
 As for the translation of __āsava__, we replaced the term ‘cankers’,
 (which was the translation used by I. B. Horner in the PTS editions)
