@@ -15,7 +15,7 @@ Italics are used for Pali terms, and the author's emphasis is formatted in *bold
 As for the translation of __āsava__, we replaced the term ‘cankers’,
 (which was the translation used by I. B. Horner in the PTS editions)
 with the currently more common term ‘taints’
-(used by Bhikkhu Bodhi in the Wisdom Publication editions)
+(used by Bhikkhu Bodhi in the Wisdom Publications editions)
 as the author was not discussing a particular choice of translation
 and the latter is more easily recognizable to readers today.
 
