@@ -143,8 +143,8 @@
 \definecolor{footnoterule}{gray}{0.5}
 \definecolor{header}{gray}{0.2}
 \definecolor{footer}{gray}{0.2}
-\definecolor{chapternum}{gray}{0.2}
-\definecolor{chaptertitle}{gray}{0.2}
+\definecolor{chapternum}{gray}{0.1}
+\definecolor{chaptertitle}{gray}{0.1}
 \definecolor{chaptertitlefootnote}{gray}{0.4}
 \definecolor{chapterauthor}{gray}{0.3}
 \definecolor{chapternote}{gray}{0.3}
@@ -1026,13 +1026,13 @@ philo-sophical munindo amaravati thai-land}
 {}
 
 \titlecontents{chapter}[\tocLeftWidth + 1.5em]
-{\addvspace{8pt}\filright\fontsize{13}{20}\tocFont\selectfont}%
+{\addvspace{8pt}\filright\fontsize{11.5}{17}\tocFont\selectfont}%
 {\contentsmargin{0pt} \contentslabel[\thecontentslabel.]{1.5em}}
 {\contentsmargin{0pt} \itshape}
-{\hfill\normalsize\tocFont\thecontentspage}
+{\hspace*{1.0em}\hfill\normalsize\tocFont\thecontentspage}
 
 \titlecontents{appendix}[\tocLeftWidth]
-{\addvspace{30pt}\fontsize{13}{13}\crimsonRomanFont\selectfont}%
+{\addvspace{30pt}\fontsize{11.5}{17}\crimsonRomanFont\selectfont}%
 {\contentsmargin{0pt}%
 \itshape}
 {\contentsmargin{0pt}%
@@ -1670,7 +1670,7 @@ philo-sophical munindo amaravati thai-land}
 % \settypeblocksize{30\baselineskip + \topskip}{*}{0.599}% 1/1.667, 3:5, major 6th
 
 \settypeblocksize{162mm}{95mm}{*}
-\setlrmargins{*}{15mm}{*}
+\setlrmargins{*}{13mm}{*}
 
 \setulmargins{50pt}{*}{*}
 \setlength{\footskip}{30pt}
