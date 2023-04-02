@@ -4,7 +4,7 @@
 :author: R.G. de S. Wettimuny
 :creator: {author}
 :version: v1.0
-:revdate: 2023-03-12
+:revdate: 2023-04-02
 :doctype: book
 :lang: en
 :keywords: Wettimuny, Dhamma, Buddhism, RELIGION / Buddhism / Theravada
